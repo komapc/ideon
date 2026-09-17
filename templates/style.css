@@ -37,6 +37,9 @@ h2 { font-size: 1.35rem; margin: 2.2rem 0 .8rem; font-weight: 600; }
 h3 { font-size: 1.1rem; margin: 1.6rem 0 .5rem; font-weight: 600; }
 p, li { max-width: 40rem; }
 a { color: var(--accent); }
+a.term { color: inherit; text-decoration: underline dotted var(--muted); text-decoration-thickness: 1px; text-underline-offset: 3px; cursor: help; }
+a.term:hover { text-decoration-color: var(--accent); }
+:target { background: var(--th); }
 blockquote {
   margin: 1rem 0; padding: .6rem 1rem; background: var(--code); border-left: 3px solid var(--accent);
   font-family: "Cambria Math", "STIX Two Math", Georgia, serif;
