@@ -8,14 +8,15 @@ ROOT = Path(__file__).parent
 CONTENT, DOCS, TPL = ROOT / "content", ROOT / "docs", ROOT / "templates"
 
 SITE = {"ru": "Идеонология", "en": "Ideonology"}
-DESC = {"ru": "Теория смысла жизни, в которой смысл измерим: идеон, Вита, паритет.",
-        "en": "A theory of the meaning of life in which meaning is measurable: ideon, Vita, parity."}
+DESC = {"ru": "Теория смысла жизни, в которой смысл оцениваем с точностью до порядка: идеон, Вита, паритет.",
+        "en": "A theory of the meaning of life in which meaning can be estimated to an order of magnitude: ideon, Vita, parity."}
 NAV = [("index", {"ru": "Главная", "en": "Home"}),
        ("manifesto", {"ru": "Манифест", "en": "Manifesto"}),
        ("glossary", {"ru": "Словарь", "en": "Glossary"}),
        ("math", {"ru": "Математика", "en": "Mathematics"}),
        ("examples", {"ru": "Примеры", "en": "Examples"}),
-       ("comparison", {"ru": "Сравнение", "en": "Comparison"})]
+       ("comparison", {"ru": "Сравнение", "en": "Comparison"}),
+       ("protocol", {"ru": "Протокол", "en": "Protocol"})]
 ALT = {"ru": ("en", "English"), "en": ("ru", "Русский")}
 FOOTER = {"ru": "Идеонология · 2026 · текст свободен для переизлучения (CC BY 4.0)",
           "en": "Ideonology · 2026 · free to re-emit (CC BY 4.0)"}

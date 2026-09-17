@@ -8,6 +8,8 @@ title: Manifesto
 
 The meaning of a person's life is how much they changed reality. And the only reality in which anything can mean something is other people's heads. A river no one has ever seen exists, but it means nothing: meaning is always for someone. So there is one measure: how much of other people's thought you shifted, and by how far.
 
+Measurable here means estimable in the Fermi sense: to an order of magnitude, like the mass of a star or the age of a language. The absolute figures on this site may be off by a factor of ten; the ordering between people is not. It is a scale, not a ruler. The [rules of counting](protocol.html) are written down separately, and the first example was computed under them before the answer was known; the other tables on this site are earlier estimates not yet re-run under those rules.
+
 ## 2. The unit
 
 One minute of someone else's thought, shifted by one degree. We call it an **ideon**.

@@ -1,7 +1,7 @@
 # Идеонология / Ideonology
 
-Теория смысла жизни, в которой смысл измерим. Единица — **идеон**: одна минута чужой мысли, сдвинутая на один градус.
-A theory of the meaning of life in which meaning is measurable. The unit is the **ideon**: one minute of someone else's thought, shifted by one degree.
+Теория смысла жизни, в которой смысл оцениваем с точностью до порядка. Единица — **идеон**: одна минута чужой мысли, сдвинутая на один градус.
+A theory of the meaning of life in which meaning can be estimated to an order of magnitude. The unit is the **ideon**: one minute of someone else's thought, shifted by one degree.
 
 Сайт / site: https://komapc.github.io/ideon/ — [русский](https://komapc.github.io/ideon/ru/) · [English](https://komapc.github.io/ideon/en/)
 

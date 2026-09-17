@@ -34,7 +34,7 @@ If the participants in minute m are N = {1, …, n}, the share of participant A 
 
 > w<sub>A</sub> = Σ<sub>S ⊆ N∖{A}</sub> |S|! (n − |S| − 1)! / n! × [v(S ∪ {A}) − v(S)]
 
-where v(S) is the degree that would have resulted from the efforts of coalition S alone. This is the only division rule satisfying four axioms: efficiency (shares add up to the whole), symmetry (equal contribution, equal share), zero for zero contribution, and additivity.
+where v(S) is the degree that would have resulted from the efforts of coalition S alone. The world without A is not a single world: without A the result might not have happened, might have happened later, or through someone else. So v(S) is not the degree in one imagined world but the expectation over the distribution of such worlds, and A's share is the expected loss from removing A. This is the only division rule satisfying four axioms: efficiency (shares add up to the whole), symmetry (equal contribution, equal share), zero for zero contribution, and additivity.
 
 The intuition: your share equals what would disappear if you were removed. Hence irreplaceability as the main multiplier. A reteller can be replaced by another reteller; the author cannot. The doctor on call can be replaced; the only paramedic cannot. Mitochondrial Eve is replaceable: had she died childless, someone else would have been Eve, and by the zeroth law the minutes would have remained the same. For history, v(S) cannot be measured directly: the shares in the tables are estimated by a single counterfactual question, whether the same would have happened without this person and how much later, and after degrees this is the largest source of error.
 

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Protocol · Ideonology</title>
+<meta name="description" content="A theory of the meaning of life in which meaning can be estimated to an order of magnitude: ideon, Vita, parity.">
+<link rel="alternate" hreflang="ru" href="../ru/protocol.html">
+<link rel="stylesheet" href="../style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⟳</text></svg>">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="../en/index.html">Ideonology</a>
+  <nav><a href="index.html">Home</a> <a href="manifesto.html">Manifesto</a> <a href="glossary.html">Glossary</a> <a href="math.html">Mathematics</a> <a href="examples.html">Examples</a> <a href="comparison.html">Comparison</a> <a href="protocol.html" class="current">Protocol</a></nav>
+  <a class="lang" href="../ru/protocol.html" hreflang="ru">Русский</a>
+</header>
+<main>
+<h1 id="counting-protocol">Counting protocol</h1>
+<p>Every figure on the <a href="examples.html">examples</a> page is a Fermi estimate made before the rules were written down. Here it is the other way round: the rules come first, and the example is computed under them afterwards. The order is fixed in the repository history: the commit with the rules precedes the commit with the calculation. <a href="https://github.com/komapc/ideon/commits/main/content/en/protocol.md">Page history on GitHub</a>.</p>
+<h2 id="1-rules">1. Rules</h2>
+<p>Written before the calculation and not changed after it. If a rule turned out badly, that is recorded as a result of the test, and the number is not fitted.</p>
+<p><strong>R1. Inputs.</strong> Only external, checkable quantities: documents, statistics, publications. Every number with a reference. The site author's own estimate is not an input.</p>
+<p><strong>R2. What is counted.</strong> One channel of emission, declared in advance. Side channels, such as fame, stories about the person and people inspired by them, are not counted unless declared before the calculation.</p>
+<p><strong>R3. Minutes M.</strong> A saved life is the whole remaining life of the person saved; for a newborn, 1 Vt = 2.5 × 10⁷ minutes. A text read is reading time × number of readers. A speech heard is duration × listeners.</p>
+<p><strong>R4. Horizon.</strong> The account runs from the start of emission to the moment of calculation. The future is not counted, except for lives already begun: those are counted to their end.</p>
+<p><strong>R5. Degree G.</strong> Fixed categories; the nearest one is chosen, interpolation is forbidden.</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Category</th>
+<th>G</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Life instead of death</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Severe disability prevented</td>
+<td>0.5</td>
+</tr>
+<tr>
+<td>Frame, conversion: changed what one lives by</td>
+<td>0.5</td>
+</tr>
+<tr>
+<td>Knowledge or skill where other sources exist</td>
+<td>0.2</td>
+</tr>
+<tr>
+<td>Opinion</td>
+<td>0.05</td>
+</tr>
+<tr>
+<td>Attention without shift</td>
+<td>0.01</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>R6. Share.</strong> List every link in the chain without which the result would have been different. For each link, two numbers: p, the probability the result would have happened without it; d, the fraction of the horizon lost to delay if it had. Raw weight w = (1 − p) + p × d. Share of a link = w / Σw. This is a chain approximation of the Shapley value: reproducible and efficient.</p>
+<p><strong>R7. Sign S.</strong> By result. Search for documented harm from the same channel: lawsuits, product recalls, medical complications, recognized victims. If found, S = (benefit − harm) / (benefit + harm) in minutes. If the search was done and found nothing, S = +1, stating where the search was made. S = +1 is not assigned without a search.</p>
+<p><strong>R8. Coherence Q.</strong> The fraction of emissions whose sign by intention matched the sign by result. For one channel with one documented intention: 1 if they matched, 0 if not.</p>
+<p><strong>R9. Error.</strong> Every input is an interval. The result is computed at the extreme values and reported as an interval and an order of magnitude. No point figure is reported.</p>
+<p><strong>R10. Judgment points.</strong> Every place where a rule does not determine the number uniquely is marked ◆ and given an interval with an explanation. Their count is also a result of the test.</p>
+<p><strong>R11. No fitting.</strong> After the result is obtained, rules, categories and intervals are not changed. A discrepancy with previously published figures is recorded, not removed.</p>
+<h2 id="2-declared-example">2. Declared example</h2>
+<p><strong>James Harrison</strong> (1936–2025), Australian donor of plasma with anti-D antibodies. Chosen because he has exactly one channel of emission, a deed, and the inputs exist in documents: the number of donations, the number of doses, the epidemiology of Rh disease.</p>
+<p>By R2 only the plasma channel is counted. His fame, and donors who came because of his story, are not counted: that is a second channel, and its rules are not declared here.</p>
+<p>Inputs to be found before the calculation:</p>
+<ol>
+<li>Number of donations and years.</li>
+<li>Number of anti-D doses made with his plasma, and the year the program began.</li>
+<li>Number of births in Australia during the program.</li>
+<li>Mortality from hemolytic disease of the newborn before and after prophylaxis.</li>
+<li>The share of the fall in mortality attributable to anti-D rather than to intrauterine transfusion and neonatal care.</li>
+<li>Size of the anti-D donor pool in Australia.</li>
+<li>History of the discovery of anti-D: how many independent groups.</li>
+<li>Documented harm from anti-D.</li>
+</ol>
+<p>The calculation is in the next commit.</p>
+</main>
+<footer>
+  <span>Ideonology · 2026 · free to re-emit (CC BY 4.0)</span>
+  <a href="https://github.com/komapc/ideon">GitHub</a>
+</footer>
+</body>
+</html>

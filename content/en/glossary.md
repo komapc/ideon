@@ -36,7 +36,7 @@ Terms are given in pairs so that the Russian and English versions of this site t
 
 **Degree (G), depth** — how much a minute of thought differs from what it would have been without you. Formally, the angle between a person's behavioral trajectory with the ideon and without it: 0° means nothing changed, 90° means the person is thinking about something they otherwise never would have, 180° means a reversal, a conversion. In calculations the degree is normalized to one: G = angle / 180°.
 
-**Share** — the part of an ideon that belongs to you when others were involved. Computed by irreplaceability: your share equals what would disappear if you were removed from the chain. Formally, the Shapley value.
+**Share** — the part of an ideon that belongs to you when others were involved. Computed by irreplaceability: your share equals what would disappear if you were removed from the chain, in expectation over all plausible worlds without you. Formally, the Shapley value.
 
 **Irreplaceability** — the measure of how different the outcome would be without you. A city doctor can be replaced by the one on call and gets a small share of the saved life; a village paramedic, the only one for a hundred kilometers, gets all of it.
 
