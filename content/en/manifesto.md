@@ -6,7 +6,7 @@ title: Manifesto
 
 ## 1. The meaning of a life is measurable
 
-The meaning of a person's life is how much they changed reality. And the only reality in which anything can mean something is other people's heads. A river no one has ever seen means nothing. So there is one measure: how much of other people's thought you shifted, and by how far.
+The meaning of a person's life is how much they changed reality. And the only reality in which anything can mean something is other people's heads. A river no one has ever seen exists, but it means nothing: meaning is always for someone. So there is one measure: how much of other people's thought you shifted, and by how far.
 
 ## 2. The unit
 
@@ -32,7 +32,7 @@ An ideon is a flow, not a stock. It dissipates the moment a person forgets. The 
 
 ## 7. There is a threshold
 
-One **Vita** is all the thought of one person over a lifetime, twenty-five million minutes. You received your Vita on credit: from language, from your parents, from your friends, from people you will never know. **Parity** is the moment you have returned as much into other people's heads. The average person dies at 0.4 Vita. The threshold is reachable, but not by default.
+One **Vita** is all the thought of one person over a lifetime, twenty-five million minutes. You received your Vita on credit: from language, from your parents, from your friends, from people you will never know. **Parity** is the moment you have returned as much into other people's heads. The typical person dies at 0.4 Vita. The threshold is reachable, but not by default.
 
 ## 8. The largest account is unsigned
 

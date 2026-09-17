@@ -14,7 +14,7 @@ The impact of a person A is the sum over all minutes of other people's thought t
 
 where G(m) ∈ [0, 1] is the degree of shift of minute m, and w<sub>A</sub>(m) is A's share of that minute. The unit of measurement is the ideon: one minute at G = 1 and w = 1.
 
-I is dimensionless with respect to "person": a child's minute and an academician's minute weigh the same. This is not an assumption but a symmetry, and the first conservation law follows from it.
+I is dimensionless with respect to "person": a child's minute and an academician's minute weigh the same. This is an egalitarian axiom, the equality of heads, and the zeroth law, the budget of minutes, follows from it. The first law follows from a different axiom: Shapley efficiency.
 
 ## 2. Degree as an angle
 
@@ -22,7 +22,7 @@ Let T₁ be a person's behavioral trajectory after meeting the ideon (what they 
 
 > G = ∠(T₁, T₀) / 180°
 
-0°: nothing changed. 90°: a new topic; the person is thinking about something they otherwise never would have. 180°: a reversal. The ceiling of 180° arises on its own, and it sets the third law.
+0°: nothing changed. 90°: a new topic; the person is thinking about something they otherwise never would have. 180°: a reversal. The ceiling of 180° arises on its own, and it sets the third law. Behavior space is not Euclidean, and "angle" here is a name for the distance between two distributions of future words and deeds, with the ideon and without it.
 
 Practical estimates of G, in increasing order of precision: a survey ("would you have thought about this otherwise?"); a behavioral test (A/B, a randomized trial); a predictive test (how many bits better a person's subsequent words and actions can be predicted if one knows about the ideon); embeddings of texts before and after, where the cosine gives the angle directly.
 
@@ -36,7 +36,7 @@ If the participants in minute m are N = {1, …, n}, the share of participant A 
 
 where v(S) is the degree that would have resulted from the efforts of coalition S alone. This is the only division rule satisfying four axioms: efficiency (shares add up to the whole), symmetry (equal contribution, equal share), zero for zero contribution, and additivity.
 
-The intuition: your share equals what would disappear if you were removed. Hence irreplaceability as the main multiplier. A reteller can be replaced by another reteller; the author cannot. The doctor on call can be replaced; the only paramedic cannot. Mitochondrial Eve is replaceable: had she died childless, someone else would have been Eve, and by the zeroth law the minutes would have remained the same.
+The intuition: your share equals what would disappear if you were removed. Hence irreplaceability as the main multiplier. A reteller can be replaced by another reteller; the author cannot. The doctor on call can be replaced; the only paramedic cannot. Mitochondrial Eve is replaceable: had she died childless, someone else would have been Eve, and by the zeroth law the minutes would have remained the same. For history, v(S) cannot be measured directly: the shares in the tables are estimated by a single counterfactual question, whether the same would have happened without this person and how much later, and after degrees this is the largest source of error.
 
 A first approximation for long chains: minutes (reach) go to the deliverer, the reteller, publisher, translator; degrees (depth) go to the author. A reteller who improves the idea takes a portion of the degrees.
 
@@ -46,7 +46,7 @@ The chain of causes is infinite backwards. Without damping the sum of shares div
 
 > Σ<sub>along the chain</sub> w = c < ∞
 
-The constant c is the same for everyone, so comparisons between people do not depend on it. This is exactly the damping factor from PageRank, and it is needed there for the same reason. Damping follows irreplaceability, not distance: a distant author can weigh more than a nearby reteller. The rate of damping is the theory's only value-laden parameter: fast damping gives a world of deeds, slow damping a world of culture. The question "who matters more, the doctor or Plato" is a question about one coefficient.
+The constant c is the same for everyone, so comparisons between people do not depend on it. The role is the same as that of the damping factor in PageRank: the sum has to converge. The mechanism is different. PageRank damps by distance, at every hop; here it is the Shapley shares themselves that decline, because the further back a link is, the more likely the result would have come about without it: truth is rediscovered, a reteller can be replaced. There is no separate multiplier on top of the shares; otherwise a distant author would be penalized twice. That is why damping follows irreplaceability, not distance: a distant author can weigh more than a nearby reteller. The rate of damping is the theory's only value-laden parameter, and it lives in how generously v(S) grants "it would have happened anyway": generously, and damping is fast and the world is one of deeds; stingily, and damping is slow and the world is one of culture. The question "who matters more, the doctor or Plato" is a question about one coefficient.
 
 The vertical chain (parents, ancestors) is cut off by irreplaceability itself: parents are credited not for the child's existence but for raising it, that is, for degrees, and within two or three generations an ancestor's share becomes indistinguishable from zero.
 
@@ -74,7 +74,7 @@ A bound, not a conservation law: the analogue of the speed of light.
 
 **Not conserved:** degrees (created and dissipated, no budget); sign (can change posthumously when an idea is put to different use; Christian grace zeroes it from outside); coherence (no budget and no rivalry; everyone raises their own toward one without taking from anyone).
 
-By Noether, each law corresponds to a symmetry. Minutes are conserved because all heads are equal. Credit is conserved because of the Shapley symmetry axiom. Sign is not conserved because it has no symmetry: the arbiter sets it.
+By Noether, each law corresponds to a symmetry. Minutes are conserved because all heads are equal. Credit is conserved because of the Shapley efficiency axiom. Sign is not conserved because it has no symmetry: the arbiter sets it.
 
 ## 6. Three axes
 
@@ -113,7 +113,7 @@ This is all the waking thought of one person over a lifetime: about 350,000 minu
 | 1 MVt | 2.5 × 10¹³ | a founder of a religion |
 | 1 GVt | 2.5 × 10¹⁶ | the Anonymous |
 
-Humanity's entire budget over all of history: about 117 billion people times 25 million minutes, on the order of 10¹⁸ ideons, or 40 GVt. Check: the average person accumulates about 10⁷; multiply by 117 billion and you get 10¹⁸ again. The constant c is about one, and the first law is not violated.
+Humanity's entire budget over all of history: about 117 billion people times 25 million minutes, on the order of 10¹⁸ ideons, or 40 GVt. Check: the typical person accumulates about 10⁷, and the mean over everyone, with the tail of the Anonymous and the founders, about 2.5 × 10⁷; multiply by 117 billion and you get on the order of 10¹⁸ again. The constant c is about one, and the first law is not violated.
 
 ## 9. The incoming account and parity
 
@@ -121,8 +121,8 @@ Every person has an incoming account: who shaped their minutes. By the first law
 
 > I(A) ≥ 1 Vt
 
-that is, repayment of the debt. The average person accumulates about 0.4 Vt by death, and most never reach the threshold.
+that is, repayment of the debt. The typical person accumulates about 0.4 Vt by death, and most never reach the threshold. The arithmetic mean is nonetheless exactly 1 Vt: the first law requires it at c = 1. The gap between median and mean is the heavy tail: the Anonymous and the founders of religions hold what the majority fell short of.
 
 ## 10. Limits of applicability
 
-The theory is mind-centric: a deed that touched no head weighs zero. A planted forest counts once someone has thought about it. Animal minutes are not counted for now; that is a separate decision. The theory systematically underrates art, because art shifts perception rather than behavior, and the angle catches that only indirectly. The scale of degrees is the main source of error in all estimates: the ordering between rows of the tables is robust, the absolute figures are good to one or two orders of magnitude.
+The theory is mind-centric: a deed that touched no head weighs zero. But touching runs along the causal chain, not through renown: a planted forest counts through the minutes it changed, shade, harvest, a village spared a drought, even if no one ever thought about the forest itself, just as a saved infant is credited to a donor it will never know of. A forest that touched no life weighs zero. Animal minutes are not counted for now; that is a separate decision. The theory systematically underrates art, because art shifts perception rather than behavior, and the angle catches that only indirectly. The scale of degrees is the main source of error in all estimates: the ordering between rows of the tables is robust, the absolute figures are good to one or two orders of magnitude.

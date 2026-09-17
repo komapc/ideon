@@ -42,7 +42,7 @@ Terms are given in pairs so that the Russian and English versions of this site t
 
 **Chain** — the path of an ideon from its source through retellers, teachers, parents and actors to the head in which it took effect. Credit is distributed along the whole chain with damping.
 
-**Damping** — the decline of shares along the chain, without which all impact would drain to the Big Bang. Not by distance but by irreplaceability: the reteller gets little, the author gets much. The theory's only free parameter, and the one that hides the whole "doctor or Plato" debate.
+**Damping** — the decline of shares along the chain, without which all impact would drain to the Big Bang. Not a separate multiplier on top of the shares but a property of the shares themselves: the further back the link, the more replaceable it is. Not by distance but by irreplaceability: the reteller gets little, the author gets much. The rate of damping is set by how generously we grant that the result "would have happened anyway"; that is the theory's only free parameter, and the one that hides the whole "doctor or Plato" debate.
 
 **Re-emission** — passing an ideon on: retelling, writing, raising, acting. The only way for an ideon to outlive the minute in which it arose.
 
@@ -62,7 +62,7 @@ Terms are given in pairs so that the Russian and English versions of this site t
 
 **Vita (Vt)** — all the thought of one person over a lifetime: 1 Vt ≡ 2.5 × 10⁷ ideons, by definition, the way the speed of light is fixed. Convenient subunits: the microvita (µVt, 25 ideons) is one conversation; the millivita (mVt) is one deed; the Vita is one biography.
 
-**Parity** — the threshold of one Vita: whether you have shifted more in other heads than you have thought in your own. Below it you are a net absorber, above it a net emitter. The average person reaches about 0.4 Vt by death.
+**Parity** — the threshold of one Vita: whether you have shifted more in other heads than you have thought in your own. Below it you are a net absorber, above it a net emitter. The typical person (the median) reaches about 0.4 Vt by death; the arithmetic mean is exactly 1 Vt by the first law, and the heavy tail holds the difference.
 
 ## Dynamics
 
