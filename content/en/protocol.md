@@ -64,8 +64,8 @@ Inputs to be found before the calculation:
 |---|---|---|---|
 | 1 | Donations | 1,173 over 1954–2018; in the anti-D program from 1967 to 2018, 51 years | Lifeblood |
 | 2 | Doses containing his plasma | "more than 3 million" since 1967; the press says "2.4 million babies" | Lifeblood, CBS |
-| 3 | Births in Australia 1967–2024 | 15.3 million (58 years, 264 thousand a year on average; 292,318 in 2024) | ABS |
-| 4 | Mortality from hemolytic disease of the newborn | 46 per 100,000 births before prophylaxis, 1.6 after | GLOWM, Clarke et al. |
+| 3 | Births in Australia 1967–2024 | 15.3 million (58 years, 264 thousand a year on average; 292,318 in 2024) | ABS; yearly series via Wikipedia |
+| 4 | Mortality from hemolytic disease of the newborn | 46 per 100,000 births before prophylaxis, 1.6 after | GLOWM |
 | 5 | Share of the fall attributable to anti-D | sensitization fell 80–90%; mortality also fell with Doppler (1970s), intrauterine transfusion (1980s), neonatal care | BioDrugs, PMC |
 | 6 | Anti-D donor pool in Australia | under 200, 100–150 active | ABC, Lifeblood |
 | 7 | Discovery of anti-D | two independent groups: Liverpool (Finn, Clarke, 1960–64) and New York (Freda, Gorman, Pollack, 1963); Lasker Award 1980 to four | Lasker, Wikipedia |
@@ -90,28 +90,28 @@ Impact of the whole program: (4.3–9.2) × 10³ Vt, that is (1–2) × 10¹¹ i
 | Discovery, two groups | ◆ 0.8–0.9 (found independently twice in three years) | ◆ 0.09–0.26 (5–15 years of 58) | 0.18–0.41 |
 | National program, fractionation | ◆ 0.7–0.9 (imports) | ◆ 0.05–0.2 | 0.15–0.44 |
 | Donor pool without Harrison | ◆ 0.5–0.8 (imports) | ◆ 0.1–0.3 | 0.28–0.65 |
-| Clinicians | 0.99 | 0 | 0.01–0.05 |
+| Clinicians | 0.99 | 0 | 0.01 |
 | Harrison | 1 − s·r | 0 | s·r = 0.0004–0.05 |
 
 For Harrison, p splits into two numbers. ◆ s is his share of the pool's antibody: one of 100–200 donors, but 51 years and a high titre; 1–5%. ◆ r is the fraction of his supply the program could not have replaced: if donors can be immunized to order, the shortfall closes within a couple of years out of 51, r ≈ 0.04; if supply is scarce (Australia imports immunoglobulins, the pool is small), every donation is marginal, r = 1. Interval r = 0.04–1.
 
-Harrison's share = w / Σw: from 0.0004 / 1.55 to 0.05 / 0.67, that is **0.03–7%**.
+Harrison's share = w / Σw: from 0.0004 / 1.51 to 0.05 / 0.67, that is **0.03–7%**.
 
 **Result.** I = (1–2) × 10¹¹ × (0.0003–0.075) = 3 × 10⁷ – 2 × 10¹⁰ ideons:
 
 > **I(Harrison) = 1–700 Vt**, order of magnitude 10¹ Vt.
 
-**Sign (R7).** Harm from anti-D was searched for in NEJM, PubMed, Lifeblood reports and the Australian National Blood Authority. The Irish and East German hepatitis C outbreaks were found, each from a single infected donor; both are other pools, other countries. No case was found in the Australian channel. **S = +1.**
+**Sign (R7).** A web search was made for adverse events and contamination via anti-D. It surfaced the Irish and East German hepatitis C outbreaks, each from a single infected donor (NEJM, PubMed); both are other pools, other countries. No Australian case surfaced; Lifeblood and National Blood Authority reports were not read for harm. **S = +1.**
 
 **Coherence (R8).** The intention is documented: after transfusions at fourteen he pledged to become a donor, and donation was his only channel. The sign of intention and the sign of result matched. **Q = 1.**
 
-**Judgment points: nine.**
+**Judgment points: ten.** Carrying the British mortality series over to Australia is not marked separately: it is folded into the interval of f.
 
 ## 5. What the test showed
 
 **The earlier figure was wrong by one to four orders of magnitude.** The examples page gave Harrison 5–30 kVt. Under the rules he gets 1–700 Vt. Two errors: "2.4 million" is doses and mothers, not babies saved; the whole program saved thousands, not hundreds of thousands. And the 3–6% share was taken by plasma volume, not by replaceability: the donor pool is replenished by immunizing volunteers, and without any one donor most doses would still exist.
 
-**The interval spans three orders of magnitude, and nearly all of it is one number.** Of nine judgment points, eight together contribute a factor of about 10, while r, the replaceability of a donor in a scarce pool, contributes a factor of 25 on its own. This is exactly the warning on the [mathematics](math.html) page: v(S) is not measured but estimated. The rules are reproducible: a second person with the same inputs gets the same interval. Not the same number.
+**The interval spans three orders of magnitude, and half of it is one number.** Of ten judgment points, r, the replaceability of a donor in a replenishable pool, contributes a factor of 25 on its own; the other nine together contribute about 25 more, the largest of them, s, his share of the pool's antibody, being 5. This is exactly the warning on the [mathematics](math.html) page: v(S) is not measured but estimated. The rules are reproducible: a second person with the same inputs gets the same interval. Not the same number.
 
 **What holds.** Even at the lower bound Harrison is above the typical person (0.4 Vt); even at the upper bound he is two orders of magnitude below Trump (40 kVt). The whole Australian anti-D program is (4–9) × 10³ Vt, ten thousand biographies. The ordering between rows of the tables holds, the absolute figures do not, as the front page promises.
 
