@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{lang}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{title} · {site}</title>
+<meta name="description" content="{description}">
+<link rel="alternate" hreflang="{alt_lang}" href="{alt_href}">
+<link rel="stylesheet" href="{root}style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⟳</text></svg>">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="{root}{lang}/index.html">{site}</a>
+  <nav>{nav}</nav>
+  <a class="lang" href="{alt_href}" hreflang="{alt_lang}">{alt_label}</a>
+</header>
+<main>
+{body}
+</main>
+<footer>
+  <span>{footer}</span>
+  <a href="https://github.com/komapc/ideon">GitHub</a>
+</footer>
+</body>
+</html>
