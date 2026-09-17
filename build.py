@@ -29,6 +29,7 @@ def build_page(lang: str, slug: str, template: str):
     meta, body_md = parse((CONTENT / lang / f"{slug}.md").read_text(encoding="utf-8"))
     body = markdown.markdown(body_md, extensions=["tables", "sane_lists", "smarty"],
                              extension_configs={"smarty": {"smart_quotes": False, "smart_dashes": False}})
+    body = body.replace("<table>", '<div class="tbl"><table>').replace("</table>", "</table></div>")
     nav = " ".join(f'<a href="{s}.html"{" class=\"current\"" if s == slug else ""}>{names[lang]}</a>'
                    for s, names in NAV)
     alt_lang, alt_label = ALT[lang]

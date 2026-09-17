@@ -42,10 +42,11 @@ blockquote {
   font-family: "Cambria Math", "STIX Two Math", Georgia, serif;
 }
 blockquote p { margin: 0; }
-table { border-collapse: collapse; width: 100%; margin: 1rem 0 1.5rem; font-size: .9rem; display: block; overflow-x: auto; }
+.tbl { overflow-x: auto; margin: 1rem 0 1.5rem; }
+table { border-collapse: collapse; width: 100%; min-width: 38rem; font-size: .9rem; }
 th, td { text-align: left; vertical-align: top; padding: .45rem .6rem; border-bottom: 1px solid var(--line); }
 th { background: var(--th); font-family: system-ui, sans-serif; font-weight: 600; font-size: .82rem; }
-td:last-child { min-width: 14rem; }
+td:last-child { width: 38%; }
 sup, sub { line-height: 0; }
 hr { border: 0; border-top: 1px solid var(--line); margin: 2rem 0; }
 footer {
