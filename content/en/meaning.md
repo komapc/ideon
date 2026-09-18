@@ -20,11 +20,11 @@ If the trace counts, the question remains which function of it to take as the go
 
 | Variant | Goal | Who lives this way | What it does not see |
 |---|---|---|---|
-| Maximum in absolute terms | max \|I\| | Nietzsche, the conqueror, the influencer | The sign: Hitler and Gandhi are equal |
+| Maximum in absolute terms | max \|I\| | Nietzsche, the conqueror, the influencer | The sign: Hitler and Gandhi are indistinguishable |
 | Maximum in a direction | max I × S | Utilitarianism, effective altruism, Marxism, religions of salvation | Who sets the sign: the arbiters disagree |
 | Being right rather than large | S and Q; magnitude is indifferent | Kant, the Stoics | The result: a flawless intention with zero trace |
-| Minimum | min \|I\| | Epicurus, the hermit | The debt: his own Vita came from others |
-| Threshold | I ≥ 1 Vt, free after that | Raising children, teaching students, returning what was taken | Why the threshold is here: the unit is a convention |
+| Minimum | min \|I\| | Epicurus, the hermit | The debt: their own Vita came from others |
+| Threshold | I ≥ 1 Vt, free after that | Raising children, teaching students, returning what was taken | The difference above the threshold: 1 Vt and 400 kVt are the same to it |
 | Length rather than sum | R₀ > 1, a far horizon | Diotima, the three imperishables, longtermism | Those living now |
 | The name | max mentions of oneself | Fame, Herostratus | That the name fades faster than the content |
 | Without a name | max I at zero attribution | Taoism, a Wikipedia editor, the author of a proverb | Verification: there is nobody to present such an account to |
@@ -46,8 +46,8 @@ The variants combine. Direction plus length is longtermism. Absolute magnitude p
 ## 4. What the theory chooses
 
 - **It measures magnitude but does not call for maximizing it.** "The meaning of a life is how much you changed other people's heads" is a definition, not a command. The first row of the table describes the ruler, not the goal.
-- **The only norm the theory itself proposes is the threshold.** Parity: return the one Vita you received on credit. Above the threshold it prescribes nothing.
-- **Direction is plugged in separately.** The sign is a module with a choice of arbiter; the second and third rows of the table are choices of arbiter, not part of the ruler.
+- **The only quantitative norm the theory itself proposes is the threshold.** Parity: return the one Vita you received on credit. Above the threshold it prescribes nothing.
+- **Direction is plugged in separately.** The sign is a module with a choice of arbiter; the second row of the table is a choice of arbiter, not part of the ruler.
 - **It rejects the name.** The name dissipates faster than the content, so the advice is to repay the debt in anonymous ideons.
 
 Why the trace and not "from within": only the trace is visible from outside and comparable between people. Meaning from within can be judged by one person only, the one who lived it, and the ruler cannot be applied to it.

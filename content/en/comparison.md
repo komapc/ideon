@@ -29,7 +29,7 @@ The generic definition: **a consequentialist, causal, non-welfarist theory of th
 
 Put together: ideonology is Peirce's pragmatism applied to a life, with memetics as the unit, the Shapley value as the bookkeeping, and Tolstoy as the opponent on the coefficient.
 
-What the same schools propose to do with impact — maximize it, direct it, bring it to zero — is covered on the [Meaning](meaning.html) page.
+What the classical schools propose to do with impact — maximize it, direct it, bring it to zero — is covered on the [Meaning](meaning.html) page.
 
 ## 3. Schools and religions
 
