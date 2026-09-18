@@ -12,6 +12,7 @@ DESC = {"ru": "Теория смысла жизни, в которой смыс�
         "en": "A theory of the meaning of life in which meaning can be estimated to an order of magnitude: ideon, Vita, parity."}
 NAV = [("index", {"ru": "Главная", "en": "Home"}),
        ("manifesto", {"ru": "Манифест", "en": "Manifesto"}),
+       ("meaning", {"ru": "Смысл", "en": "Meaning"}),
        ("glossary", {"ru": "Словарь", "en": "Glossary"}),
        ("math", {"ru": "Математика", "en": "Mathematics"}),
        ("examples", {"ru": "Примеры", "en": "Examples"}),

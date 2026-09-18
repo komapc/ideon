@@ -13,6 +13,7 @@ All the thought of one person over a lifetime is one **Vita**. You received your
 ## Sections
 
 - [Manifesto](manifesto.html) — nine theses.
+- [Meaning](meaning.html) — the possible answers to the question of meaning, ten variants of the goal, and which one the theory takes.
 - [Glossary](glossary.html) — ideon, Vita, parity, degree, share, coherence, the Anonymous.
 - [Mathematics](math.html) — definitions, the Shapley value, four conservation laws, R₀ and Lindy.
 - [Examples](examples.html) — who leads in absolute terms, what money buys, three languages and one blood.

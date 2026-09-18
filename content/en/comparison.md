@@ -29,17 +29,9 @@ The generic definition: **a consequentialist, causal, non-welfarist theory of th
 
 Put together: ideonology is Peirce's pragmatism applied to a life, with memetics as the unit, the Shapley value as the bookkeeping, and Tolstoy as the opponent on the coefficient.
 
-## 3. Four theories in the language of impact
+What the same schools propose to do with impact — maximize it, direct it, bring it to zero — is covered on the [Meaning](meaning.html) page.
 
-**Nietzsche — pure magnitude.** The will to power is the drive to maximize impact regardless of sign. The Übermensch is not the one who collected minutes but the one who gives degrees: creates values, turns heads around. The "last man" is a consumer with high minutes and zero degrees. Slave morality in this language is an attempt to replace the axis of magnitude with the axis of sign.
-
-**Kant — intention only.** The only thing with moral worth is the good will. Impact as a result does not interest Kant: an act with zero influence can be morally perfect. Moreover, the unit itself is suspect: shifting someone's thought without their rational consent is using a person as a means. For Kant the influencer is a violator even at a positive degree.
-
-**Utilitarianism — result only.** The same bookkeeping in a different currency: pleasure minus suffering instead of minutes times degrees. The same problem of the account that never closes: consequences stretch on forever. The difference is that utilitarianism measures welfare, and ideonology measures thought.
-
-**Epicurus and the Stoics — zero, but for different reasons.** Epicurus says literally "live unnoticed": minimize impact for the sake of tranquility. The Stoics acknowledge magnitude but bracket it: the result is not in your power, so measure yourself by intention and be indifferent to the rest. Marcus Aurelius observes that posthumous fame is "an echo of an echo", and those who remember will die too. The first formulation of the second law.
-
-## 4. Schools and religions
+## 3. Schools and religions
 
 Two auxiliary terms. The **arbiter** is who assigns the sign and keeps the account. The **horizon** is when the account closes. Abbreviations: M — minutes, G — degrees, I — impact.
 
@@ -67,6 +59,6 @@ What stands out:
 - Non-conservation is admitted only by Christianity: grace zeroes the account from outside.
 - Taoism alone separates influence from credit: maximum degrees while renouncing attribution. A third position between Nietzsche and the Buddha.
 
-## 5. Meditation
+## 4. Meditation
 
 Meditation changes only your own degree without touching anyone else's. By the definition of the unit it yields zero impact. Its value is of a different kind: it raises the coherence of the emitter, that is, the match between what you want to shift and what you actually shift. It reduces noise and gives access to your own intention, without which the account by intention is unmeasurable even for yourself. The Buddha meditated and then collected one of the largest accounts in history: a workshop, not a product. The only axis where there is no zero-sum game.

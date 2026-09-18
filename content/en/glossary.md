@@ -8,6 +8,7 @@ Terms are given in pairs so that the Russian and English versions of this site t
 
 | Русский | English | Symbol |
 |---|---|---|
+| смысл | meaning | — |
 | идеон | ideon | — |
 | Вита | Vita | Vt |
 | паритет | parity | 1 Vt |
@@ -27,6 +28,8 @@ Terms are given in pairs so that the Russian and English versions of this site t
 | воспроизводство | reproduction number | R₀ |
 
 ## Core
+
+**Meaning** — here only the meaning of a life: the answer to "did you matter at all". The theory identifies it with the trace left in other people's heads and measures it as impact. Meaning from within, experience without a trace, it does not measure. More: [Meaning and its variants](meaning.html).
 
 **Ideon** — the unit of influence: one minute of someone else's thought, shifted by a full degree and fully attributed to one source. A flow, not a stock: an ideon comes into being at the moment of the shift and dissipates unless it is re-emitted.
 
