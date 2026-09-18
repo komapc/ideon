@@ -6,7 +6,7 @@ title: Ideonology
 
 A theory of the meaning of life in which meaning can be estimated: not to a ruler's precision but to an order of magnitude, and the ordering between people holds.
 
-The meaning of a person's life is how much they changed reality, and the only reality in which anything can mean something is other people's heads. What you shifted in someone else's head is an **ideon**. Ideons are worth different amounts; the unit of worth is the **peirce**: one minute of someone else's thought, shifted by one degree. Credit flows along the chain of causes to everyone without whom the result would not have happened. Sign and precision are separate axes. The largest account in history is unsigned.
+The meaning of a person's life is how much they changed reality, and the only reality in which anything can mean something is other people's heads. What you shifted in someone else's head is an **ideon**. Ideons come in different magnitudes; the unit of magnitude is the **peirce**: one minute of someone else's thought, shifted by one degree. Credit flows along the chain of causes to everyone without whom the result would not have happened. Sign and precision are separate axes. The largest account in history is unsigned.
 
 All the thought of one person over a lifetime is one **Vita**. You received yours on credit. **Parity** is the moment you have returned as much into other people's heads. The typical person dies at 0.4 Vita.
 

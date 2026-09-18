@@ -32,9 +32,9 @@ Terms are given in pairs so that the Russian and English versions of this site t
 
 **Meaning** — here only the meaning of a life: the answer to "did you matter at all". The theory identifies it with the trace left in other people's heads and measures it as impact. Meaning from within, experience without a trace, it does not measure. More: [Meaning and its variants](meaning.html).
 
-**Ideon** — a portion of influence: what one person shifted in someone else's head. An idea, a word, an example, a deed, a saved life. Not a unit of measurement: ideons are worth different amounts, and the worth of an ideon is measured in peirces. Ideons are not counted by the piece: the formula sums minutes, not ideons, so where one ideon ends and the next begins is a matter of convenience, not of theory. A flow, not a stock: an ideon comes into being at the moment of the shift and dissipates unless it is re-emitted.
+**Ideon** — a portion of influence: what one person shifted in someone else's head. An idea, a word, an example, a deed, a saved life. Not a unit of measurement: ideons come in different magnitudes, and the magnitude of an ideon is measured in peirces. Ideons are not counted by the piece: the formula sums minutes, not ideons, so where one ideon ends and the next begins is a matter of convenience, not of theory. A flow, not a stock: an ideon comes into being at the moment of the shift and dissipates unless it is re-emitted.
 
-**Impact (I)** — the total worth of all ideons credited to a person over all time, including after death; measured in peirces and Vitas. I = Σ M × G × share. It measures significance, not goodness: the sign is a separate axis.
+**Impact (I)** — the total magnitude of all ideons credited to a person over all time, including after death; measured in peirces and Vitas. I = Σ M × G × share. It measures significance, not goodness: the sign is a separate axis.
 
 **Minutes (M), reach** — how many minutes of other people's thought passed through your ideon. The only strictly bounded quantity: every person has exactly sixty minutes per hour, and humanity has population × sixty.
 
