@@ -8,9 +8,9 @@ title: Manifesto
 
 The meaning of a life is how much it changed other people's heads; there is no other reality in which anything can mean something. One measure: how much of other people's thought you shifted, and by how far. Measurable in the Fermi sense: to an order of magnitude, but the ordering between people holds. The [rules of counting](protocol.html) are written separately; the first example was computed under them before the answer was known, the other tables are earlier estimates.
 
-## 2. The unit
+## 2. The ideon and its worth
 
-An ideon: one minute of someone else's thought, shifted by one degree. A film seen by a million people for ten minutes is ten million minutes for the crew. A saved life is all of its future minutes, in share. A retelling is credit to you and to the author. A raised child is their minutes to the extent you shaped them.
+An ideon is what you shifted in someone else's head: a thought, an example, a deed. Ideons are worth different amounts. The unit of worth is the peirce: one minute of someone else's thought, shifted by one degree. A film seen by a million people for ten minutes is ten million minutes for the crew. A saved life is all of its future minutes, in share. A retelling is credit to you and to the author. A raised child is their minutes to the extent you shaped them.
 
 ## 3. Credit runs along the chain
 

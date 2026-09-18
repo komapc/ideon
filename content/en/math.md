@@ -12,7 +12,16 @@ The impact of a person A is the sum over all minutes of other people's thought t
 
 > I(A) = Σ<sub>minutes m</sub> G(m) × w<sub>A</sub>(m)
 
-where G(m) ∈ [0, 1] is the degree of shift of minute m, and w<sub>A</sub>(m) is A's share of that minute. The unit of measurement is the ideon: one minute at G = 1 and w = 1.
+where G(m) ∈ [0, 1] is the degree of shift of minute m, and w<sub>A</sub>(m) is A's share of that minute. The unit of measurement is the peirce (Ps): one minute at G = 1 and w = 1.
+
+**What counts as an ideon.** Anything that shifted someone else's minute: an idea, a book, a theory, a language, a habit, an institution, a deed nobody recognized as an idea. These are channels, not summands: the sum runs over minutes, and the boundary between ideons does not affect it. Euclid's geometry can be treated as one ideon or as the 465 propositions of the Elements; the number of peirces comes out the same. Four borderline cases:
+
+- A reader of an article avoided a mistake in a decision. What counts is the minutes of the decision and of its consequences that came out different from the world without the article; the degree is how different.
+- A reader merely saw a corrected figure. If their later minutes did not change, the degree is zero: no ideon occurred.
+- The figure was then used by the next person. That is re-emission, a new link in the chain; the share is split between the author of the figure, the editor and the reteller.
+- The author of the figure is unknown. Their share is credited to the Anonymous; the shares of the others do not grow because of it.
+
+An ideon has to be tracked as a thing only in section 7, for R₀ and the Lindy effect. Any trackable thing will do there — a word, a theorem, a custom; the slicing is a working convention.
 
 I is dimensionless with respect to "person": a child's minute and an academician's minute weigh the same. This is an egalitarian axiom, the equality of heads, and the zeroth law, the budget of minutes, follows from it. The first law follows from a different axiom: Shapley efficiency.
 
@@ -100,11 +109,11 @@ The age distribution of ideons is not exponential but power-law: the longer an i
 
 ## 8. Units
 
-> 1 Vt ≡ 2.5 × 10⁷ ideons
+> 1 Vt ≡ 2.5 × 10⁷ Ps
 
 This is all the waking thought of one person over a lifetime: about 350,000 minutes per year for 70 years. The coefficient is fixed by definition, like the speed of light. The symbol is Vt, because V is taken by the volt.
 
-| Subunit | Ideons | Scale |
+| Subunit | Peirces | Scale |
 |---|---|---|
 | 1 µVt | 25 | one conversation |
 | 1 mVt | 25,000 | one deed |
@@ -113,7 +122,7 @@ This is all the waking thought of one person over a lifetime: about 350,000 minu
 | 1 MVt | 2.5 × 10¹³ | a founder of a religion |
 | 1 GVt | 2.5 × 10¹⁶ | the Anonymous |
 
-Humanity's entire budget over all of history: about 117 billion people times 25 million minutes, on the order of 10¹⁸ ideons, or 40 GVt. Check: the typical person accumulates about 10⁷, and the mean over everyone, with the tail of the Anonymous and the founders, about 2.5 × 10⁷; multiply by 117 billion and you get on the order of 10¹⁸ again. The constant c is about one, and the first law is not violated.
+Humanity's entire budget over all of history: about 117 billion people times 25 million minutes, on the order of 10¹⁸ peirces, or 40 GVt. Check: the typical person accumulates about 10⁷, and the mean over everyone, with the tail of the Anonymous and the founders, about 2.5 × 10⁷; multiply by 117 billion and you get on the order of 10¹⁸ again. The constant c is about one, and the first law is not violated.
 
 ## 9. The incoming account and parity
 

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Mathematics · Ideonology</title>
-<meta name="description" content="A theory of the meaning of life in which meaning can be estimated to an order of magnitude: ideon, Vita, parity.">
+<meta name="description" content="A theory of the meaning of life in which meaning can be estimated to an order of magnitude: ideon, peirce, Vita, parity.">
 <link rel="alternate" hreflang="ru" href="../ru/math.html">
 <link rel="stylesheet" href="../style.css">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⟳</text></svg>">
@@ -19,11 +19,19 @@
 <h1 id="mathematics">Mathematics</h1>
 <p>This page collects the definitions and laws in a form that can be tested and argued with. Notation is in the <a href="glossary.html">glossary</a>.</p>
 <h2 id="1-the-basic-quantity">1. The basic quantity</h2>
-<p>The <a class="term" href="glossary.html#impact" title="the sum of ideons credited to a person: I = Σ M × G × share">impact</a> of a person A is the sum over all minutes of other people's thought that A was party to:</p>
+<p>The <a class="term" href="glossary.html#impact" title="the total worth of ideons credited to a person: I = Σ M × G × share">impact</a> of a person A is the sum over all minutes of other people's thought that A was party to:</p>
 <blockquote>
 <p>I(A) = Σ<sub>minutes m</sub> G(m) × w<sub>A</sub>(m)</p>
 </blockquote>
-<p>where G(m) ∈ [0, 1] is the <a class="term" href="glossary.html#degree" title="how much a minute of thought differs from what it would have been without you, 0 to 1">degree</a> of shift of minute m, and w<sub>A</sub>(m) is A's <a class="term" href="glossary.html#share" title="your part of an ideon: what would disappear without you; the Shapley value">share</a> of that minute. The unit of measurement is the <a class="term" href="glossary.html#ideon" title="one minute of someone else&#x27;s thought, shifted by one degree">ideon</a>: one minute at G = 1 and w = 1.</p>
+<p>where G(m) ∈ [0, 1] is the <a class="term" href="glossary.html#degree" title="how much a minute of thought differs from what it would have been without you, 0 to 1">degree</a> of shift of minute m, and w<sub>A</sub>(m) is A's <a class="term" href="glossary.html#share" title="your part of an ideon: what would disappear without you; the Shapley value">share</a> of that minute. The unit of measurement is the <a class="term" href="glossary.html#peirce" title="the unit of impact: one minute of someone else&#x27;s thought, shifted by one degree">peirce</a> (Ps): one minute at G = 1 and w = 1.</p>
+<p><strong>What counts as an <a class="term" href="glossary.html#ideon" title="a portion of influence: what you shifted in someone else&#x27;s head; its worth is measured in peirces">ideon</a>.</strong> Anything that shifted someone else's minute: an idea, a book, a theory, a language, a habit, an institution, a deed nobody recognized as an idea. These are channels, not summands: the sum runs over minutes, and the boundary between ideons does not affect it. Euclid's geometry can be treated as one ideon or as the 465 propositions of the Elements; the number of peirces comes out the same. Four borderline cases:</p>
+<ul>
+<li>A reader of an article avoided a mistake in a decision. What counts is the minutes of the decision and of its consequences that came out different from the world without the article; the degree is how different.</li>
+<li>A reader merely saw a corrected figure. If their later minutes did not change, the degree is zero: no ideon occurred.</li>
+<li>The figure was then used by the next person. That is <a class="term" href="glossary.html#reemission" title="passing an ideon on: retelling, writing, upbringing, a deed">re-emission</a>, a new link in the <a class="term" href="glossary.html#chain" title="the path of an ideon from its source to the head in which it took effect">chain</a>; the share is split between the author of the figure, the editor and the reteller.</li>
+<li>The author of the figure is unknown. Their share is credited to the <a class="term" href="glossary.html#anonymous" title="the account holding impact with no known source: language, fire, proverbs">Anonymous</a>; the shares of the others do not grow because of it.</li>
+</ul>
+<p>An ideon has to be tracked as a thing only in section 7, for <a class="term" href="glossary.html#r0" title="how many new carriers one carrier produces; above 1 the chain sustains itself">R₀</a> and the Lindy effect. Any trackable thing will do there — a word, a theorem, a custom; the slicing is a working convention.</p>
 <p>I is dimensionless with respect to "person": a child's minute and an academician's minute weigh the same. This is an egalitarian axiom, the equality of heads, and the zeroth law, the budget of minutes, follows from it. The first law follows from a different axiom: Shapley efficiency.</p>
 <h2 id="2-degree-as-an-angle">2. Degree as an angle</h2>
 <p>Let T₁ be a person's behavioral trajectory after meeting the ideon (what they say and do), and T₀ the counterfactual trajectory without it. Then</p>
@@ -40,7 +48,7 @@
 </blockquote>
 <p>where v(S) is the degree that would have resulted from the efforts of coalition S alone. The world without A is not a single world: without A the result might not have happened, might have happened later, or through someone else. So v(S) is not the degree in one imagined world but the expectation over the distribution of such worlds, and A's share is the expected loss from removing A. This is the only division rule satisfying four axioms: efficiency (shares add up to the whole), symmetry (equal contribution, equal share), zero for zero contribution, and additivity.</p>
 <p>The intuition: your share equals what would disappear if you were removed. Hence <a class="term" href="glossary.html#irreplaceability" title="how different the result would have been without you">irreplaceability</a> as the main multiplier. A reteller can be replaced by another reteller; the author cannot. The doctor on call can be replaced; the only paramedic cannot. Mitochondrial Eve is replaceable: had she died childless, someone else would have been Eve, and by the zeroth law the minutes would have remained the same. For history, v(S) cannot be measured directly: the shares in the tables are estimated by a single counterfactual question, whether the same would have happened without this person and how much later, and after degrees this is the largest source of error.</p>
-<p>A first approximation for long <a class="term" href="glossary.html#chain" title="the path of an ideon from its source to the head in which it took effect">chains</a>: minutes (reach) go to the deliverer, the reteller, publisher, translator; degrees (depth) go to the author. A reteller who improves the idea takes a portion of the degrees.</p>
+<p>A first approximation for long chains: minutes (reach) go to the deliverer, the reteller, publisher, translator; degrees (depth) go to the author. A reteller who improves the idea takes a portion of the degrees.</p>
 <h2 id="4-damping">4. Damping</h2>
 <p>The chain of causes is infinite backwards. Without <a class="term" href="glossary.html#damping" title="the decline of shares along the chain: the further the link, the more replaceable">damping</a> the sum of shares diverges and all impact drains to the Big Bang. What is required is that</p>
 <blockquote>
@@ -59,7 +67,7 @@
 <p>Σ<sub>A</sub> I(A) = c × Σ<sub>m</sub> G(m)</p>
 </blockquote>
 <p>This is the Shapley efficiency axiom. Credit can be gained only at the expense of another participant in the same chain receiving less.</p>
-<p><strong>Second law: dissipation.</strong> An ideon is a flow, not a stock. Any shift without <a class="term" href="glossary.html#reemission" title="passing an ideon on: retelling, writing, upbringing, a deed">re-emission</a> tends to zero: forgetting, distraction, death. The natural state of an ideon is to be forgotten. Posthumous impact is possible only through the chain.</p>
+<p><strong>Second law: dissipation.</strong> An ideon is a flow, not a stock. Any shift without re-emission tends to zero: forgetting, distraction, death. The natural state of an ideon is to be forgotten. Posthumous impact is possible only through the chain.</p>
 <p><strong>Third law: the speed limit.</strong> Since G ≤ 1, humanity's maximum impact per unit of time is bounded:</p>
 <blockquote>
 <p>dI/dt ≤ N × 60 × c</p>
@@ -75,7 +83,7 @@
 <p>I is magnitude, S ∈ [−1, 1] is sign, Q ∈ [0, 1] is coherence, defined as the correlation between sign-by-intention and sign-by-result over all of a person's emissions. If a single figure is needed, I × S × Q, where Q is a multiplier on the sign, not a value in its own right: a coherent villain is more dangerous than a chaotic one.</p>
 <p>At high Q, intention and result coincide, and either can be used for the count. At low Q, intention predicts nothing. Thus Q dissolves the classic dispute "intention or consequences": it says for whom that dispute even makes sense.</p>
 <h2 id="7-dynamics-r0-and-lindy">7. Dynamics: R₀ and Lindy</h2>
-<p>An ideon survives if the rate of re-emission is not below the rate of forgetting. Let <a class="term" href="glossary.html#r0" title="how many new carriers one carrier produces; above 1 the chain sustains itself">R₀</a> be the average number of new carriers produced by one carrier. Then</p>
+<p>An ideon survives if the rate of re-emission is not below the rate of forgetting. Let R₀ be the average number of new carriers produced by one carrier. Then</p>
 <blockquote>
 <p>R₀ &gt; 1: the chain sustains itself; R₀ &lt; 1: it dies out.</p>
 </blockquote>
@@ -84,14 +92,14 @@
 <p>The age distribution of ideons is not exponential but power-law: the longer an ideon has lived, the longer it has left (the Lindy effect). Survival is selection for the properties listed.</p>
 <h2 id="8-units">8. Units</h2>
 <blockquote>
-<p>1 Vt ≡ 2.5 × 10⁷ ideons</p>
+<p>1 Vt ≡ 2.5 × 10⁷ Ps</p>
 </blockquote>
 <p>This is all the waking thought of one person over a lifetime: about 350,000 minutes per year for 70 years. The coefficient is fixed by definition, like the speed of light. The symbol is Vt, because V is taken by the volt.</p>
 <div class="tbl"><table>
 <thead>
 <tr>
 <th>Subunit</th>
-<th>Ideons</th>
+<th>Peirces</th>
 <th>Scale</th>
 </tr>
 </thead>
@@ -124,13 +132,13 @@
 <tr>
 <td>1 GVt</td>
 <td>2.5 × 10¹⁶</td>
-<td>the <a class="term" href="glossary.html#anonymous" title="the account holding impact with no known source: language, fire, proverbs">Anonymous</a></td>
+<td>the Anonymous</td>
 </tr>
 </tbody>
 </table></div>
-<p>Humanity's entire budget over all of history: about 117 billion people times 25 million minutes, on the order of 10¹⁸ ideons, or 40 GVt. Check: the typical person accumulates about 10⁷, and the mean over everyone, with the tail of the Anonymous and the founders, about 2.5 × 10⁷; multiply by 117 billion and you get on the order of 10¹⁸ again. The constant c is about one, and the first law is not violated.</p>
+<p>Humanity's entire budget over all of history: about 117 billion people times 25 million minutes, on the order of 10¹⁸ peirces, or 40 GVt. Check: the typical person accumulates about 10⁷, and the mean over everyone, with the tail of the Anonymous and the founders, about 2.5 × 10⁷; multiply by 117 billion and you get on the order of 10¹⁸ again. The constant c is about one, and the first law is not violated.</p>
 <h2 id="9-the-incoming-account-and-parity">9. The incoming account and parity</h2>
-<p>Every person has an incoming account: who shaped their minutes. By the first law it equals exactly one <a class="term" href="glossary.html#vita" title="all the thought of one person over a lifetime: 2.5 × 10⁷ ideons">Vita</a>. Parity is the condition</p>
+<p>Every person has an incoming account: who shaped their minutes. By the first law it equals exactly one <a class="term" href="glossary.html#vita" title="all the thought of one person over a lifetime: 2.5 × 10⁷ peirces">Vita</a>. Parity is the condition</p>
 <blockquote>
 <p>I(A) ≥ 1 Vt</p>
 </blockquote>

@@ -4,11 +4,11 @@ title: Examples
 
 # Examples and estimates
 
-All figures are Fermi estimates, accurate to an order of magnitude. The ordering between rows is robust to any reasonable choice of parameters; the absolute values are not. Conventions: 1 ideon = 1 minute of someone else's thought at degree 1 and share 1; 1 Vt = 2.5 × 10⁷ ideons; a person has about 350,000 waking minutes per year.
+All figures are Fermi estimates, accurate to an order of magnitude. The ordering between rows is robust to any reasonable choice of parameters; the absolute values are not. Conventions: 1 peirce = 1 minute of someone else's thought at degree 1 and share 1; 1 Vt = 2.5 × 10⁷ peirces; a person has about 350,000 waking minutes per year.
 
 ## 1. Who leads in absolute terms
 
-| Who | Minutes of attention | Degree | Share | Ideons | Vt |
+| Who | Minutes of attention | Degree | Share | Peirces | Vt |
 |---|---|---|---|---|---|
 | Typical person (median) | ~10⁷ (children, family, friends) | 0.3–1 | 0.5–1 | ~10⁷ | 0.4 |
 | Active Wikipedia editor | + 10⁶–10⁷ page views per year | 0.2 | 0.5 | ~2 × 10⁷ | 0.8 |
@@ -47,7 +47,7 @@ Wikipedia is the model case of repaying the debt: anonymous ideons by charter, a
 
 A billion dollars buys two or three Vitas if spent on minutes, and tens of thousands if spent on degrees.
 
-| Channel, $1 billion | Calculation | Ideons per $ | Vt |
+| Channel, $1 billion | Calculation | Peirces per $ | Vt |
 |---|---|---|---|
 | Advertising | 10¹¹ impressions × 5 s × degree 0.01 | ~0.1 | ~3 |
 | Hiring | 10⁴ person-years × 10⁵ min × 0.3 × share 0.1 | ~0.03 | ~1 |

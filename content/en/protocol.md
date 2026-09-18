@@ -81,7 +81,7 @@ Input 2 does not enter the calculation: a dose is not a life. It is listed becau
 
 Deaths averted: 3,400–6,100. Severe disability averted (kernicterus in survivors) ◆ 0.5–1 per death, R5 category "disability", G = 0.5. Life-equivalents: 4,250–9,150. Each is a newborn and by R4 counts to the end: 1 Vt.
 
-Impact of the whole program: (4.3–9.2) × 10³ Vt, that is (1–2) × 10¹¹ ideons.
+Impact of the whole program: (4.3–9.2) × 10³ Vt, that is (1–2) × 10¹¹ peirces.
 
 **Share (R6).** Links in the chain from discovery to the dose in the midwife's hand:
 
@@ -97,7 +97,7 @@ For Harrison, p splits into two numbers. ◆ s is his share of the pool's antibo
 
 Harrison's share = w / Σw: from 0.0004 / 1.51 to 0.05 / 0.67, that is **0.03–7%**.
 
-**Result.** I = (1–2) × 10¹¹ × (0.0003–0.075) = 3 × 10⁷ – 2 × 10¹⁰ ideons:
+**Result.** I = (1–2) × 10¹¹ × (0.0003–0.075) = 3 × 10⁷ – 2 × 10¹⁰ peirces:
 
 > **I(Harrison) = 1–700 Vt**, order of magnitude 10¹ Vt.
 

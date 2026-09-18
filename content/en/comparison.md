@@ -16,7 +16,7 @@ The generic definition: **a consequentialist, causal, non-welfarist theory of th
 ## 2. Closest relatives
 
 - **Diotima's speech in Plato's Symposium.** All people want immortality, and there is a ladder: some beget children of the body, others fame through deeds, and the highest beget "children of the soul" (Homer, Hesiod, Lycurgus, Solon), and the children of the soul are more immortal. The closest classical relative.
-- **Peirce's pragmatism.** The meaning of a concept equals the sum of its practical consequences. Ideonology applies this maxim not to a concept but to a biography.
+- **Peirce's pragmatism.** The meaning of a concept equals the sum of its practical consequences. Ideonology applies this maxim not to a concept but to a biography. The unit of impact, the peirce, is named after him.
 - **Dawkins's memetics.** A meme is the unit of cultural transmission from head to head. An ideon is a meme that has acquired a magnitude.
 - **Effective altruism.** The principle of irreplaceability is taken from there almost verbatim: "don't become a doctor, you will be replaced; go where you are counterfactually necessary".
 - **Tolstoy, the epilogue of War and Peace.** How to distribute the cause of a historical event among millions of wills. Napoleon gets almost nothing; it all goes to the soldiers. This is a dispute about the rate of damping, and Tolstoy stands for very slow damping toward the masses. The chief opponent on the coefficient.

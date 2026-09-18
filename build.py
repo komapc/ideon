@@ -8,8 +8,8 @@ ROOT = Path(__file__).parent
 CONTENT, DOCS, TPL = ROOT / "content", ROOT / "docs", ROOT / "templates"
 
 SITE = {"ru": "Идеонология", "en": "Ideonology"}
-DESC = {"ru": "Теория смысла жизни, в которой смысл оцениваем с точностью до порядка: идеон, Вита, паритет.",
-        "en": "A theory of the meaning of life in which meaning can be estimated to an order of magnitude: ideon, Vita, parity."}
+DESC = {"ru": "Теория смысла жизни, в которой смысл оцениваем с точностью до порядка: идеон, пирс, Вита, паритет.",
+        "en": "A theory of the meaning of life in which meaning can be estimated to an order of magnitude: ideon, peirce, Vita, parity."}
 NAV = [("index", {"ru": "Главная", "en": "Home"}),
        ("manifesto", {"ru": "Манифест", "en": "Manifesto"}),
        ("meaning", {"ru": "Смысл", "en": "Meaning"}),
@@ -23,11 +23,12 @@ ALT = {"ru": ("en", "English"), "en": ("ru", "Русский")}
 # Terms: (slug, regex, hint). The first occurrence on a page becomes a link to the glossary
 # entry with the hint as a tooltip. The glossary page itself is left alone.
 TERMS = {"ru": [
-    ("ideon", r"\bидеон(?:а|ы|ов|у|е|ом|ами|ах)?\b", "одна минута чужой мысли, сдвинутая на один градус"),
-    ("vita", r"\bВит(?:а|ы|у|е|ой)\b", "вся мысль одного человека за жизнь: 2,5 × 10⁷ идеонов"),
+    ("ideon", r"\bидеон(?:а|ы|ов|у|е|ом|ами|ах)?\b", "порция влияния: то, что ты сдвинул в чужой голове; цена меряется в пирсах"),
+    ("peirce", r"\bпирс(?:а|у|ом|е|ы|ов|ам|ами|ах)?\b", "единица импакта: одна минута чужой мысли, сдвинутая на один градус"),
+    ("vita", r"\bВит(?:а|ы|у|е|ой)\b", "вся мысль одного человека за жизнь: 2,5 × 10⁷ пирсов"),
     ("parity", r"\bпаритет\w*", "порог в одну Виту: вернул в чужие головы столько же, сколько получил"),
     ("degree", r"\bградус\w*", "насколько минута мысли отличается от той, что была бы без тебя, от 0 до 1"),
-    ("impact", r"\bимпакт\w*", "сумма идеонов, записанных на человека: I = Σ M × G × доля"),
+    ("impact", r"\bимпакт\w*", "суммарная цена идеонов, записанных на человека: I = Σ M × G × доля"),
     ("sign", r"\bзнак\w*", "направление сдвига, к лучшему или к худшему; отдельная от величины ось"),
     ("coherence", r"\bкогерентност\w*", "насколько результат совпал с намерением; свойство излучателя"),
     ("share", r"\bдол(?:я|и|ю|е|ей|ям|ями|ях)\b", "твоя часть идеона: что исчезло бы без тебя; вектор Шепли"),
@@ -40,11 +41,12 @@ TERMS = {"ru": [
     ("horizon", r"\bгоризонт\w*", "когда счёт закрывается: смерть, Суд, никогда"),
     ("r0", r"\bR₀", "сколько новых носителей порождает один носитель; больше 1 — цепочка живёт сама"),
 ], "en": [
-    ("ideon", r"\bideons?\b", "one minute of someone else's thought, shifted by one degree"),
-    ("vita", r"\bVita\b", "all the thought of one person over a lifetime: 2.5 × 10⁷ ideons"),
+    ("ideon", r"\bideons?\b", "a portion of influence: what you shifted in someone else's head; its worth is measured in peirces"),
+    ("peirce", r"\bpeirces?\b", "the unit of impact: one minute of someone else's thought, shifted by one degree"),
+    ("vita", r"\bVita\b", "all the thought of one person over a lifetime: 2.5 × 10⁷ peirces"),
     ("parity", r"\bparity\b", "the threshold of one Vita: returned into other heads as much as you received"),
     ("degree", r"\bdegrees?\b", "how much a minute of thought differs from what it would have been without you, 0 to 1"),
-    ("impact", r"\bimpact\b", "the sum of ideons credited to a person: I = Σ M × G × share"),
+    ("impact", r"\bimpact\b", "the total worth of ideons credited to a person: I = Σ M × G × share"),
     ("sign", r"\bsigns?\b", "the direction of the shift, for better or worse; an axis separate from magnitude"),
     ("coherence", r"\bcoherence\b", "how far the result matched the intention; a property of the emitter"),
     ("share", r"\bshares?\b", "your part of an ideon: what would disappear without you; the Shapley value"),
@@ -57,11 +59,11 @@ TERMS = {"ru": [
     ("horizon", r"\bhorizons?\b", "when the account closes: death, Judgment, never"),
     ("r0", r"\bR₀", "how many new carriers one carrier produces; above 1 the chain sustains itself"),
 ]}
-GLOSSARY_HEADS = {"ru": {"ideon": "Идеон", "vita": "Вита", "parity": "Паритет", "degree": "Градус", "impact": "Импакт",
+GLOSSARY_HEADS = {"ru": {"ideon": "Идеон", "peirce": "Пирс", "vita": "Вита", "parity": "Паритет", "degree": "Градус", "impact": "Импакт",
                          "sign": "Знак", "coherence": "Когерентность", "share": "Доля", "irreplaceability": "Незаменимость",
                          "damping": "Затухание", "reemission": "Переизлучение", "chain": "Цепочка", "anonymous": "Аноним",
                          "arbiter": "Арбитр", "horizon": "Горизонт", "r0": "R₀"},
-                  "en": {"ideon": "Ideon", "vita": "Vita", "parity": "Parity", "degree": "Degree", "impact": "Impact",
+                  "en": {"ideon": "Ideon", "peirce": "Peirce", "vita": "Vita", "parity": "Parity", "degree": "Degree", "impact": "Impact",
                          "sign": "Sign", "coherence": "Coherence", "share": "Share", "irreplaceability": "Irreplaceability",
                          "damping": "Damping", "reemission": "Re-emission", "chain": "Chain", "anonymous": "The Anonymous",
                          "arbiter": "Arbiter", "horizon": "Horizon", "r0": "R₀"}}
@@ -75,7 +77,7 @@ def anchor_glossary(body: str, lang: str) -> str:
 
 def linkify_terms(body: str, lang: str) -> str:
     """Turn the first occurrence of each term into a glossary link with a tooltip."""
-    pending = [(s, re.compile(rx, re.I if s != "anonymous" else 0), hint) for s, rx, hint in TERMS[lang]]
+    pending = [(s, re.compile(rx, re.I if s not in ("anonymous", "peirce") else 0), hint) for s, rx, hint in TERMS[lang]]
     out, depth = [], 0
     for chunk in re.split(r"(<[^>]+>)", body):
         if chunk.startswith("<"):
