@@ -59,14 +59,13 @@ Two auxiliary terms. The **arbiter** is who assigns the sign and keeps the accou
 | Nietzsche | max \|I\|, sign rejected | G | Oneself | Eternal recurrence | The will to power is magnitude. The Übermensch creates degrees, the last man consumes minutes. |
 | Marxism | +I along the direction of history | M (the masses) | History, class | Communism | "Philosophers have interpreted the world; the point is to change it": the magnitude of impact declared the criterion. Damping toward the masses, as in Tolstoy, with Lenin's amendment: a vanguard with high G. |
 | Liberalism | max free exchange of I | M with voluntary G | The marketplace of ideas | None | Others' degrees may be shifted only by persuasion and with consent: a coerced degree does not count. Every head is a sovereign account. |
-| Existentialism | The sign is chosen by oneself | — | Nobody | Death | Sartre: "in choosing for myself, I choose for all", every act is a broadcast. Camus: Sisyphus with zero impact is happy, the strongest counterexample: meaning without a trace. |
+| Existentialism | The sign is chosen by oneself | — | Nobody | Death | Sartre: "in choosing for myself, I choose for all", every act is a broadcast. |
 
 What stands out:
 
 - The vertical chain (parents, ancestors) is explicitly kept only by Confucianism and Judaism, and Judaism in both directions.
 - Non-conservation is admitted only by Christianity: grace zeroes the account from outside.
 - Taoism alone separates influence from credit: maximum degrees while renouncing attribution. A third position between Nietzsche and the Buddha.
-- Camus is the chief adversary. If Sisyphus is happy with zero impact, then either meaning is not equal to impact, or Camus is describing not meaning but something else.
 
 ## 5. Meditation
 
