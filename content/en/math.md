@@ -34,6 +34,8 @@ The unit of measurement is the peirce (Ps): one minute of someone else's, wholly
 - The figure was then used by the next person. That is re-emission, a new link in the chain; the share is split between the author of the figure, the editor and the reteller.
 - The author of the figure is unknown. Their share is credited to the Anonymous; the shares of the others do not grow because of it.
 
+**The magnitude of an ideon** is the sum of the captured parts G over all the minutes it passed through, before sharing along the chain and whoever owns it. An earthquake has no owner, its part is credited to nature, yet it has a magnitude. Unlike a person's impact, magnitude depends on the slicing: for all asteroids together it is large, for one ordinary asteroid negligible. Where someone else sets the slicing — an encyclopedia with its rule of one article per topic, for instance — magnitude becomes the measure of a topic: [Notability](notability.html).
+
 An ideon has to be tracked as a thing only in section 7, for R₀ and the Lindy effect. Any trackable thing will do there — a word, a theorem, a custom; the slicing is a working convention.
 
 ## 2. Degree: how much of the minute is captured
