@@ -13,11 +13,12 @@ Russian Wikipedia decides what may have an article by its [notability](https://r
 
 One Vita is [parity](glossary.html): notable is the one who has given to other heads more than they received into their own. No second number is needed. The strictness comes not from the threshold but from the rules of counting:
 
-- **Counted by the [protocol](protocol.html).** Only external verifiable quantities, one declared channel, every input an interval.
-- **The close circle does not count.** The close circle is the people a person knows mutually: family, friends, students, colleagues, a hundred or two. Everyone has one, and it yields the typical 0.2 Vita; notability is what lies above it. The circle's minutes do not count, but everything the circle passed on does: Socrates never wrote a line, and his whole account is in the readers of Plato.
+- **Counted by the [protocol](protocol.html).** One declared channel, every input an interval, and only external documented quantities go in: print runs, views, numbers of students, statistics. Nobody has documented the minutes spent among family and friends, so the typical 0.2 Vita that everyone has stays out of the count by itself, with no separate rule. Documented influence on those close to a person counts like any other: Socrates never wrote a line, and his whole account is in the readers of Plato.
 - **Three zones.** The lower bound of the interval is at least one Vita: notable. The upper bound is below one Vita: not notable. The threshold falls inside the interval: a discussion, that is, an ordinary [deletion discussion](https://ru.wikipedia.org/wiki/Википедия:К_удалению) (ВП:КУ, the counterpart of AfD).
 
 Intervals in Fermi estimates span two or three orders of magnitude, so "the lower bound is at least a Vita" in practice demands a central estimate of tens of Vitas. The criterion is strict: it is deletionism with a formula.
+
+For comparison. The English Wikipedia has about 1.15 million articles on living people: one for every five thousand adults on Earth. All language editions together have roughly one for every two thousand. By the model of how impact is distributed, the threshold of one Vita is passed by about one adult in a thousand on the central estimate, and by one in ten thousand on the lower bound of the interval. Judged by the central estimate, the criterion is softer than Wikipedia; by the lower bound, as the rule of three zones requires, it is twice as strict as the English edition and five times as strict as all editions together.
 
 ## 2. The general notability guideline, word by word
 
@@ -54,7 +55,7 @@ For topics the theory has a substitution test. Replace the subject with its neig
 
 ## 5. People
 
-Fermi estimates, except Harrison, who was computed by the protocol. The ordinary case is taken without the close circle. More summits, with the calculations, are in the [Hall of fame](hall.html).
+Fermi estimates, except Harrison, who was computed by the protocol. The ordinary case is counted by what is documented. More summits, with the calculations, are in the [Hall of fame](hall.html).
 
 | Occupation | The summit | An ordinary case notable under ВП:КЗП | The ordinary case by the threshold |
 |---|---|---|---|
