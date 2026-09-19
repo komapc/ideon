@@ -9,7 +9,7 @@ description: What in a person is their own and what was received from others: se
 
 Every minute of thought is divided without remainder among three sources: other people, nature, and the person themself. The person's own part is called selfhood. It does not enter impact: impact is your parts in other people's minutes, and selfhood is your part in your own.
 
-It is counted by the same rule as every share: what is yours is what would disappear without you. Selfhood is what in the minute would have been different had another head been in your place with the same inputs. It is neither a remainder left after subtraction nor free will: the question "what would have been different" has an answer in a fully deterministic world too. Everything that shaped the character earlier, parents, language, teachers, has already received its shares. Selfhood gets what cannot be credited to any single input: how this particular head joined what came into it. Temperament and the body as the device that thinks belong to selfhood; a tree, the weather and pain as things thought about belong to nature.
+It is counted by the same rule as every share: what is yours is what would disappear without you. Selfhood is what in the minute would have been different had another head been in your place with the same inputs. It is neither a remainder left after subtraction nor free will: the question "what would have been different" has an answer in a fully deterministic world too. Chance adds nothing to selfhood: if noise decided, nature decided. Everything that shaped the character earlier, parents, language, teachers, has already received its shares. Selfhood gets what cannot be credited to any single input: how this particular head joined what came into it. Temperament and the body as the device that thinks belong to selfhood; a tree, the weather and pain as things thought about belong to nature.
 
 The new enters the ledger by two routes. Through nature: a copying error, an accident, an apple. And through selfhood: a joining that did not exist before this head. Without these two inputs every thought would be a retelling of the previous one; language once did not exist, and now it does. An ideon born in selfhood becomes impact only when it reaches someone else's head.
 
@@ -46,17 +46,17 @@ Hence a consequence for anyone who wants impact: distribution without production
 | Emerson, the Romantics | Self-reliance; imitation is suicide | Yours |
 | The existentialists | Authenticity is selfhood; Heidegger's das Man is a minute handed to the Anonymous; Sartre's bad faith is passing off one's own part as someone else's | Yours, whether you like it or not |
 | Kant | Autonomy is being a law to oneself, but the law is universal: the autonomous person acts as any rational being would. Freedom without originality; by the replacement test, a small selfhood | Reason, one for all |
-| The Stoics | Guard the inner citadel from other people's ideons, but require it to agree with the Logos | Yours and the Logos's |
+| The Stoics | Everything is fated, yet Chrysippus's cylinder rolls from a push the way its shape dictates: the push is someone else's, the shape is its own. The inner citadel is guarded and brought into agreement with the Logos | Yours and the Logos's |
+| Spinoza | There is no free will: people know their desires and do not know their causes. But whoever acts from the necessity of their own nature rather than from outside pushes is free. Selfhood without free will | Yours, as a part of nature |
 | Christianity | Kenosis: "it is no longer I who live, but Christ who lives in me" | God's, by consent |
 | Sufism, Kabbalah | Fana, bittul: the dissolving of the "I" as the summit of the path | God's, by consent |
 | Taoism | Wu wei: acting without inserting oneself | The Tao's |
 | Buddhism | Anatta: there is no self, only a stream of causes; the practice is to see this | Nobody's |
 | Hume | The "I" is a bundle of perceptions; the bundle has no owner | Nobody's |
-| Spinoza | People think themselves free because they know their desires and do not know their causes | God's, that is, nature's |
 | Occasionalism | Selfhood is zero as a matter of fact: the only acting cause is God | God's, without asking |
 | Postmodernism | Selfhood is zero as a matter of fact: the subject is a crossroads of discourses and power relations | Discourse's; in the ledger, the Anonymous's |
 
-The last eight rows say the same thing about selfhood, that it does not exist or should not, and differ only in whose account the minute is credited to. The dispute between them is about the recipient, not the magnitude.
+The last seven rows say the same thing about selfhood, that it does not exist or should not, and differ only in whose account the minute is credited to. The dispute between them is about the recipient, not the magnitude.
 
 The theory takes one position in this dispute: selfhood is defined by the same rule as any share, and so need be neither zero nor one. How much of it there is, is a matter of measurement, not of faith, though there is nothing to measure it with yet.
 
