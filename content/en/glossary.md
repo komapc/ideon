@@ -43,7 +43,7 @@ Terms are given in pairs so that the Russian and English versions of this site t
 
 **Degree (G), depth** — what part of someone else's minute the ideon captured: how much the minute differs from what it would have been without you. The rest stays with the minute's previous owners. Measured as the angle between a person's behavioral trajectory with the ideon and without it: 0° means nothing changed, 90° means the person is thinking about something they otherwise never would have, 180° means a reversal, a conversion. In calculations the degree is normalized to one: G = angle / 180°.
 
-**Share** — the part of the captured minute that belongs to you when others were involved. Computed by irreplaceability: your share equals what would disappear if you were removed from the chain, in expectation over all plausible worlds without you. Formally, the Shapley value.
+**Share** — the part of what was captured that belongs to you when others were involved; the shares of all participants add up to one. Computed by irreplaceability: your share equals what would disappear if you were removed from the chain, in expectation over all plausible worlds without you. Formally, the Shapley value.
 
 **Irreplaceability** — the measure of how different the outcome would be without you. A city doctor can be replaced by the one on call and gets a small share of the saved life; a village paramedic, the only one for a hundred kilometers, gets all of it.
 
@@ -63,7 +63,7 @@ Terms are given in pairs so that the Russian and English versions of this site t
 
 **Horizon** — when the account closes: death, the Last Judgment, exit from samsara, never.
 
-**Incoming account** — who shaped your own minutes: the life lived minus selfhood and nature. Different for everyone; for a full life it is one Vita to an order of magnitude. By the conservation law the sum of all incoming accounts equals the sum of all impacts: as much as everyone has given, everyone has received. The largest creditors: the Anonymous, parents, friends.
+**Incoming account** — who shaped your own minutes: the life lived minus selfhood and nature. Different for everyone and always less than the life lived; for a full life, no more than one Vita. By the conservation law the sum of all incoming accounts equals the sum of all impacts: as much as everyone has given, everyone has received. The largest creditors: the Anonymous, parents, friends.
 
 **Selfhood (s)** — the part of your minute that you made yourself: not other people and not nature. It does not enter impact and the theory does not measure it. It is the wellspring: a new ideon is born in selfhood and becomes impact only when it reaches someone else's head. If everyone's selfhood were zero, every ideon would be a retelling of the Anonymous.
 
@@ -75,7 +75,7 @@ Terms are given in pairs so that the Russian and English versions of this site t
 
 **Vita (Vt)** — all the thought of one person over a lifetime: 1 Vt ≡ 2.5 × 10⁷ peirces, by definition, the way the speed of light is fixed. Convenient subunits: the microvita (µVt, 25 peirces) is one conversation; the millivita (mVt) is one deed; the Vita is one biography.
 
-**Parity** — repayment of the debt: whether you have given to other heads no less than you received into your own. The working threshold is one Vita. Below it you are a net absorber, above it a net emitter. The typical person (the median) reaches about 0.4 Vt by death; the mean outgoing account equals the mean incoming one by the conservation law, and the heavy tail holds the difference.
+**Parity** — repayment of the debt: whether you have given to other heads no less than you received into your own. The working threshold is one Vita: the upper bound of the debt for a full life. Below it you are a net absorber, above it a net emitter. The typical person (the median) reaches about 0.4 Vt by death; the mean outgoing account equals the mean incoming one by the conservation law, and the heavy tail holds the difference.
 
 ## Dynamics
 

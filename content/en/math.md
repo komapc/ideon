@@ -52,11 +52,11 @@ The degree depends not only on content but on the trust between emitter and rece
 
 ## 3. Share: the Shapley value
 
-The captured part of the minute is divided among everyone party to it: the author, the author's teacher, the reteller, the publisher. If the participants are N = {1, …, n}, the share of participant A equals A's average marginal contribution over all orders of joining:
+The captured part of the minute is divided among everyone party to it: the author, the author's teacher, the reteller, the publisher. If the participants are N = {1, …, n}, the share φ<sub>A</sub> of participant A equals A's average marginal contribution over all orders of joining:
 
-> w<sub>A</sub> = Σ<sub>S ⊆ N∖{A}</sub> |S|! (n − |S| − 1)! / n! × [v(S ∪ {A}) − v(S)]
+> φ<sub>A</sub> = Σ<sub>S ⊆ N∖{A}</sub> |S|! (n − |S| − 1)! / n! × [v(S ∪ {A}) − v(S)]
 
-where v(S) is the part of the minute that would have been the same through the efforts of coalition S alone. The world without A is not a single world: without A the result might not have happened, might have happened later, or through someone else. So v(S) is not a quantity in one imagined world but the expectation over the distribution of such worlds, and A's share is the expected loss from removing A. This is the only division rule satisfying four axioms: efficiency (shares add up to the whole), symmetry (equal contribution, equal share), zero for zero contribution, and additivity. Axiom A3 is exactly this rule; efficiency gives the completeness of A2 within the captured part.
+where v(S) is the part of what was captured that would have been the same through the efforts of coalition S alone; for all participants together v(N) = 1. The share is relative: the shares of all participants add up to one, and the part of the minute that goes to A is w<sub>A</sub> = G × φ<sub>A</sub>. The world without A is not a single world: without A the result might not have happened, might have happened later, or through someone else. So v(S) is not a quantity in one imagined world but the expectation over the distribution of such worlds, and A's share is the expected loss from removing A. This is the only division rule satisfying four axioms: efficiency (shares add up to the whole), symmetry (equal contribution, equal share), zero for zero contribution, and additivity. Axiom A3 is exactly this rule; efficiency gives the completeness of A2 within the captured part.
 
 The intuition: your share equals what would disappear if you were removed. Hence irreplaceability as the main multiplier. A reteller can be replaced by another reteller; the author cannot. The doctor on call can be replaced; the only paramedic cannot. Mitochondrial Eve is replaceable: had she died childless, someone else would have been Eve, and the minutes would have remained the same. For history, v(S) cannot be measured directly: the shares in the tables are estimated by a single counterfactual question, whether the same would have happened without this person and how much later, and after degrees this is the largest source of error.
 
@@ -64,7 +64,7 @@ The practical recipe in all the tables of this site is one:
 
 > I ≈ reach × degree × share
 
-This is not a product of three independent quantities but two successive divisions of one minute: first the ideon separates its part, then that part is divided along the chain. A first approximation for long chains: minutes (reach) go to the deliverer, the reteller, publisher, translator; degrees (depth) go to the author. A reteller who improves the idea takes a portion of the degrees.
+Reach is the number of minutes; degree × share is the part of each of them, w<sub>A</sub>. This is not a product of three independent quantities but two successive divisions of one minute: first the ideon separates its part, then that part is divided along the chain. A first approximation for long chains: minutes (reach) go to the deliverer, the reteller, publisher, translator; degrees (depth) go to the author. A reteller who improves the idea takes a portion of the degrees.
 
 ## 4. Four rules of transmission
 
@@ -86,7 +86,7 @@ There is one law, and it follows from A1 and A2:
 
 > Σ<sub>A</sub> I(A) = Σ<sub>B</sub> incoming account(B)
 
-**As much as everyone has given, everyone has received.** A person's incoming account is everything in their minutes that was shaped by other people: their life minus selfhood and nature. The sum runs over all people and all times, including minutes not yet lived.
+**As much as everyone has given, everyone has received.** A person's incoming account is everything in their minutes that was shaped by other people: their life minus selfhood and nature. The sum runs over all people and all minutes up to the chosen horizon: impact that has not yet happened is not in it. Accounts are opened only for people: the influence of animals and machines is for now credited to nature or, when there are authors behind the machine, to their chain. A person's influence on themself stays in selfhood and does not enter the balance.
 
 This is conservation of attribution, not a law of nature: a bookkeeping identity that keeps the theory from creating impact out of thin air or losing it. It works the way conservation laws work in physics: it forbids.
 
@@ -106,9 +106,9 @@ A person's full assessment is not a number but a triple:
 
 > (I, S, Q)
 
-I is magnitude, S ∈ [−1, 1] is sign, Q ∈ [0, 1] is coherence, defined as the correlation between sign-by-intention and sign-by-result over all of a person's emissions. If a single figure is needed, I × S × Q, where Q is a multiplier on the sign, not a value in its own right: a coherent villain is more dangerous than a chaotic one.
+I is magnitude, S ∈ [−1, 1] is sign, Q ∈ [0, 1] is coherence, defined as the correlation between sign-by-intention and sign-by-result over all of a person's emissions. Formally a correlation can be negative, for a person who systematically gets the opposite of what they meant; that is rare, and in estimates Q is taken from zero. If a single figure is needed, I × S × Q, where Q is a multiplier on the sign, not a value in its own right: a coherent villain is more dangerous than a chaotic one.
 
-The three numbers are conveniently read as one vector. An ideon has a length, its degree, the captured part of the minute, and a direction: where the thought moved. Sign is the cosine of the angle between that direction and the axis of "better" set by the arbiter; that is why S lies between −1 and 1, and why one ideon has different signs under different arbiters. Coherence is how far the direction aimed at matched the direction actually shifted; the correlation of signs is its shadow on the arbiter's axis, the only thing observable. The vector itself need not be known: a length and two projections are enough.
+The three numbers are conveniently read as one vector. An ideon has a length, its degree, the captured part of the minute, and a direction: where the thought moved. Sign is the cosine of the angle between that direction and the axis of "better" set by the arbiter; that is why S lies between −1 and 1, and why one ideon has different signs under different arbiters. Coherence is the cosine of the angle between the direction aimed at and the direction actually shifted; the correlation of signs is its shadow on the arbiter's axis, the only thing observable. The vector itself need not be known: a length and two cosines are enough. This is a way of reading, not a structure: behavior space is not Euclidean, and shifts can be added as vectors only while they are small.
 
 Bookkeeping adds lengths, while the shift of a person is the vector sum. Propaganda and counter-propaganda both occupied their minutes and both earned impact, but the net shift is about zero.
 
@@ -141,26 +141,28 @@ This is all the waking thought of one person over a lifetime: about 350,000 minu
 | 1 MVt | 2.5 × 10¹³ | a founder of a religion |
 | 1 GVt | 2.5 × 10¹⁶ | the Anonymous |
 
-Humanity's entire budget over all of history: about 117 billion people, but the average life lived is much shorter than a Vita; roughly half died as children. That comes to the order of 10¹⁸ minutes, or 40 GVt. By the conservation law the sum of all impacts in history is no greater than this number: it equals it minus selfhood and nature.
+Humanity's entire budget over all of history: about 117 billion people, but the average life lived is much shorter than a Vita; roughly half died as children. That comes to the order of 10¹⁸ minutes, or 40 GVt: about a third of a Vita per person who ever lived. By the conservation law the sum of all impacts in history is no greater than this number: it equals it minus selfhood and nature.
 
 ## 9. The incoming account and parity
 
-Every person has an incoming account: who shaped their minutes. It equals the life lived minus selfhood and nature, and it is different for everyone. To the accuracy at which the theory counts, for a full life it is one Vita. Parity is repayment of the debt: you gave no less than you received. The working threshold:
+Every person has an incoming account: who shaped their minutes. It equals the life lived minus selfhood and nature; it is different for everyone and always less than the life lived. Parity is repayment of the debt: you gave no less than you received. Selfhood is not measured, so the working threshold is taken with a margin:
 
 > I(A) ≥ 1 Vt
 
-The typical person accumulates about 0.4 Vt by death, and most never reach the threshold. The mean outgoing account nonetheless equals the mean incoming one, identically, by the conservation law. The gap between median and mean is the heavy tail: the Anonymous and the founders of religions hold what the majority fell short of.
+One Vita is the upper bound of the debt for a full life: whoever has reached it has repaid the debt whatever their selfhood.
+
+The typical person who lived a full life accumulates about 0.4 Vt, and most never reach the threshold. The mean outgoing account over all people equals the mean incoming one, identically, by the conservation law; over everyone who ever lived it is less than a third of a Vita, because half died as children, having had time to receive but not to give. The distribution is skewed: most give less than they received, and the difference is held by the tail: the authors of language, norms and religions, most of them nameless.
 
 ## 10. Symmetry of channels
 
-A channel is symmetric if its participants give and receive equally. Let a conversation have n people, let participant i speak a fraction f<sub>i</sub> of the time (one person speaks in any given minute, Σ f<sub>i</sub> = 1), let it last T minutes, and let every remark have the same degree G. Then the participant gave f<sub>i</sub> × T × (n − 1) × G, received (1 − f<sub>i</sub>) × T × G, and
+A channel is symmetric if its participants give and receive equally. Let a conversation have n people, let participant i speak a fraction f<sub>i</sub> of the time (one person speaks in any given minute, Σ f<sub>i</sub> = 1), let it last T minutes, let every remark have the same degree G, and to a first approximation let a remark belong wholly to the speaker. Then the participant gave f<sub>i</sub> × T × (n − 1) × G, received (1 − f<sub>i</sub>) × T × G, and
 
 > balance = T × G × (n × f<sub>i</sub> − 1)
 
 - For two people with equal time the balance is zero: a conversation is a symmetric channel, and both earn impact at the expense of the previous owners of those minutes.
 - For three, whoever speaks more than a third of the time gives more than they receive. The symmetry of a channel is the equality of speaking time; no separate quantity is needed for it.
 - A lecture is the same case with n = 101 and f = 1: the balance is 100 × T × G. The lecturer's leverage is in the number of listeners, not in depth: a routine lecture has a degree close to zero, and then a hundred listeners add nothing.
-- A silent third person also gets a share if the other two speak differently in their presence than they would without them: by A3, those minutes would have been different without that person.
+- A correction to the approximation: a remark does not belong wholly to the speaker. A reply is a re-emission, and part of the share goes to the person being replied to; a silent third person also gets a share if the other two speak differently in their presence than they would without them. The exact balance is computed by Shapley; the formula gives the order of magnitude and the sign.
 - One conversation will not get you to parity: a symmetric channel has a leverage of one. Leverage in the tens of thousands comes not from the number of listeners but from asynchrony (a book, a recording, an institution), and the main asymmetry of the whole ledger is time: we receive from the past and give to the future.
 
 ## 11. Limits of applicability
