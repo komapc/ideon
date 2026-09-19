@@ -170,6 +170,7 @@ def main():
         '<meta http-equiv="refresh" content="0; url=ru/index.html">'
         f'<link rel="canonical" href="{BASE}ru/"><link rel="alternate" hreflang="ru" href="{BASE}ru/">'
         f'<link rel="alternate" hreflang="en" href="{BASE}en/"><link rel="alternate" hreflang="x-default" href="{BASE}en/">'
+        '<meta name="msvalidate.01" content="CAFA7BE0D5D83695993D635831499022">'
         '<title>Идеонология / Ideonology</title></head>'
         '<body><p><a href="ru/index.html">Идеонология (русский)</a> · <a href="en/index.html">Ideonology (English)</a></p>'
         '</body></html>', encoding="utf-8")
