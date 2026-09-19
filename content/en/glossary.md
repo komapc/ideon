@@ -65,9 +65,9 @@ Terms are given in pairs so that the Russian and English versions of this site t
 
 **Incoming account** — who shaped your own minutes: the life lived minus selfhood and nature. Different for everyone and always less than the life lived; for a full life, no more than one Vita. By the conservation law the sum of all incoming accounts equals the sum of all impacts: as much as everyone has given, everyone has received. The largest creditors: the Anonymous, parents, friends.
 
-**Selfhood (s)** — the part of your minute that you made yourself: not other people and not nature. It does not enter impact and the theory does not measure it. It is the wellspring: a new ideon is born in selfhood and becomes impact only when it reaches someone else's head. If everyone's selfhood were zero, every ideon would be a retelling of the Anonymous. More: [Selfhood](selfhood.html).
+**Selfhood (s)** — your part in your own minute: what would have been different had another head been in your place with the same inputs. Counted by the same rule of irreplaceability as any share; neither a remainder nor free will. It does not enter impact and there is nothing to measure it with yet. One of the two routes by which the new enters the ledger; the other is nature. More: [Selfhood](selfhood.html).
 
-**Nature (n)** — the part of a minute shaped by what is not human: a tree, the weather, pain, one's own body. An account without an owner; traditions name it differently, and for Spinoza it is one word with God.
+**Nature (n)** — the part of a minute shaped by what is not human: a tree, the weather, pain, chance, a copying error. An account without an owner; traditions name it differently, and for Spinoza it is one word with God.
 
 ## Units
 

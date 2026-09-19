@@ -13,7 +13,7 @@ The primitive of the theory is one minute of one person's thought. Every minute 
 
 > Σ<sub>A</sub> w<sub>A</sub>(m) + s(m) + n(m) = 1
 
-where w<sub>A</sub>(m) ≥ 0 is the part of minute m that belongs to another person A; s(m) is selfhood, the part the person made themself; n(m) is nature, the part shaped by what is not human: the minute you spend looking at a tree.
+where w<sub>A</sub>(m) ≥ 0 is the part of minute m that belongs to another person A; s(m) is selfhood, the person's own part: what in the minute would have been different had another head been in their place with the same inputs; n(m) is nature, the part shaped by what is not human: the minute you spend looking at a tree.
 
 The impact of a person A is the sum of A's parts in all other people's minutes:
 
@@ -94,7 +94,7 @@ This is conservation of attribution, not a law of nature: a bookkeeping identity
 - **Bookkeeping does not create credit.** A share in a minute can be gained only at the expense of another of its sources.
 - **The speed limit.** In one hour no more minutes can be given away than humanity lived in that hour.
 
-**Where the new comes from.** If everyone's selfhood were zero, the ledger would be closed: every ideon would turn out to be a retelling of the Anonymous, and nothing new would ever enter it. Selfhood is the wellspring: a new ideon is born in one's own part of the minute, and becomes impact only when it reaches someone else's head.
+**Where the new comes from.** From the two sources that hold no impact account: from nature (a copying error, an accident) and from selfhood (a joining that did not exist before this head). Without them the ledger would be closed, and every ideon would turn out to be a retelling of the Anonymous. A new ideon becomes impact only when it reaches someone else's head. More: [Selfhood](selfhood.html).
 
 **Not conserved:** sign (can change posthumously when an idea is put to different use; Christian grace zeroes it from outside); coherence (no budget and no rivalry; everyone raises their own toward one without taking from anyone).
 

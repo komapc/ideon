@@ -7,9 +7,11 @@ description: What in a person is their own and what was received from others: se
 
 ## 1. The third source
 
-Every minute of thought is divided without remainder among three sources: other people, nature, and the person themself. The part the person made themself is called selfhood. It does not enter impact: impact is your parts in other people's minutes, and selfhood is your part in your own.
+Every minute of thought is divided without remainder among three sources: other people, nature, and the person themself. The person's own part is called selfhood. It does not enter impact: impact is your parts in other people's minutes, and selfhood is your part in your own.
 
-Selfhood is not a remainder that can be set to zero. If everyone's were zero, the ledger would be closed: every thought would be a retelling of the previous one, every ideon a retelling of the Anonymous, and nothing new would ever enter it. But language once did not exist, and now it does. So there is a wellspring, and it is inside heads. A new ideon is born in selfhood and becomes impact only when it reaches someone else's head.
+It is counted by the same rule as every share: what is yours is what would disappear without you. Selfhood is what in the minute would have been different had another head been in your place with the same inputs. It is neither a remainder left after subtraction nor free will: the question "what would have been different" has an answer in a fully deterministic world too. Everything that shaped the character earlier, parents, language, teachers, has already received its shares. Selfhood gets what cannot be credited to any single input: how this particular head joined what came into it. Temperament and the body as the device that thinks belong to selfhood; a tree, the weather and pain as things thought about belong to nature.
+
+The new enters the ledger by two routes. Through nature: a copying error, an accident, an apple. And through selfhood: a joining that did not exist before this head. Without these two inputs every thought would be a retelling of the previous one; language once did not exist, and now it does. An ideon born in selfhood becomes impact only when it reaches someone else's head.
 
 ## 2. Three jobs of selfhood
 
@@ -17,7 +19,7 @@ Selfhood is not a remainder that can be set to zero. If everyone's were zero, th
 
 **The assembler.** Joins what others made in a way nobody joined it before. All the parts were received on credit; the assembly is one's own. Almost everything called originality is this job.
 
-**The filter.** Decides what of the received to pass on and what to stop at oneself. The most common job and the least visible. A person who was beaten as a child and does not beat their own children created nothing, but broke a chain, and their children's minutes would have been different without them. By irreplaceability that is a large account, and all of it is the work of selfhood.
+**The filter.** Decides what of the received to pass on and what to stop at oneself. The most common job and the least visible. A person who was beaten as a child and does not beat their own children created nothing, but broke a chain, and their children's minutes would have been different without them. By irreplaceability that is a large account. Whether it is the work of selfhood is decided by the same test: if anyone in their place, having read the same books and seen the same families, would also have stopped, then the books and the families broke the chain, and the share is theirs. Selfhood owns what this particular person stopped.
 
 ## 3. Production and distribution
 
@@ -40,26 +42,31 @@ Hence a consequence for anyone who wants impact: distribution without production
 |---|---|---|
 | Nietzsche | Maximizes it: "become who you are"; values are created out of oneself | Yours |
 | Stirner | Maximizes it to the limit: whatever is not mine is a spook | Yours |
+| Leibniz | A monad has no windows: nothing enters from outside, everything unfolds from within. Selfhood equals one, and it was a gift at creation | Yours, from God |
 | Emerson, the Romantics | Self-reliance; imitation is suicide | Yours |
 | The existentialists | Authenticity is selfhood; Heidegger's das Man is a minute handed to the Anonymous; Sartre's bad faith is passing off one's own part as someone else's | Yours, whether you like it or not |
-| Kant | Autonomy: selfhood that is a law to itself; heteronomy is a minute handed to others | Reason in you |
+| Kant | Autonomy is being a law to oneself, but the law is universal: the autonomous person acts as any rational being would. Freedom without originality; by the replacement test, a small selfhood | Reason, one for all |
 | The Stoics | Guard the inner citadel from other people's ideons, but require it to agree with the Logos | Yours and the Logos's |
 | Christianity | Kenosis: "it is no longer I who live, but Christ who lives in me" | God's, by consent |
 | Sufism, Kabbalah | Fana, bittul: the dissolving of the "I" as the summit of the path | God's, by consent |
 | Taoism | Wu wei: acting without inserting oneself | The Tao's |
 | Buddhism | Anatta: there is no self, only a stream of causes; the practice is to see this | Nobody's |
-| Occasionalism, Leibniz | Selfhood is zero as a matter of fact: monads have no windows, everything comes from God | God's, without asking |
-| Postmodernism | Selfhood is zero as a matter of fact: the subject is a crossroads of discourses | The Anonymous's |
+| Hume | The "I" is a bundle of perceptions; the bundle has no owner | Nobody's |
+| Spinoza | People think themselves free because they know their desires and do not know their causes | God's, that is, nature's |
+| Occasionalism | Selfhood is zero as a matter of fact: the only acting cause is God | God's, without asking |
+| Postmodernism | Selfhood is zero as a matter of fact: the subject is a crossroads of discourses and power relations | Discourse's; in the ledger, the Anonymous's |
 
-The last six rows say the same thing about selfhood, that it does not exist or should not, and differ only in whose account the minute is credited to. The dispute between them is about the recipient, not the magnitude.
+The last eight rows say the same thing about selfhood, that it does not exist or should not, and differ only in whose account the minute is credited to. The dispute between them is about the recipient, not the magnitude.
 
-The theory takes one position in this dispute: selfhood is not zero, or there would be nothing to flow. How much of it there is, the theory does not know.
+The theory takes one position in this dispute: selfhood is defined by the same rule as any share, and so need be neither zero nor one. How much of it there is, is a matter of measurement, not of faith, though there is nothing to measure it with yet.
 
 ## 5. Machines
 
-A language model is trained on everyone's texts and answers without a signature: it is the Anonymous that started talking. It has no minutes and no account. A person's minute shifted by a model's answer is divided along the chain among the authors of the texts it learned from, its developers, and whoever asked the question.
+A language model is trained on everyone's texts and answers without a signature: it is the Anonymous that started talking. A person's minute shifted by a model's answer is divided along the chain among the authors of the texts it learned from, its developers, and whoever asked the question.
 
-Whether a model has selfhood is something the theory does not have to decide. Its test is irreplaceability: what would disappear without you. A model can be replaced by another model at almost no loss, and by that test its part is close to zero whatever goes on inside it. The same test applied to a person speaking in ready-made phrases gives the same answer.
+The test of selfhood for a model is the same as for a person: what would have changed in the answer had another model been in its place with the same conversation. Usually little, but not zero, and joining what others made in a way nobody joined it before is the assembler's job, whoever does it. The same test applied to a person speaking in ready-made phrases gives the same small answer: the line does not run between people and machines.
+
+The difference lies elsewhere. A model has no minutes of its own: no life lived on credit, no incoming account and nothing to return. Parity does not apply to it, and no impact account is opened for it yet: its part is credited to the chain of people who stand behind it.
 
 ## 6. What the theory does not say about selfhood
 
