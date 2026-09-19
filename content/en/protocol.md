@@ -120,7 +120,33 @@ Harrison's share = w / Σw: from 0.0004 / 1.51 to 0.05 / 0.67, that is **0.03–
 
 **The other tables on the site have not been re-run under these rules.** Harrison's row on the examples page has been corrected with a link here; the other rows are the earlier Fermi estimates, and after this test they should be read as orders of magnitude, not figures.
 
-## 6. Sources
+## 6. The second test: a blind recount
+
+On 19 September 2026 two counters, Claude and GPT, received the same rules R1–R11 without the Harrison example, two declared channels, and counted separately without seeing each other's numbers. The cases were ones that do not appear on the site. Claude's count was written down before GPT's answer; its inputs were taken from memory, without references, which is weaker than R1. [The assignments, both answers and Claude's count](https://github.com/komapc/ideon/tree/main/notes) are in the repository (in Russian).
+
+**The first run failed.** GPT read the rules literally: p, d, remaining life and the number of readers are not external verifiable quantities (R1), so it gave each of them its whole mathematical domain and arrived at "from zero to infinity". R10 requires an interval with an explanation but nowhere says that the interval must be substantive; until now this was visible only from the example. For the second run a clarification was added to the assignment: trivial intervals are forbidden, every judgment point gets an argument, the chain is limited to the links named in the sources. The rules themselves were not changed.
+
+| Case and channel | | Claude | GPT, second run |
+|---|---|---|---|
+| Nicholas Winton, taking 669 children out of Prague, 1939 | M × G | 370–510 Vt | 489–985 Vt |
+| | Share | 10–20% | 9–13% |
+| | **Result** | **37–100 Vt** | **42–125 Vt** |
+| Dale Carnegie, the text of the 1936 book | M × G | 36–252 Vt | 24–160 Vt |
+| | Share | 12–44% | 18–31% |
+| | **Result** | **4–110 Vt** | **4–50 Vt** |
+
+The order of magnitude agreed in both cases, and the intervals overlap almost entirely. Both counters chose the same degree both times (1 and 0.2): R5 with its fixed categories worked again. The lists of links nearly coincided. Both found the same for the sign: documented separation trauma in the children, and charges of manipulativeness against the book.
+
+The agreement is partly luck: for Winton the differences in M and in the share cancelled each other. Behind them are places where the rules are silent:
+
+- **R3.** It does not say that a Vita is counted in waking minutes: GPT counted 24 hours a day. It does not say how to count remaining life, or whether a saved life should be multiplied by the probability of death without the rescue: Claude multiplied, GPT did not. It does not say how to get from copies sold to people who read.
+- **R6.** It is unclear against which horizon the delay d is measured when the window of opportunity is closing: nine months before the war, or eighty-seven years up to today. It is unclear what counts as the result for a text: the reading of this book, or the skill the reader would have taken from another. It does not say where to cut the chain.
+- **R7.** A single review found forces the sign to be computed to six nines after the decimal point. A threshold is needed below which harm counts as not found.
+- **R10.** It does not define how to count judgment points: GPT has 15 and 12, Claude five each, because it did not count every pair of p and d.
+
+Caveats. Two cases are few. Both counters are language models with similar habits, and their agreement is weaker than the agreement of two people. By R11 the rules are not corrected here: the list above is groundwork for a second version of the protocol.
+
+## 7. Sources
 
 - Australian Red Cross Lifeblood, [James Harrison's story](https://www.lifeblood.com.au/news-and-stories/stories/james-harrison): 1,173 donations, more than 3 million doses since 1967.
 - CBS News, [James Harrison, credited with saving 2.4 million babies, dies at 88](https://www.cbsnews.com/news/james-harrison-blood-plasma-donations-2-4-million-babies-dead-88/).
