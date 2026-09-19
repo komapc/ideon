@@ -22,5 +22,6 @@ All the thought of one person over a lifetime is one **Vita**. You received almo
 - [Comparison](comparison.html) — relatives in classical philosophy and fifteen schools in the language of ideons.
 - [Protocol](protocol.html) — the rules of counting, fixed before the example, and one account computed by them.
 - [Notability](notability.html) — a half-joking notability criterion for Wikipedia: one Vita, channel versus share, fame versus trace.
+- [Hall of fame](hall.html) — eighty accounts from megavitas to fractions of a Vita: rescuers above prophets, the inventor of the game versus the player, famous but small.
 
 The theory arose in a conversation in the autumn of 2026 and is still being written. Sources are on [GitHub](https://github.com/komapc/ideon).

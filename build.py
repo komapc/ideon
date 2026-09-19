@@ -22,7 +22,8 @@ NAV = [("index", {"ru": "Главная", "en": "Home"}),
        ("examples", {"ru": "Примеры", "en": "Examples"}),
        ("comparison", {"ru": "Сравнение", "en": "Comparison"}),
        ("protocol", {"ru": "Протокол", "en": "Protocol"}),
-       ("notability", {"ru": "Значимость", "en": "Notability"})]
+       ("notability", {"ru": "Значимость", "en": "Notability"}),
+       ("hall", {"ru": "Зал славы", "en": "Hall of fame"})]
 ALT = {"ru": ("en", "English"), "en": ("ru", "Русский")}
 
 # Terms: (slug, regex, hint). The first occurrence on a page becomes a link to the glossary

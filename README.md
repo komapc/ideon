@@ -7,7 +7,7 @@ A theory of the meaning of life in which meaning can be estimated to an order of
 
 ## Структура / Layout
 
-- `content/ru/`, `content/en/` — страницы в Markdown: манифест, смысл, самость, словарь, математика, примеры, сравнение, протокол, значимость / manifesto, meaning, selfhood, glossary, mathematics, examples, comparison, protocol, notability.
+- `content/ru/`, `content/en/` — страницы в Markdown: манифест, смысл, самость, словарь, математика, примеры, сравнение, протокол, значимость, зал славы / manifesto, meaning, selfhood, glossary, mathematics, examples, comparison, protocol, notability, hall of fame.
 - `templates/` — HTML-шаблон и стили / page template and stylesheet.
 - `docs/` — собранный сайт, отдаётся GitHub Pages / built site served by GitHub Pages.
 - `notes/ideon.md` — рабочие заметки, из которых выросли страницы / working notes the pages grew from.

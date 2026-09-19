@@ -54,14 +54,14 @@ For topics the theory has a substitution test. Replace the subject with its neig
 
 ## 5. People
 
-Fermi estimates, except Harrison, who was computed by the protocol. The ordinary case is taken without the close circle.
+Fermi estimates, except Harrison, who was computed by the protocol. The ordinary case is taken without the close circle. More summits, with the calculations, are in the [Hall of fame](hall.html).
 
 | Occupation | The summit | An ordinary case notable under ВП:КЗП | The ordinary case by the threshold |
 |---|---|---|---|
 | Philosopher | Marx, 400 kVt | A rector, a member of an academy (ВП:УЧФ): 0.01–1 Vt | Not notable, or a discussion |
 | Politician | Trump, 40 kVt | A deputy from a party list, the mayor of a city of a hundred thousand: 0.001–0.1 Vt | Not notable |
 | Writer | Tolstoy, on the order of 1 kVt | An author with thirty thousand readers: 0.01–0.1 Vt | Not notable |
-| Musician | The Beatles, 4 kVt for the four | A song with ten million plays: 0.01–0.1 Vt | Not notable |
+| Musician | The Beatles, 5 kVt for the four | A song with ten million plays: 0.01–0.1 Vt | Not notable |
 | Footballer | Messi, 20–400 Vt | A top-league player: 0.004–0.1 Vt | Not notable |
 | Chess player | Carlsen, 5–200 Vt | A grandmaster: 0.001–0.01 Vt | Not notable |
 | Donor | Harrison, 1–700 Vt | — | Notable, by the very edge |
