@@ -16,7 +16,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | The Anonymous | language, counting, fire, norms | [Examples](examples.html) | > 20 GVt |
 | Fritz Haber and Carl Bosch † | ammonia synthesis: nitrogen fertilizer feeds about half of humanity; Haber also led chemical weapons work | 3 × 10⁹ lives × share 0.01–0.05 (the process was ripe and would have been found within ten or twenty years) | ± 30–150 MVt |
 | Norman Borlaug † | the Green Revolution | up to 10⁹ lives × share 0.01–0.1 | 10–100 MVt |
-| Maurice Hilleman † | eight of the fourteen vaccines of the routine schedule | 3 × 10⁸ lives × share 0.1 | ~25 MVt |
+| Maurice Hilleman and his team † | eight of the fourteen vaccines of the routine schedule | 3 × 10⁸ lives × share 0.1 | ~25 MVt |
 | Muhammad | | [Examples](examples.html) | 20 MVt |
 | Jesus | | [Examples](examples.html) | 10 MVt |
 | Stanislav Petrov, Vasily Arkhipov † | did not start a nuclear war, 1983 and 1962 | 10⁹ lives × probability 0.1 × share 0.1 | ~10 MVt each |
@@ -35,7 +35,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Sejong | Hangul | 2 × 10⁸ lives × a tenth of the minutes spent reading × 0.05 × 0.5 | 500 kVt |
 | Karl Marx | | [Examples](examples.html) | 400 kVt |
 | Benjamin Spock | Baby and Child Care | 10⁸ children × 0.1 Vt of parental influence × 0.05–0.1 | 50–1000 kVt |
-| John Amos Comenius | classes by age, the lesson, the school year | 3 × 10¹⁵ school minutes × 0.05 (form) × 0.01–0.05 (Sturm and the Jesuits were heading the same way) | 50–300 kVt |
+| John Amos Comenius | the class-lesson system: classes by age, the lesson, the school year; he described and justified it | 3 × 10¹⁵ school minutes × 0.05 (form) × 0.01–0.05 (Sturm and the Jesuits began it in practice) | 50–300 kVt |
 | Bill Wilson | Alcoholics Anonymous | 10⁷ people × 20 years × 0.1–0.3 × 0.3 | 80–250 kVt |
 | Tim Berners-Lee | the Web | 5 × 10¹⁵ minutes × 0.1 (the medium) × 0.01 (counterparts would have appeared within three years) | 20–1000 kVt |
 | Johannes Gutenberg | the printing press in Europe | the form of the medium in all printed reading: 3 × 10¹⁵ minutes × 0.02 × share 0.015–0.1 (a generation later without him: a twentieth of the horizon) | 30–200 kVt |
@@ -43,18 +43,18 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Louis Braille | the script for the blind; devised at fifteen | 10⁷ readers × 10⁶ minutes × 0.5 (literacy itself) × 0.5 | 100 kVt |
 | Hans Selye | the word "stress" as a frame | 10⁹ people × 10 minutes a day × 50 years × 0.05 × 0.3 | 100 kVt |
 | Euclid | | [Examples](examples.html) | 100 kVt |
-| Nils Bohlin † | the three-point seat belt, Volvo, 1959 | 10⁶ lives × 0.5 Vt × share 0.1–0.3 | 50–150 kVt |
+| Nils Bohlin † | the modern three-point seat belt, Volvo, 1959; the patent was left open | 10⁶ lives (Volvo's estimate) × 0.5 Vt × share 0.1–0.3 | 50–150 kVt |
 | Eliezer Ben-Yehuda | the revival of Hebrew | [Examples](examples.html) | 50 kVt |
 | Donald Trump | | [Examples](examples.html) | 40 kVt |
 | Cyril and his disciples | Slavic writing | 2 × 10¹⁵ minutes of reading and writing × 0.01 × 0.05–0.1 (the same would have been written in Greek or Latin letters) | 10–100 kVt among them |
 | Friedrich Fröbel | the kindergarten | 10⁹ children × 3,000 h × 0.05 × 0.1 | 36 kVt |
 | Guido of Arezzo | staff notation | 5 × 10⁸ music learners × 500 h × 0.2 × 0.3 | 36 kVt |
 | James Naismith | invented basketball, alone, in December 1891 | 1.5 × 10¹⁴ minutes of playing and watching × 0.01 × 0.5 | 30 kVt |
-| Frederick Kelly | the multiple-choice test, 1914 | 3 × 10⁹ pupils × 100–600 h × 0.05 × 0.2 | 5–40 kVt |
+| Frederick Kelly | the Kansas Silent Reading Test, 1914–1915: most often credited as the first multiple-choice test | 3 × 10⁹ pupils × 100–600 h × 0.05 × 0.2 | 5–40 kVt |
 | Robert Baden-Powell | the Scout movement | 5 × 10⁸ scouts × 450 h × 0.1 × 0.3 | 16 kVt |
 | Ole Kirk Christiansen | LEGO | 10⁹ children × 300 h × 0.05 × 0.4 | 14 kVt |
-| Vitaly Lagutenko | the K-7 khrushchyovka, the Soviet prefab apartment block | 6 × 10⁷ residents × 20 years × half of the minutes at home × 0.02 × 0.05–0.2 (the panel system was bought from the French, and the decision was Khrushchev's) | 5–30 kVt |
-| Robert Gaskins | PowerPoint: thought cut into bullet points | 9 × 10¹³ minutes in the audience × 0.03 × 0.1 | ± 10 kVt |
+| Vitaly Lagutenko | K-7, the first mass series of the khrushchyovka, the Soviet prefab apartment block | 5 × 10⁷ residents of khrushchyovkas × 20 years × half of the minutes at home × 0.02 × 0.05–0.2 (there were several series, the French experience with panels was studied, and the decision was Khrushchev's) | 5–30 kVt |
+| Robert Gaskins with Dennis Austin | PowerPoint: thought cut into bullet points | 9 × 10¹³ minutes in the audience × 0.03 × 0.1 | ± 10 kVt |
 | Gerardus Mercator | the world map in every head, with Greenland the size of Africa | 5 × 10⁹ people × 50 h × 0.05 × 0.3 | 9 kVt |
 
 ## Kilovitas
@@ -63,20 +63,20 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 |---|---|---|---|
 | Ronald Fisher | the p < 0.05 threshold, chosen "for convenience" | 10⁷ researchers × 4,000 h × 0.2 × 0.3 | 6 kVt |
 | The Beatles | the songs, including the minutes when a song is stuck in the head | 10¹³ minutes × 0.01–0.03 × 0.8; stuck songs add another quarter | 5 kVt among the four |
-| Aza Raskin | infinite scroll, 2006 | 2.5 × 10¹⁴ extra minutes × 0.01 × 0.05 (the idea was lying on the surface) | − 5 kVt |
+| Aza Raskin | infinite scroll, 2006; his priority is disputed, and he says he regrets it | 2.5 × 10¹⁴ extra minutes × 0.01 × 0.05 (the idea was lying on the surface) | − 5 kVt |
 | Claude Hopkins | the Pepsodent campaign and the habit of brushing teeth | 2.6 × 10¹⁴ minutes × 0.01 × 0.05 | 5 kVt |
 | Arthur Wynne | the crossword, 1913 | 5 × 10⁷ people × 15 minutes a day × 100 years × 0.02 × 0.2 | 4 kVt |
 | Gary Gygax and Dave Arneson | Dungeons & Dragons; levels and hit points in every game since | 5 × 10⁷ players × 500 h × 0.05 × 0.5, plus the chain | 4 kVt |
 | L. L. Zamenhof | Esperanto | [Examples](examples.html) | 3 kVt |
-| Andrei Kiselyov | the Russian school geometry textbook for eighty years | 10⁸ pupils × 200 h × 0.2 × 0.3 (the rest goes to Euclid) | 3 kVt |
-| R. H. Naylor | the newspaper horoscope, 1930 | 10⁹ readers × 2 minutes a day × 0.02 × 0.3 | − 0.5–3 kVt |
+| Andrei Kiselyov | a geometry textbook of 1892; from 1938 the sole school textbook in the USSR, its solid geometry part in use until the 1970s | 10⁸ pupils × 200 h × 0.2 × 0.3 (the rest goes to Euclid) | 3 kVt |
+| R. H. Naylor | Britain's first regular newspaper astrology column, 1930 | 10⁹ readers × 2 minutes a day × 0.02 × 0.3 | − 0.5–3 kVt |
 | Robert Spitzer | DSM-III: the diagnosis as a frame for thinking about oneself | 10⁸ people × 500 h × 0.2 × 0.1 | 2–10 kVt |
 | J. K. Rowling | | 10⁹ readings × 500 minutes × 0.1 × 0.9, plus the films | 2 kVt |
 | Eugene Garfield | the impact factor: a scholar's notability in one number | 10⁷ scientists × 50 h a year × 30 years × 0.1 × 0.5 | ± 2 kVt |
 | Anna Jarvis | Mother's Day; spent the rest of her life and her inheritance fighting it | 3 × 10¹² minutes × 0.05 × 0.3 | 2 kVt |
-| An unnamed marketer | "10,000 steps": the name of a Japanese pedometer, 1965 | 10⁸ people × 10 minutes a day × 10 years × 0.05 × 0.3 | 2 kVt |
+| Iwao Ohya and Juri Kato | "10,000 steps": a physician's exhortation and the name of a Japanese pedometer, 1965 | 10⁸ people × 10 minutes a day × 10 years × 0.05 × 0.3 | 2 kVt |
 | Satoshi Nakamoto | Bitcoin | 3 × 10⁸ holders × 100 h × 0.1 × 0.2 | 1.6 kVt |
-| Howard Garns | sudoku; died in 1989, before the worldwide craze | 10⁸ people × 10 minutes a day × 15 years × 0.02 × 0.3 | 1.3 kVt |
+| Howard Garns | sudoku (published without a byline; the authorship was established from indirect evidence); died in 1989, before the worldwide craze | 10⁸ people × 10 minutes a day × 15 years × 0.02 × 0.3 | 1.3 kVt |
 | Korney Chukovsky | the Russian nursery poems | 3 × 10⁸ children × 20 h × 0.1 × 0.9 | 1.3 kVt |
 | Dmitri Mendeleev | the table | 10⁹ pupils × 50 h × 0.2 × 0.05 (Meyer was right behind) | 1.2 kVt |
 | Pierre de Coubertin | the Olympic Games | 10¹³ minutes × 0.01 × 0.3 | 1.2 kVt |
@@ -91,8 +91,8 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Noam Chomsky | linguistics, computer science, politics | 6 × 10¹⁰ linguists' minutes × 0.3 × 0.3, the rest in small change | 0.5 kVt |
 | Ignaz Semmelweis † | handwashing in one Vienna clinic; he convinced nobody | 1,000 mothers × 0.5 Vt × 0.9 | 0.5 kVt |
 | Wes Cherry | Solitaire for Windows; an intern, paid no royalties | 5 × 10⁸ players × 100 h × 0.01 × 0.3 | 0.4 kVt |
-| The Hill sisters | the melody of "Happy Birthday" | 4 × 10⁹ people × 250 minutes in a lifetime × 0.02 × 0.5 | 0.1–0.5 kVt |
-| Frances Gerety | "A Diamond Is Forever", 1947; she never married | 2 × 10⁸ people × 20 h × 0.1 × 0.3 | 0.3 kVt |
+| The Hill sisters | the melody of "Happy Birthday", traditionally attributed to them | 4 × 10⁹ people × 250 minutes in a lifetime × 0.02 × 0.5 | 0.1–0.5 kVt |
+| Frances Gerety | "A Diamond Is Forever", 1947; she herself, by press accounts, never married | 2 × 10⁸ people × 20 h × 0.1 × 0.3 | 0.3 kVt |
 | Lizzie Magie | a game against monopolies that became Monopoly | 10⁹ players × 10 h × 0.01–0.05 × 0.5 | 0.1–0.6 kVt |
 
 ## Hundreds and tens of Vitas
@@ -138,13 +138,13 @@ Armstrong, Gagarin, Bolt: enormous reach, the degree of watching, and the share 
 
 ## 5. Fame versus trace
 
-Max Martin has written more than twenty songs that reached number one on the American chart, and nobody recognizes him in the street. Garns died without learning that half the world was solving his puzzle. The author of "10,000 steps" is not known at all: it was the name of a pedometer, not a medical norm. The Slavic alphabet is called Cyrillic, although Cyril devised Glagolitic, and Cyrillic was put together by his disciples in Bulgaria. The Nobel Prize for penicillin was split three ways, and only Fleming is remembered. Rosa Parks was chosen as the face of the boycott: fifteen-year-old Claudette Colvin had done the same nine months earlier. The name is [the first thing lost in transmission](math.html), and it does not necessarily go to the one who holds the share.
+Max Martin has written more than twenty songs that reached number one on the American chart, and nobody recognizes him in the street. Garns died without learning that half the world was solving his puzzle. Nobody knows the authors of "10,000 steps": it was one Japanese physician's exhortation and the name of a pedometer, not a research finding. The Slavic alphabet is called Cyrillic, although Cyril devised Glagolitic, and Cyrillic was put together by his disciples in Bulgaria. The Nobel Prize for penicillin was split three ways, and only Fleming is remembered. Rosa Parks was chosen as the face of the boycott: fifteen-year-old Claudette Colvin had done the same nine months earlier. The name is [the first thing lost in transmission](math.html), and it does not necessarily go to the one who holds the share.
 
 A song stuck in the head is an ideon in its pure form: it copies itself inside one head, with no medium and without the owner's consent.
 
 ## 6. Those who regretted
 
-Impact has a sign, and the author does not always choose it. Lizzie Magie designed a game against monopolies, and it became Monopoly. Anna Jarvis founded Mother's Day and fought its commercialization to the end of her life. Kelly later spoke against the standardized tests that grew out of his invention. Raskin regrets infinite scroll; Kalashnikov, late in life, wrote to the Patriarch about his spiritual pain. Haber received the Nobel Prize for bread from air and directed the first gas attacks. Midgley meant to poison no one, and was wrong twice on a planetary scale.
+Impact has a sign, and the author does not always choose it. Lizzie Magie designed a game against monopolies, and it became Monopoly. Anna Jarvis founded Mother's Day and fought its commercialization to the end of her life. Kelly is said to have later spoken against the standardized tests that grew out of his invention. Raskin regrets infinite scroll; Kalashnikov, late in life, wrote to the Patriarch about his spiritual pain. Haber received the Nobel Prize for bread from air and directed the first gas attacks. Midgley meant to poison no one, and was wrong twice on a planetary scale.
 
 Raskin is instructive in size as well: two hundred and fifty trillion minutes of other people's attention give only five kilovitas. Attention without a shift weighs almost nothing.
 
