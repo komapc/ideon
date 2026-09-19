@@ -1,6 +1,6 @@
 ---
 title: Selfhood
-description: What in a person is their own and what was received from others: selfhood as the wellspring of new ideas, why it is not the same as influence, and what Nietzsche, Buddhism, the Stoics and postmodernism do with it.
+description: What in a person is their own and what was received from others: selfhood, why it needs no free will and does not fear determinism, and what Nietzsche, Buddhism, the Stoics and postmodernism do with it.
 ---
 
 # Selfhood: what in you is yours
@@ -68,7 +68,21 @@ The test of selfhood for a model is the same as for a person: what would have ch
 
 The difference lies elsewhere. A model has no minutes of its own: no life lived on credit, no incoming account and nothing to return. Parity does not apply to it, and no impact account is opened for it yet: its part is credited to the chain of people who stand behind it.
 
-## 6. What the theory does not say about selfhood
+## 6. Free will and determinism
+
+Selfhood does not need free will, and determinism does not threaten it. The whole ledger of the theory rests on the question "what would have been different had this source been replaced", not on the question "could they have done otherwise". The first question has an answer even in a world where everything is fated: the bridge fell because of the bolt, although bolt and bridge both obey physics. Laplace's demon, who knows all causes, does not abolish selfhood; he would compute it exactly.
+
+Chance adds nothing to selfhood. If a decision was made by noise in a synapse, nature made it, and the ledger credits it to nature. Selfhood is even better off in a fated world: there, what a head does follows from what it is.
+
+The Stoics had an image for this. Chrysippus's cylinder rolls because it was pushed, but it rolls the way its shape dictates: the push is someone else's, the shape is its own. Spinoza says the same without the image: there is no free will, but whoever acts from the necessity of their own nature rather than from outside pushes is free. Calvinism and karma keep accounts under full predestination and see no contradiction in it.
+
+The real difficulty is not determinism but regress: the shape of the cylinder was also made by someone. To answer for yourself all the way down you would have had to create yourself. The theory has two replies. The first is the same as for any chain: parents, language and teachers already received their shares in the minutes when they were shaping the head, and the further back they are, the more replaceable; today's selfhood gets only what cannot be credited to any single input. The second is a loop: the head chooses what enters it, and what enters shapes the head. Selfhood is not its own cause but a feedback, and it accumulates like compound interest. Hence a testable consequence: selfhood grows with age. There is a hint in the data: the heritability of cognitive traits increases from childhood to adulthood, and the usual explanation is that people choose their own environments.
+
+One convention remains. When a result needs both the head and the input, so that without either nothing would have happened, the Shapley value splits it between them equally. That is the symmetry axiom, a convention and not a discovery.
+
+What is lost is desert in the ultimate sense and the absolute "could have done otherwise". The theory does not need them: impact is an account of causal difference, not a reward.
+
+## 7. What the theory does not say about selfhood
 
 It does not measure it: only what passed from head to head is counted. That is why the working threshold of parity is taken with a margin: one Vita, the upper bound of the debt whatever the selfhood.
 
