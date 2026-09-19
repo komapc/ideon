@@ -63,12 +63,12 @@ Fermi estimates, except Harrison, who was computed by the protocol. The ordinary
 | Writer | Tolstoy, on the order of 1 kVt | An author with thirty thousand readers: 0.01–0.1 Vt | Not notable |
 | Musician | The Beatles, 4 kVt for the four | A song with ten million plays: 0.01–0.1 Vt | Not notable |
 | Footballer | Messi, 20–400 Vt | A top-league player: 0.004–0.1 Vt | Not notable |
-| Chess player | Carlsen, 1–60 Vt | A grandmaster: 0.001–0.01 Vt | Not notable |
+| Chess player | Carlsen, 5–200 Vt | A grandmaster: 0.001–0.01 Vt | Not notable |
 | Donor | Harrison, 1–700 Vt | — | Notable, by the very edge |
 | Creator of a language | Ben-Yehuda, 50 kVt | Zamenhof, 3 kVt | Notable |
 | Wikipedia editor | — | Not notable under ВП:КЗП; [0.2 Vt](examples.html) over twenty years | Not notable |
 
-Carlsen shows both factors. The world champion's title is a seat, and without him someone else would have sat in it; what is his own is the style, the fast chess, the streams. Only the minutes that would not have existed without him count: ten to thirty billion minutes of viewers and students, a degree from 0.02 to 0.1, a share from 0.1 to 0.5.
+Carlsen shows both factors. The world champion's title is a seat, and without him someone else would have sat in it; what is his own is the style, the fast chess, the streams. The minutes around him number thirty to a hundred billion: matches, streams, analyses. A fifth is the study of his games, a skill, degree 0.2; the rest is watching, degree 0.01 to 0.05. Only what would not have existed without him counts: the chess boom would have happened anyway, and people would have watched someone else, so the share is 0.1 to 0.5. Even the lower bound is above a Vita: notable.
 
 Those who pass the threshold but will not get an article: the founder of a closed community of five thousand (tens of Vitas, no sources); the person who single-handedly maintains a library used by millions of programmers; the speechwriter, because degrees go to the author and fame to the reteller; the author of a joke. The author of a popular game modification, at about two Vitas by the central estimate, would land in a discussion. The theory calls them notable; Wikipedia answers: notable and verifiable. Both requirements are needed, and the theory does not replace the second.
 
