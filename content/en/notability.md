@@ -70,7 +70,7 @@ Fermi estimates, except Harrison, who was computed by the protocol. The ordinary
 
 Carlsen shows both factors. The world champion's title is a seat, and without him someone else would have sat in it; what is his own is the style, the fast chess, the streams. Only the minutes that would not have existed without him count: ten to thirty billion minutes of viewers and students, a degree from 0.02 to 0.1, a share from 0.1 to 0.5.
 
-Those who pass the threshold but will not get an article: the founder of a closed community of five thousand (tens of Vitas, no sources); the author of a popular game modification (about two Vitas); the person who single-handedly maintains a library used by millions of programmers; the speechwriter, because degrees go to the author and fame to the reteller; the author of a joke. The theory calls them notable; Wikipedia answers: notable and verifiable. Both requirements are needed, and the theory does not replace the second.
+Those who pass the threshold but will not get an article: the founder of a closed community of five thousand (tens of Vitas, no sources); the person who single-handedly maintains a library used by millions of programmers; the speechwriter, because degrees go to the author and fame to the reteller; the author of a joke. The author of a popular game modification, at about two Vitas by the central estimate, would land in a discussion. The theory calls them notable; Wikipedia answers: notable and verifiable. Both requirements are needed, and the theory does not replace the second.
 
 ## 6. Topics
 
