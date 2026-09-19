@@ -1,6 +1,6 @@
 ---
 title: Protocol
-description: Eleven rules for counting impact, written down before the calculation, and one account computed by them: the plasma donor James Harrison.
+description: Eleven rules for counting impact, written down before the calculation, one account computed by them, the plasma donor James Harrison, and a blind recount by two independent counters.
 ---
 
 # Counting protocol
@@ -122,7 +122,7 @@ Harrison's share = w / Σw: from 0.0004 / 1.51 to 0.05 / 0.67, that is **0.03–
 
 ## 6. The second test: a blind recount
 
-On 19 September 2026 two counters, Claude and GPT, received the same rules R1–R11 without the Harrison example, two declared channels, and counted separately without seeing each other's numbers. The cases were ones that do not appear on the site. Claude's count was written down before GPT's answer; its inputs were taken from memory, without references, which is weaker than R1. [The assignments, both answers and Claude's count](https://github.com/komapc/ideon/tree/main/notes) are in the repository (in Russian).
+On 19 September 2026 two counters, Claude and GPT, received the same rules R1–R11 without the Harrison example, two declared channels, and counted separately without seeing each other's numbers. The cases were ones that do not appear on the site. Claude's count was written down before GPT's answer; its inputs were taken from memory, without references, which is weaker than R1. [The assignments, both answers and Claude's count](https://github.com/komapc/ideon/tree/main/notes) are in the repository (in Russian). Here the order is not fixed by the repository history: the assignment was committed before the run, while Claude's count and GPT's answers landed in the same commit.
 
 **The first run failed.** GPT read the rules literally: p, d, remaining life and the number of readers are not external verifiable quantities (R1), so it gave each of them its whole mathematical domain and arrived at "from zero to infinity". R10 requires an interval with an explanation but nowhere says that the interval must be substantive; until now this was visible only from the example. For the second run a clarification was added to the assignment: trivial intervals are forbidden, every judgment point gets an argument, the chain is limited to the links named in the sources. The rules themselves were not changed.
 
