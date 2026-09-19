@@ -9,7 +9,7 @@ A theory of the meaning of life in which meaning can be estimated: not to a rule
 
 The meaning of a person's life is how much they changed reality, and the only reality in which anything can mean something is other people's heads. What you shifted in someone else's head is an **ideon**. Ideons come in different magnitudes; the unit of magnitude is the **peirce**: one minute of someone else's, wholly yours. Credit flows along the chain of causes to everyone without whom the result would not have happened. Sign and precision are separate axes. The largest account in history is unsigned.
 
-All the thought of one person over a lifetime is one **Vita**. You received almost all of yours on credit. **Parity** is the moment you have returned as much into other people's heads. The typical person dies at 0.4 Vita.
+All the thought of one person over a lifetime is one **Vita**. You received almost all of yours on credit. **Parity** is the moment you have returned as much into other people's heads. The typical person dies at about 0.2 Vita.
 
 ## Sections
 

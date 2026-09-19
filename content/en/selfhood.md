@@ -32,7 +32,7 @@ Selfhood and impact are different quantities, and neither follows from the other
 
 The upper right corner is unstable: Kafka moved to the left one after death, when Max Brod did not burn the manuscripts. The selfhood was Kafka's, the distribution was Brod's, and by irreplaceability Brod gets a good deal.
 
-Most people have selfhood, and the impact that comes from it is close to zero. The typical 0.4 Vita is earned almost entirely by re-emission: language, norms, a way of raising children are passed on as they were received. The share is still paid in full, because share is counted by irreplaceability, not by novelty: a parent is irreplaceable for their child even without having said a single word of their own. In an ordinary person what is their own lives in the assembly and in the filter, and like everything in this theory it is distributed with a heavy tail: a few produce almost everything new.
+Most people have selfhood, and the impact that comes from it is close to zero. The typical 0.2 Vita is earned almost entirely by re-emission: language, norms, a way of raising children are passed on as they were received. The share is still paid in full, because share is counted by irreplaceability, not by novelty: a parent is irreplaceable for their child even without having said a single word of their own. In an ordinary person what is their own lives in the assembly and in the filter, and like everything in this theory it is distributed with a heavy tail: a few produce almost everything new.
 
 Hence a consequence for anyone who wants impact: distribution without production is retelling, and retelling is replaceable. What makes you irreplaceable is what is your own.
 

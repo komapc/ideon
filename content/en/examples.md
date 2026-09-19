@@ -11,8 +11,8 @@ All figures are Fermi estimates, accurate to an order of magnitude. The ordering
 
 | Who | Minutes of attention | Degree | Share | Peirces | Vt |
 |---|---|---|---|---|---|
-| Typical person (median) | ~10⁷ (children, family, friends) | 0.3–1 | 0.5–1 | ~10⁷ | 0.4 |
-| Active Wikipedia editor | + 10⁶–10⁷ page views per year | 0.2 | 0.5 | ~2 × 10⁷ | 0.8 |
+| Typical person (median) | ~10⁷ (children, family, friends) | 0.3–1 | 0.2–0.5 | ~5 × 10⁶ | 0.2 |
+| Active Wikipedia editor | + 10⁶–10⁷ page views per year | 0.2 | 0.5 | ~1.5 × 10⁷ | 0.6 |
 | James Harrison, blood donor | 4–9 thousand lives for the whole program × 2.5 × 10⁷ | 1 | 0.0003–0.07 | ~3 × 10⁷–2 × 10¹⁰ | 1–700, [by protocol](protocol.html) |
 | Donald Trump | ~10¹³ (2015–2026, worldwide) | 0.1 | 0.5 | ~10¹² | 40 k |
 | Eliezer Ben-Yehuda | ~10¹⁴ (Hebrew speakers since the 1920s) | 0.15 | 0.07 | ~10¹² | 50 k, growing |
@@ -22,7 +22,7 @@ All figures are Fermi estimates, accurate to an order of magnitude. The ordering
 | Muhammad | ~2 × 10¹⁵ (5 billion Muslims, 5 prayers a day) | 0.5 | 0.4 | ~4 × 10¹⁴ | 20 M |
 | The Anonymous | ~10¹⁸ (language, counting, fire, norms) | ~1 | distributed | > 5 × 10¹⁷ | > 20 G |
 
-**The typical person: 0.4 Vt.** Almost all of it is children (about 0.1 Vt each) and close people. That is the median; the mean outgoing account equals the mean incoming one by the conservation law, and the tail, the Anonymous and the founders of religions, holds the difference. Check: 117 billion people who lived about a third of a Vita on average give on the order of 10¹⁸ minutes, humanity's budget.
+**The typical person: about 0.2 Vt.** Almost all of it is children (about 0.05 Vt each per parent) and close people. A parent's share is more modest than it seems: in teaching a child to speak and to live, a parent mostly passes on what belongs to others, and the larger share goes along the chain to the Anonymous. The earlier bottom-up estimate gave 0.4 Vt and did not agree with the conservation law: if more than half of every minute belongs to the Anonymous, close people are left with about a third of the human part. The [protocol](protocol.html) keeps the earlier figure as it was. That is the median; the mean outgoing account equals the mean incoming one by the conservation law, and the tail, the Anonymous and the founders of religions, holds the difference. Check: 117 billion people who lived about a third of a Vita on average give on the order of 10¹⁸ minutes, humanity's budget.
 
 **Trump: gigantic minutes, tiny degree.** People think about him a lot, but he changes the direction of their thought very little. R₀ after his death is probably below one.
 
@@ -40,7 +40,7 @@ All figures are Fermi estimates, accurate to an order of magnitude. The ordering
 
 The formula: yearly page views of your articles × 2 minutes of reading × 0.2 (degree: other sources exist) × 0.5 (another editor could have written it, but you did) × authorship share (your bytes relative to the article's size).
 
-A real calculation via the API for an editor of the Russian Wikipedia, active since 2003, with about 900 surviving created articles and ten million page views a year: a rate of about 22 mVt per year, about 0.2 Vt accumulated, and 0.6 Vt after another twenty years at the same rate. That is like two or three raised children. With the typical person's background of 0.4 Vt, parity is reached after roughly forty years of editing.
+A real calculation via the API for an editor of the Russian Wikipedia, active since 2003, with about 900 surviving created articles and ten million page views a year: a rate of about 22 mVt per year, about 0.2 Vt accumulated, and 0.6 Vt after another twenty years at the same rate. That is like four raised children. With the typical person's background of 0.2 Vt, parity is reached after roughly forty years of editing.
 
 Wikipedia is the model case of repaying the debt: anonymous ideons by charter, a long chain, high R₀. And this theory cannot be added to it, because original research is prohibited there.
 

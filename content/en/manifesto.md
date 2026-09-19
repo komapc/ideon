@@ -31,7 +31,7 @@ There are sixty minutes an hour per person, and each is divided without remainde
 
 ## 7. The threshold
 
-A Vita is all the thought of one person over a lifetime, 25 million minutes. You received almost all of yours on credit: from language, parents, friends, strangers. Parity is when you have returned as much. The typical person dies at 0.4 Vita.
+A Vita is all the thought of one person over a lifetime, 25 million minutes. You received almost all of yours on credit: from language, parents, friends, strangers. Parity is when you have returned as much. The typical person dies at about 0.2 Vita.
 
 ## 8. The largest account is unsigned
 
