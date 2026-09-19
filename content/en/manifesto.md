@@ -1,5 +1,6 @@
 ---
 title: Manifesto
+description: Nine theses of ideonology: meaning is measurable, credit flows along the chain, as much given as received, and the largest account in history is unsigned.
 ---
 
 # Manifesto
@@ -10,7 +11,7 @@ The meaning of a life is how much it changed other people's heads; there is no o
 
 ## 2. The ideon and its magnitude
 
-An ideon is what you shifted in someone else's head: a thought, an example, a deed. Ideons come in different magnitudes. The unit of magnitude is the peirce: one minute of someone else's thought, shifted by one degree. A film seen by a million people for ten minutes is ten million minutes for the crew. A saved life is all of its future minutes, in share. A retelling is credit to you and to the author. A raised child is their minutes to the extent you shaped them.
+An ideon is what you shifted in someone else's head: a thought, an example, a deed. Ideons come in different magnitudes. The unit of magnitude is the peirce: one minute of someone else's, wholly yours. A film seen by a million people for ten minutes is ten million minutes for the crew. A saved life is all of its future minutes, in share. A retelling is credit to you and to the author. A raised child is their minutes to the extent you shaped them.
 
 ## 3. Credit runs along the chain
 
@@ -24,13 +25,13 @@ Hitler and Gandhi are enormous in magnitude and opposite in sign. The theory mea
 
 Coherence: whether what you meant to shift matched what you shifted. A light bulb and a laser spend the same energy. Meditation yields no ideons and changes no sign; it turns the bulb into a laser.
 
-## 6. Impact is not conserved, minutes are
+## 6. As much given as received
 
-An ideon is a flow: it dissipates once forgotten. The budget of minutes is fixed: sixty an hour per person. Attention is a zero-sum game, and an ideon lives only by re-emission.
+There are sixty minutes an hour per person, and each is divided without remainder among those who shaped it: other people, the person themself, nature. There is one conservation law: as much as everyone has given, everyone has received. To get into someone else's minute you have to displace someone from it. An ideon is a flow: it dissipates once forgotten and lives only by re-emission.
 
 ## 7. The threshold
 
-A Vita is all the thought of one person over a lifetime, 25 million minutes. You received yours on credit: from language, parents, friends, strangers. Parity is when you have returned as much. The typical person dies at 0.4 Vita.
+A Vita is all the thought of one person over a lifetime, 25 million minutes. You received almost all of yours on credit: from language, parents, friends, strangers. Parity is when you have returned as much. The typical person dies at 0.4 Vita.
 
 ## 8. The largest account is unsigned
 

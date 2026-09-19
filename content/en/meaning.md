@@ -1,5 +1,6 @@
 ---
 title: Meaning
+description: What is the meaning of life: ten variants of the goal, from maximum influence to "live unnoticed", the answers of Nietzsche, Kant, the utilitarians and the Stoics, and what ideonology chooses.
 ---
 
 # Meaning and its variants
@@ -10,7 +11,7 @@ The word "meaning" here means one thing: the meaning of a life, the answer to "d
 
 - **The trace.** Meaning is what remains outside you, in other people's heads. Visible from outside, comparable between people, outlives you.
 - **From within.** Meaning is what was lived: experience, intention, being true to oneself. It needs no trace, cannot be compared and has no witnesses.
-- **None.** The question has no answer, or the answer does not matter. The strong version leans on the second law: everything fades, and nobody keeps the account.
+- **None.** The question has no answer, or the answer does not matter. The strong version leans on dissipation: everything fades, and nobody keeps the account.
 
 Ideonology takes the first answer. It does not refute the other two; what it can say to them is in section 5.
 
@@ -41,7 +42,7 @@ The variants combine. Direction plus length is longtermism. Absolute magnitude p
 
 **Utilitarianism — result only.** The same bookkeeping in a different currency: pleasure minus suffering instead of minutes times degrees. The same problem of the account that never closes: consequences stretch on forever. The difference is that utilitarianism measures welfare, and ideonology measures thought.
 
-**Epicurus and the Stoics — zero, but for different reasons.** Epicurus says literally "live unnoticed": minimize impact for the sake of tranquility. The Stoics acknowledge magnitude but bracket it: the result is not in your power, so measure yourself by intention and be indifferent to the rest. Marcus Aurelius observes that posthumous fame is "an echo of an echo", and those who remember will die too. The first formulation of the second law.
+**Epicurus and the Stoics — zero, but for different reasons.** Epicurus says literally "live unnoticed": minimize impact for the sake of tranquility. The Stoics acknowledge magnitude but bracket it: the result is not in your power, so measure yourself by intention and be indifferent to the rest. Marcus Aurelius observes that posthumous fame is "an echo of an echo", and those who remember will die too. The first formulation of the rule of dissipation.
 
 ## 4. What the theory chooses
 
@@ -56,4 +57,4 @@ Why the trace and not "from within": only the trace is visible from outside and 
 
 **Meaning from within.** A life lived fully and without witnesses scores zero on this ruler. The manifesto answers bluntly: there is no other reality in which anything can matter. That is an axiom, not a conclusion; it cannot be proved, only accepted or not. To someone who does not accept it the theory has one reply: such meaning cannot be shown, compared or passed on, and once it has been passed on, it has become a trace. [Meditation](comparison.html) is the borderline case: impact is zero, but coherence grows.
 
-**"It does not matter."** On an infinite horizon the nihilist is right: by the second law everything dissipates, the Anonymous included. The theory answers not with a refutation but with a choice of horizon: the account is kept while there are heads, and within that span the difference between 0.4 Vt and 400 kVt is real.
+**"It does not matter."** On an infinite horizon the nihilist is right: by the rule of dissipation everything fades out, the Anonymous included. The theory answers not with a refutation but with a choice of horizon: the account is kept while there are heads, and within that span the difference between 0.4 Vt and 400 kVt is real.

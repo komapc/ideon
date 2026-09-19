@@ -1,5 +1,6 @@
 ---
 title: Comparison
+description: Ideonology next to Peirce, Dawkins, Shapley and Tolstoy; fifteen philosophical schools and religions in one language: goal, arbiter, horizon.
 ---
 
 # Comparison with philosophies and religions

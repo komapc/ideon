@@ -1,5 +1,6 @@
 ---
 title: Examples
+description: Who influenced humanity the most, what money buys, what a Wikipedia edit is worth: Fermi estimates of impact in peirces and Vitas.
 ---
 
 # Examples and estimates
@@ -21,7 +22,7 @@ All figures are Fermi estimates, accurate to an order of magnitude. The ordering
 | Muhammad | ~2 × 10¹⁵ (5 billion Muslims, 5 prayers a day) | 0.5 | 0.4 | ~4 × 10¹⁴ | 20 M |
 | The Anonymous | ~10¹⁸ (language, counting, fire, norms) | ~1 | distributed | > 5 × 10¹⁷ | > 20 G |
 
-**The typical person: 0.4 Vt.** Almost all of it is children (about 0.1 Vt each) and close people. That is the median; the arithmetic mean is exactly 1 Vt by the first law, and the tail, the Anonymous and the founders of religions, holds the difference. Check: 117 billion people times 10⁷–2.5 × 10⁷ gives on the order of 10¹⁸, humanity's budget of minutes.
+**The typical person: 0.4 Vt.** Almost all of it is children (about 0.1 Vt each) and close people. That is the median; the mean outgoing account equals the mean incoming one by the conservation law, and the tail, the Anonymous and the founders of religions, holds the difference. Check: 117 billion people who lived about a third of a Vita on average give on the order of 10¹⁸ minutes, humanity's budget.
 
 **Trump: gigantic minutes, tiny degree.** People think about him a lot, but he changes the direction of their thought very little. R₀ after his death is probably below one.
 
@@ -31,7 +32,7 @@ All figures are Fermi estimates, accurate to an order of magnitude. The ordering
 
 ## 2. Three languages and one blood
 
-**Ben-Yehuda and Zamenhof** were born a year apart, both Jews from the Russian Empire, both made a language. Hebrew has about nine million speakers who think in it every minute of their lives; the accumulated minutes since the 1920s are on the order of 10¹⁴, the degree of the language choice is 0.15, and Ben-Yehuda's share in the revival is 5–10 percent (Zionism was already pulling toward Hebrew, and the schools did most of the work). About 50 kVt today, and the account keeps growing, because children get the language for free. Esperanto: about ten million learners over 140 years and about a hundred thousand active speakers, on the order of 3 × 10¹¹ minutes, degree 0.5 (these minutes are entirely voluntary), share 0.4 (he designed the language personally). About 3 kVt, stable. The twentyfold difference is explained by one word: the state. Hebrew is re-emitted through birth, Esperanto through a decision. The state is the most powerful machine against the second law.
+**Ben-Yehuda and Zamenhof** were born a year apart, both Jews from the Russian Empire, both made a language. Hebrew has about nine million speakers who think in it every minute of their lives; the accumulated minutes since the 1920s are on the order of 10¹⁴, the degree of the language choice is 0.15, and Ben-Yehuda's share in the revival is 5–10 percent (Zionism was already pulling toward Hebrew, and the schools did most of the work). About 50 kVt today, and the account keeps growing, because children get the language for free. Esperanto: about ten million learners over 140 years and about a hundred thousand active speakers, on the order of 3 × 10¹¹ minutes, degree 0.5 (these minutes are entirely voluntary), share 0.4 (he designed the language personally). About 3 kVt, stable. The twentyfold difference is explained by one word: the state. Hebrew is re-emitted through birth, Esperanto through a decision. The state is the most powerful machine against dissipation.
 
 **James Harrison** donated plasma with rare anti-D antibodies 1,173 times over sixty years. The first estimate on this page gave him 5–30 kVt and was wrong: the "2.4 million" in the press is doses and mothers, not babies saved. A recount under the [protocol](protocol.html), with rules written before the calculation, gives the whole Australian anti-D program 4–9 thousand lives saved, and Harrison a share of 0.03 to 7 percent, hence 1–700 Vt. Half of the three-order interval is one question: whether the program would have replaced one donor in a small pool. But this is an ideon that passed only through the channel of deeds: no words, no reach, only degrees. A plus sign without a single disputed case in his channel, coherence of one. By I × S × Q, not a record but a specimen: the only account on this site computed under the rules.
 
