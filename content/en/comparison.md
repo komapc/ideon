@@ -38,7 +38,7 @@ Two auxiliary terms. The **arbiter** is who assigns the sign and keeps the accou
 
 | School | Goal | Bet | Arbiter | Horizon | In the language of ideons |
 |---|---|---|---|---|---|
-| Christianity | +I by intention and result | G | God | Last Judgment | The only school where the account is zeroed from outside: grace and forgiveness violate conservation. Hidden impact ("let not thy left hand know") is worth more than visible. Mission is the maximization of reach. |
+| Christianity | +I by intention and result | G | God | Last Judgment | The only school where the sign is zeroed from outside: grace and forgiveness erase it without touching the ledger of minutes. Hidden impact ("let not thy left hand know") is worth more than visible. Mission is the maximization of reach. |
 | Islam | +I by intention ("deeds are by intentions") | M and G | Allah | Judgment | Sadaqah jariyah: deeds that yield reward after death (a well, a book, a raised child) are a direct recognition of the chain with slow damping. Isnad is name-by-name accounting of the chain of transmission. |
 | Judaism | +I, a collective account | G | God | The coming of the Messiah | Zekhut avot: the merits of the fathers are credited to the descendants; impact flows downward too. The Talmud cites "in the name of Rabbi X", a bookkeeping of sources. Tikkun olam: to repair the world is to shift. |
 | Buddhism | 0 sankharas | neither M nor G | Automatic (karma without a judge) | Exit from samsara | The bodhisattva: maximum impact in order to bring others to zero. Renouncing the account itself becomes the largest account. |
@@ -57,7 +57,7 @@ Two auxiliary terms. The **arbiter** is who assigns the sign and keeps the accou
 What stands out:
 
 - The vertical chain (parents, ancestors) is explicitly kept only by Confucianism and Judaism, and Judaism in both directions.
-- Non-conservation is admitted only by Christianity: grace zeroes the account from outside.
+- Only Christianity lets the sign be zeroed from outside: grace erases the guilt, while the minutes stay with whoever owned them.
 - Taoism alone separates influence from credit: maximum degrees while renouncing attribution. A third position between Nietzsche and the Buddha.
 
 ## 4. Meditation
