@@ -47,7 +47,7 @@ The variants combine. Direction plus length is longtermism. Absolute magnitude p
 ## 4. What the theory chooses
 
 - **It measures magnitude but does not call for maximizing it.** "The meaning of a life is how much you changed other people's heads" is a definition, not a command. The first row of the table describes the ruler, not the goal.
-- **The only quantitative norm the theory itself proposes is the threshold.** Parity: return the one Vita you received on credit. Above the threshold it prescribes nothing.
+- **The only quantitative norm the theory itself proposes is the threshold.** Parity: return what you received on credit; the working threshold is one Vita. Above the threshold it prescribes nothing.
 - **Direction is plugged in separately.** The sign is a module with a choice of arbiter; the second row of the table is a choice of arbiter, not part of the ruler.
 - **It rejects the name.** The name dissipates faster than the content, so the advice is to repay the debt in anonymous ideons.
 

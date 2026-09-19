@@ -30,7 +30,7 @@ The generic definition: **a consequentialist, causal, non-welfarist theory of th
 
 Put together: ideonology is Peirce's pragmatism applied to a life, with memetics as the unit, the Shapley value as the bookkeeping, and Tolstoy as the opponent on the coefficient.
 
-What the classical schools propose to do with impact — maximize it, direct it, bring it to zero — is covered on the [Meaning](meaning.html) page.
+What the classical schools propose to do with impact — maximize it, direct it, bring it to zero — is covered on the [Meaning](meaning.html) page; what they do with the person's own part of their own minute is on the [Selfhood](selfhood.html) page.
 
 ## 3. Schools and religions
 
@@ -62,4 +62,4 @@ What stands out:
 
 ## 4. Meditation
 
-Meditation changes only your own degree without touching anyone else's. By the definition of the unit it yields zero impact. Its value is of a different kind: it raises the coherence of the emitter, that is, the match between what you want to shift and what you actually shift. It reduces noise and gives access to your own intention, without which the account by intention is unmeasurable even for yourself. The Buddha meditated and then collected one of the largest accounts in history: a workshop, not a product. The only axis where there is no zero-sum game.
+Meditation changes only your own minutes without touching anyone else's. By the definition of the unit it yields zero impact. Its value is of a different kind: it raises the coherence of the emitter, that is, the match between what you want to shift and what you actually shift. It reduces noise and gives access to your own intention, without which the account by intention is unmeasurable even for yourself. The Buddha meditated and then collected one of the largest accounts in history: a workshop, not a product. The only axis where there is no zero-sum game.

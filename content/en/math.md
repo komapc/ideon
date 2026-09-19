@@ -82,7 +82,7 @@ The vertical chain (parents, ancestors) is cut off by irreplaceability itself: p
 
 ## 5. The conservation law
 
-There is one law, and it follows from A1 and A2:
+There is one law, and it follows from A2 and the definition of the incoming account; A1 lets the minutes of different people be added without weights:
 
 > Σ<sub>A</sub> I(A) = Σ<sub>B</sub> incoming account(B)
 

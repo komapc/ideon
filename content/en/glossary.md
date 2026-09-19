@@ -75,7 +75,7 @@ Terms are given in pairs so that the Russian and English versions of this site t
 
 **Vita (Vt)** — all the thought of one person over a lifetime: 1 Vt ≡ 2.5 × 10⁷ peirces, by definition, the way the speed of light is fixed. Convenient subunits: the microvita (µVt, 25 peirces) is one conversation; the millivita (mVt) is one deed; the Vita is one biography.
 
-**Parity** — repayment of the debt: whether you have given to other heads no less than you received into your own. The working threshold is one Vita: the upper bound of the debt for a full life. Below it you are a net absorber, above it a net emitter. The typical person (the median) reaches about 0.4 Vt by death; the mean outgoing account equals the mean incoming one by the conservation law, and the heavy tail holds the difference.
+**Parity** — repayment of the debt: whether you have given to other heads no less than you received into your own. The working threshold is one Vita: the upper bound of the debt for a full life. Above it you are certainly a net emitter; below it, most likely an absorber: the exact debt is each person's own and smaller than a Vita. The typical person (the median) reaches about 0.4 Vt by death; the mean outgoing account equals the mean incoming one by the conservation law, and the heavy tail holds the difference.
 
 ## Dynamics
 
