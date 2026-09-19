@@ -87,6 +87,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Leonid Gaidai | Soviet comedies that dissolved into catchphrases | 2 × 10⁸ viewers × 50 viewings × 90 minutes × 0.05 × 0.5 | 1 kVt |
 | Andrey Kolmogorov | the Soviet school mathematics reform of the 1970s; possibly his largest account | 4 × 10⁷ pupils × 750 h × 0.05 × 0.3 | ± 1 kVt |
 | Wales, Sanger, Cunningham | Wikipedia and the wiki | 6 × 10¹² minutes of reading × 0.2 × 0.02 each | 1 kVt each |
+| Joe Rogan | the largest talk podcast | 10¹² minutes × 0.05 × 0.4 (the rest goes to the guests) | 0.3–3 kVt |
 | Alexey Pajitnov | Tetris | 10⁹ players × 50 h × 0.01 × 0.5 | 0.6 kVt |
 | Noam Chomsky | linguistics, computer science, politics | 6 × 10¹⁰ linguists' minutes × 0.3 × 0.3, the rest in small change | 0.5 kVt |
 | Ignaz Semmelweis † | handwashing in one Vienna clinic; he convinced nobody | 1,000 mothers × 0.5 Vt × 0.9 | 0.5 kVt |
@@ -100,7 +101,8 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Who | For what | Calculation | Estimate |
 |---|---|---|---|
 | Max Martin | the author of dozens of hits whom nobody knows by sight | 10¹¹ plays × 3.5 minutes × 0.02 × 0.4 | 100 Vt |
-| MrBeast | the largest channel on YouTube | 5 × 10¹¹ minutes × 0.01 × 0.3–0.5 | 60–100 Vt |
+| MrBeast | the largest channel on YouTube | 4 × 10¹¹ minutes × 0.01–0.03 × 0.3–0.5 | 50–250 Vt |
+| A podcaster with a million listeners | two hours of talk twice a week, five years | 6 × 10¹⁰ minutes × 0.05 (opinion) × 0.5 (the other half goes to the guests) | 60 Vt |
 | Marcus Aurelius | a diary written for himself | 3 × 10⁷–10⁸ readers × 5 h × 0.1 × 0.8 | 30–300 Vt |
 | Lionel Messi | | [Notability](notability.html) | 20–400 Vt |
 | Magnus Carlsen | | [Notability](notability.html) | 5–200 Vt |
@@ -111,7 +113,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Usain Bolt | |  | 10 Vt |
 | Neil Armstrong | Aldrin would have been first | 6 × 10⁸ viewers × 200 minutes × 0.03 × 0.01–0.1 | 1–15 Vt |
 | Leonardo, for the Mona Lisa | | [Examples](examples.html) | 2 Vt |
-| An influencer with a million followers | an entertainment feed | 10⁶ × half a minute a day × 5 years × 0.01 × 0.5 | 0.2 Vt |
+| An influencer with a million followers | an entertainment feed | 10⁶ × half a minute a day × 5 years × 0.01–0.03 × 0.5, plus talk about them | 0.1–1 Vt |
 | The typical person | children, family, friends | [Examples](examples.html) | 0.2 Vt |
 
 ## 1. Rescuers above prophets
@@ -134,7 +136,7 @@ Naismith is thirty kilovitas; Messi is four hundred Vitas at best. Wynne, Garns,
 
 ## 4. Famous but small
 
-Armstrong, Gagarin, Bolt: enormous reach, the degree of watching, and the share of a man with a backup standing behind him. Aldrin would have been first on the Moon, Titov first in space. Einstein is about a kilovita, two orders below Dr. Spock: almost nobody understands relativity, while about a hundred million children were raised by Spock's book. Chomsky, one of the most cited scholars of his time, stands next to the author of Tetris: science is a narrow channel with a high degree. An influencer with a million followers gathers as much as an ordinary person does within the family; a teaching channel of the same size, thirty times more.
+Armstrong, Gagarin, Bolt: enormous reach, the degree of watching, and the share of a man with a backup standing behind him. Aldrin would have been first on the Moon, Titov first in space. Einstein is about a kilovita, two orders below Dr. Spock: almost nobody understands relativity, while about a hundred million children were raised by Spock's book. Chomsky, one of the most cited scholars of his time, stands next to the author of Tetris: science is a narrow channel with a high degree. An influencer with a million followers gathers about as much as an ordinary person does within the family. The reason is not the word "influencer" but the unit of counting: a follower in a feed costs half a minute a day at the degree of attention, a podcast listener half an hour a day at the degree of opinion, and the same million gives a hundred times more. Reach must be counted in minutes, not in heads.
 
 ## 5. Fame versus trace
 
