@@ -16,6 +16,7 @@ DESC = {"ru": "Теория смысла жизни, в которой смыс�
 NAV = [("index", {"ru": "Главная", "en": "Home"}),
        ("manifesto", {"ru": "Манифест", "en": "Manifesto"}),
        ("meaning", {"ru": "Смысл", "en": "Meaning"}),
+       ("selfhood", {"ru": "Самость", "en": "Selfhood"}),
        ("glossary", {"ru": "Словарь", "en": "Glossary"}),
        ("math", {"ru": "Математика", "en": "Mathematics"}),
        ("examples", {"ru": "Примеры", "en": "Examples"}),

@@ -15,6 +15,7 @@ All the thought of one person over a lifetime is one **Vita**. You received your
 
 - [Manifesto](manifesto.html) — nine theses.
 - [Meaning](meaning.html) — the possible answers to the question of meaning, ten variants of the goal, and which one the theory takes.
+- [Selfhood](selfhood.html) — what in a person is their own, why it is not the same as influence, and what twelve schools do with it.
 - [Glossary](glossary.html) — ideon, peirce, Vita, parity, degree, share, selfhood, coherence, the Anonymous.
 - [Mathematics](math.html) — three axioms, four rules of transmission, one conservation law, the Shapley value, symmetry of channels.
 - [Examples](examples.html) — who leads in absolute terms, what money buys, three languages and one blood.
