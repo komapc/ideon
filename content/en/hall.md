@@ -100,6 +100,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 
 | Who | For what | Calculation | Estimate |
 |---|---|---|---|
+| Khufu (Cheops) | the Great Pyramid: the builders in his lifetime, then the image and the tourists | 20–30 thousand builders × 20 years × 0.2–0.5 × share 0.1–0.3; image: 5–8 billion people × 30–100 minutes × 0.01–0.05 × the same share | 50–1000 Vt |
 | Max Martin | the author of dozens of hits whom nobody knows by sight | 10¹¹ plays × 3.5 minutes × 0.02 × 0.4 | 100 Vt |
 | MrBeast | the largest channel on YouTube | 4 × 10¹¹ minutes × 0.01–0.03 × 0.3–0.5 | 50–250 Vt |
 | A podcaster with a million listeners | two hours of talk twice a week, five years | 6 × 10¹⁰ minutes × 0.05 (opinion) × 0.5 (the other half goes to the guests) | 60 Vt |
@@ -141,6 +142,8 @@ Armstrong, Gagarin, Bolt: enormous reach, the degree of watching, and the share 
 ## 5. Fame versus trace
 
 Max Martin has written more than twenty songs that reached number one on the American chart, and nobody recognizes him in the street. Garns died without learning that half the world was solving his puzzle. Nobody knows the authors of "10,000 steps": it was one Japanese physician's exhortation and the name of a pedometer, not a research finding. The Slavic alphabet is called Cyrillic, although Cyril devised Glagolitic, and Cyrillic was put together by his disciples in Bulgaria. The Nobel Prize for penicillin was split three ways, and only Fleming is remembered. Rosa Parks was chosen as the face of the boycott: fifteen-year-old Claudette Colvin had done the same nine months earlier. The name is [the first thing lost in transmission](math.html), and it does not necessarily go to the one who holds the share.
+
+Khufu is the reverse case: the name has lived for forty-five centuries, and the account is modest, on the order of Messi's. The main channel is the builders in his lifetime, twenty years taken by force; the image of the pyramid in people's heads and the tourists add less, and a year of fame comes to no more than a fifth of a Vita. The content — cult, power, faith — is lost, while the name survived because it became the label of a unique object. A text needs copyists, a custom needs an institution, and stone needs no one: it is a medium that does not have to be copied, the limit of [asynchrony](math.html). Duration and account are different things: of the man who built the largest tomb in the world, one complete image confidently attributed to him remains — an ivory statuette seven and a half centimetres tall.
 
 A song stuck in the head is an ideon in its pure form: it copies itself inside one head, with no medium and without the owner's consent.
 
