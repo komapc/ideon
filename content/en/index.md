@@ -5,7 +5,7 @@ description: Ideonology is a theory of a person's significance in which signific
 
 # Ideonology
 
-A theory of a person's significance in which significance can be estimated: not to a ruler's precision but to an order of magnitude, and the ordering between people holds.
+A theory of a person's significance: how much of other people's thought they shifted. Significance here can be estimated, and it has a unit.
 
 A person's significance is how much they changed reality, and the only reality in which anything can mean something is other people's heads. What you shifted in someone else's head is an **ideon**. Ideons come in different magnitudes; the unit of magnitude is the **peirce**: one minute of someone else's, wholly yours. Credit flows along the chain of causes to everyone without whom the result would not have happened. Sign and precision are separate axes. The largest account in history is unsigned.
 
