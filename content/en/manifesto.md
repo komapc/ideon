@@ -27,7 +27,7 @@ Whether what you meant to shift matched what you shifted. A light bulb and a las
 
 ## 6. As much given as received
 
-There are sixty minutes an hour per person, and each is divided without remainder among those who shaped it: other people, the person themself, nature. There is one conservation law: as much as everyone has given, everyone has received. To get into someone else's minute you have to displace someone from it. An ideon is a flow: it dissipates once forgotten and lives only by re-emission.
+There are sixty minutes an hour per person, and each is divided without remainder among those who shaped it: other people, the person themself, nature. There is one conservation law: as much as everyone has given, everyone has received. To get into someone else's minute you have to displace someone from it. An ideon is a flow: it dissipates once forgotten and lives only by re-emission. Leverage is how many minutes of other people's fell on one of yours: below one for a conversation, hundreds for a book. Averaged over humanity, leverage is below one, so not everyone can be above parity.
 
 ## 7. The threshold
 
