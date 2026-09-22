@@ -86,4 +86,4 @@ What is lost is desert in the ultimate sense and the absolute "could have done o
 
 It does not measure it: only what passed from head to head is counted. That is why the working threshold of parity is taken with a margin: one Vita, the upper bound of the debt whatever the selfhood.
 
-It does not decide whether selfhood means anything in itself. The [Manifesto](manifesto.html) answers bluntly: one can matter only in other people's heads, and selfhood that never left the head is production without distribution. That is an axiom, not a conclusion. Whoever disagrees with it gets from the theory at least an address: the meaning from within discussed on the [Meaning](meaning.html) page lives here.
+It does not decide whether selfhood means anything in itself. The [Manifesto](manifesto.html) answers: one can matter only in other people's heads, and selfhood that never left the head is production without distribution. That is an axiom. Whoever disagrees with it gets from the theory at least an address: the meaning from within discussed on the [Meaning](meaning.html) page lives here.
