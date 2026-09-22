@@ -7,7 +7,7 @@ description: Nine theses of ideonology: significance is measurable, credit flows
 
 ## 1. Significance is measurable
 
-Significance is how much a person changed other people's heads; there is no other reality in which anything can mean something. One measure: how much of other people's thought you shifted, and how deeply. Measured in the Fermi sense: to an order of magnitude, but the ordering between people holds. The [rules of counting](protocol.html) are written separately.
+Significance is how much a person changed other people's heads; there is no other reality in which anything can mean something. One measure: how much of other people's thought you shifted, and how deeply. Measured in the Fermi sense: to an order of magnitude, but who is larger and who is smaller holds. The [rules of counting](protocol.html) are written separately.
 
 ## 2. The ideon and its magnitude
 

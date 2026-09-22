@@ -5,7 +5,7 @@ description: Who influenced humanity the most, what money buys, what a Wikipedia
 
 # Examples and estimates
 
-All figures are Fermi estimates, accurate to an order of magnitude. The ordering between rows is robust to any reasonable choice of parameters; the absolute values are not. Conventions: 1 peirce = 1 minute of someone else's thought at degree 1 and share 1; 1 Vt = 2.5 × 10⁷ peirces; a person has about 350,000 waking minutes per year.
+All figures are Fermi estimates, accurate to an order of magnitude. Which row stands above which is robust to any reasonable choice of parameters; the absolute values are not. Conventions: 1 peirce = 1 minute of someone else's thought at degree 1 and share 1; 1 Vt = 2.5 × 10⁷ peirces; a person has about 350,000 waking minutes per year.
 
 ## 1. Who leads in absolute terms
 
