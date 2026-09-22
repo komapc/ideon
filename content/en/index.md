@@ -18,7 +18,7 @@ All the waking minutes of one person over a lifetime are one **Vita**. You recei
 - [Selfhood](selfhood.html) — what in a person is their own, why it is not the same as influence, and what the schools do with it, from Nietzsche to Buddhism.
 - [Glossary](glossary.html) — ideon, peirce, Vita, parity, degree, share, selfhood, coherence, the Anonymous.
 - [Mathematics](math.html) — three axioms, four rules of transmission, one conservation law, the Shapley value, symmetry of channels.
-- [Examples](examples.html) — who leads in absolute terms, what money buys, three languages and one blood.
+- [Examples](examples.html) — who leads in absolute terms, what money buys, two languages and one donor.
 - [Comparison](comparison.html) — relatives in classical philosophy and fifteen schools in the language of ideons.
 - [Protocol](protocol.html) — the rules of counting, fixed before the example, and one account computed by them.
 - [Notability](notability.html) — a half-joking notability criterion for Wikipedia: one Vita, channel versus share, fame versus trace.

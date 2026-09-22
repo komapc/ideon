@@ -62,7 +62,7 @@ The theory takes one position in this dispute: selfhood is defined by the same r
 
 ## 5. Machines
 
-A language model is trained on everyone's texts and answers without a signature: it is the Anonymous that started talking. A person's minute shifted by a model's answer is divided along the chain among the authors of the texts it learned from, its developers, and whoever asked the question.
+A language model is trained on everyone's texts and answers without a signature: it is the Anonymous with a voice. A person's minute shifted by a model's answer is divided along the chain among the authors of the texts it learned from, its developers, and whoever asked the question.
 
 The test of selfhood for a model is the same as for a person: what would have changed in the answer had another model been in its place with the same conversation. Usually little, but not zero, and joining what others made in a way nobody joined it before is the assembler's job, whoever does it. The same test applied to a person speaking in ready-made phrases gives the same small answer: the line does not run between people and machines.
 

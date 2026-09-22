@@ -35,7 +35,7 @@ A Vita is all the waking minutes of one person over a lifetime, 25 million. You 
 
 ## 8. The largest account is unsigned
 
-Language, fire, counting, the wheel, proverbs. More than half of all impact in history is on the Anonymous. The name dissipates faster than the content: the more immortal the ideon, the more anonymous.
+Language, fire, counting, the wheel, proverbs. More than half of all impact in history is on the Anonymous. The name dissipates faster than the content: the longer an ideon lives, the more anonymous it is.
 
 ## 9. Consequences
 
