@@ -38,7 +38,7 @@ Two auxiliary terms. The **arbiter** is who assigns the sign and keeps the accou
 
 | School | Goal | Bet | Arbiter | Horizon | In the language of ideons |
 |---|---|---|---|---|---|
-| Christianity | +I by intention and result | G | God | Last Judgment | The only school where the sign is zeroed from outside: grace and forgiveness erase it without touching the ledger of minutes. Hidden impact ("let not thy left hand know") is worth more than visible. Mission is the maximization of reach. |
+| Christianity | Personal parity: give in proportion to what was received | G | God | Last Judgment | The only school that keeps the account from the incoming side: the widow's mite outweighs the gifts of the rich, and ten talents are demanded of the one who received ten. "Let not thy left hand know" is a renunciation of the name while keeping the content. "Neighbour" is the circle widened to everyone. Church and liturgy are re-emission on schedule; Paul holds a founder's share comparable to Jesus's own. Catholics keep parity by works, Protestants by faith, that is by intention. |
 | Islam | +I by intention ("deeds are by intentions") | M and G | Allah | Judgment | Sadaqah jariyah: deeds that yield reward after death (a well, a book, a raised child) are a direct recognition of the chain with slow damping. Isnad is name-by-name accounting of the chain of transmission. |
 | Judaism | +I, a collective account | G | God | The coming of the Messiah | Zekhut avot: the merits of the fathers are credited to the descendants; impact flows downward too. The Talmud cites "in the name of Rabbi X", a bookkeeping of sources. Tikkun olam: to repair the world is to shift. |
 | Buddhism | 0 sankharas | neither M nor G | Automatic (karma without a judge) | Exit from samsara | The bodhisattva: maximum impact in order to bring others to zero. Renouncing the account itself becomes the largest account. |
@@ -57,7 +57,7 @@ Two auxiliary terms. The **arbiter** is who assigns the sign and keeps the accou
 What stands out:
 
 - The vertical chain (parents, ancestors) is explicitly kept only by Confucianism and Judaism, and Judaism in both directions.
-- Only Christianity lets the sign be zeroed from outside: grace erases the guilt, while the minutes stay with whoever owned them.
+- Only Christianity measures from the incoming account: the demand is in proportion to what was received, not in absolute terms. Grace then lifts the person's guilt before the arbiter, not the sign of their trace: the minutes stay with whoever owned them.
 - Taoism alone separates influence from credit: maximum degrees while renouncing attribution. A third position between Nietzsche and the Buddha.
 
 ## 4. Meditation
