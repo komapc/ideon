@@ -24,4 +24,4 @@ All the waking minutes of one person over a lifetime are one **Vita**. You recei
 - [Notability](notability.html) — a half-joking notability criterion for Wikipedia: one Vita, channel versus share, fame versus trace.
 - [Hall of fame](hall.html) — eighty accounts from megavitas to fractions of a Vita: rescuers above prophets, the inventor of the game versus the player, famous but small.
 
-The theory arose in the autumn of 2026 and is still being written. Sources are on [GitHub](https://github.com/komapc/ideon).
+The theory was first written down in the autumn of 2026 and is still being written. Sources are on [GitHub](https://github.com/komapc/ideon).
