@@ -7,12 +7,12 @@ description: Ideonology next to Peirce, Dawkins, Shapley and Tolstoy; fifteen ph
 
 ## 1. What ideonology is in classical terms
 
-The generic definition: **a consequentialist, causal, non-welfarist theory of the meaning of life**, not of morality.
+The generic definition: **a consequentialist, causal, non-welfarist theory of a person's significance**, not of morality.
 
 - Consequentialist — it counts consequences.
 - Causal — credit runs along the chain of causes with damping.
 - Non-welfarist — the currency is not happiness but the shift of thought. One can influence greatly and make nobody happy.
-- A theory of meaning — it answers the question "did you mean anything". The sign is a separate, optional module.
+- A theory of significance — it answers "did you matter at all", not "what is the meaning": the second question is moved to the [Meaning](meaning.html) page. The sign is a separate, optional module.
 
 ## 2. Closest relatives
 

@@ -1,13 +1,13 @@
 ---
 title: Manifesto
-description: Nine theses of ideonology: meaning is measurable, credit flows along the chain, as much given as received, and the largest account in history is unsigned.
+description: Nine theses of ideonology: significance is measurable, credit flows along the chain, as much given as received, and the largest account in history is unsigned.
 ---
 
 # Manifesto
 
-## 1. Meaning is measurable
+## 1. Significance is measurable
 
-The meaning of a life is how much it changed other people's heads; there is no other reality in which anything can mean something. One measure: how much of other people's thought you shifted, and by how far. Measurable in the Fermi sense: to an order of magnitude, but the ordering between people holds. The [rules of counting](protocol.html) are written separately; the first example was computed under them before the answer was known, the other tables are earlier estimates.
+A person's significance is how much they changed other people's heads; there is no other reality in which anything can mean something. One measure: how much of other people's thought you shifted, and by how far. Measurable in the Fermi sense: to an order of magnitude, but the ordering between people holds. The [rules of counting](protocol.html) are written separately; the first example was computed under them before the answer was known, the other tables are earlier estimates.
 
 ## 2. The ideon and its magnitude
 

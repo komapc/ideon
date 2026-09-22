@@ -9,6 +9,7 @@ Terms are given in pairs so that the Russian and English versions of this site t
 
 | Русский | English | Symbol |
 |---|---|---|
+| значимость | significance | — |
 | смысл | meaning | — |
 | идеон | ideon | — |
 | пирс | peirce | Ps |
@@ -33,7 +34,9 @@ Terms are given in pairs so that the Russian and English versions of this site t
 
 ## Core
 
-**Meaning** — here only the meaning of a life: the answer to "did you matter at all". The theory identifies it with the trace left in other people's heads and measures it as impact. Meaning from within, experience without a trace, it does not measure. More: [Meaning and its variants](meaning.html).
+**Significance** — the answer to "did you matter at all": the trace left in other people's heads. It is what impact measures; it has no number of its own. Not to be confused with Wikipedia's notability, which here is a threshold, I of at least one Vita: [Notability](notability.html).
+
+**Meaning** — here only the meaning of a life: the answer to "what for". The theory does not measure it; it measures significance and leaves open whether there is meaning in it. Meaning from within, experience without a trace, is also outside the ruler. More: [Meaning and its variants](meaning.html).
 
 **Ideon** — a portion of influence: what one person shifted in someone else's head. An idea, a word, an example, a deed, a saved life. Not a unit of measurement: ideons come in different magnitudes, and the magnitude of an ideon is measured in peirces. Ideons are not counted by the piece: the formula sums minutes, not ideons, so where one ideon ends and the next begins is a matter of convenience, not of theory. A flow, not a stock: an ideon comes into being at the moment of the shift and dissipates unless it is re-emitted.
 

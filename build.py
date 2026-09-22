@@ -11,8 +11,8 @@ CONTENT, DOCS, TPL = ROOT / "content", ROOT / "docs", ROOT / "templates"
 BASE = "https://komapc.github.io/ideon/"
 SITE = {"ru": "Идеонология", "en": "Ideonology"}
 LOCALE = {"ru": "ru_RU", "en": "en_US"}
-DESC = {"ru": "Теория смысла жизни, в которой смысл оцениваем с точностью до порядка: идеон, пирс, Вита, паритет.",
-        "en": "A theory of the meaning of life in which meaning can be estimated to an order of magnitude: ideon, peirce, Vita, parity."}
+DESC = {"ru": "Теория значимости человека, в которой значимость оцениваема с точностью до порядка: идеон, пирс, Вита, паритет.",
+        "en": "A theory of a person's significance in which significance can be estimated to an order of magnitude: ideon, peirce, Vita, parity."}
 NAV = [("index", {"ru": "Главная", "en": "Home"}),
        ("manifesto", {"ru": "Манифест", "en": "Manifesto"}),
        ("meaning", {"ru": "Смысл", "en": "Meaning"}),
@@ -22,7 +22,7 @@ NAV = [("index", {"ru": "Главная", "en": "Home"}),
        ("examples", {"ru": "Примеры", "en": "Examples"}),
        ("comparison", {"ru": "Сравнение", "en": "Comparison"}),
        ("protocol", {"ru": "Протокол", "en": "Protocol"}),
-       ("notability", {"ru": "Значимость", "en": "Notability"}),
+       ("notability", {"ru": "Википедия", "en": "Notability"}),
        ("hall", {"ru": "Зал славы", "en": "Hall of fame"})]
 ALT = {"ru": ("en", "English"), "en": ("ru", "Русский")}
 

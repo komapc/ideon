@@ -5,7 +5,7 @@ description: What is the meaning of life: ten variants of the goal, from maximum
 
 # Meaning and its variants
 
-The word "meaning" here means one thing: the meaning of a life, the answer to "did you matter at all". Not the meaning of a word and not the meaning of a single act. The theory provides a ruler — impact with three axes (I, S, Q). A ruler does not say what to do with it. This page lists the possible answers and says which one is taken.
+The theory measures significance: how much of other people's thought a person shifted. Whether significance amounts to meaning, and what to do with it, is a different question, and this is the only page with "meaning" in its title. Here the word means one thing: the meaning of a life, the answer to "what for", not the meaning of a word and not the meaning of a single act. The theory provides a ruler — impact with three axes (I, S, Q). A ruler does not say what to do with it. This page lists the possible answers and says which one is taken.
 
 ## 1. The first fork: does the trace count
 
