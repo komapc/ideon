@@ -5,7 +5,7 @@ description: What is the meaning of life: ten variants of the goal, from maximum
 
 # Meaning and its variants
 
-The theory measures significance: how much of other people's thought a person shifted. Whether significance amounts to meaning, and what to do with it, is a different question, and this is the only page with "meaning" in its title. Here the word means one thing: the meaning of a life, the answer to "what for", not the meaning of a word and not the meaning of a single act. The theory provides a ruler — impact with three axes (I, S, Q). A ruler does not say what to do with it. This page lists the possible answers and says which one is taken.
+The theory measures significance and does not say what to do with it. This is the only page about meaning, and here the word means one thing: the answer to "what for". The ruler is impact with three axes (I, S, Q). Below are the possible answers and the one that is taken.
 
 ## 1. The first fork: does the trace count
 
@@ -46,15 +46,15 @@ The variants combine. Direction plus length is longtermism. Absolute magnitude p
 
 ## 4. What the theory chooses
 
-- **It measures magnitude but does not call for maximizing it.** "The meaning of a life is how much you changed other people's heads" is a definition, not a command. The first row of the table describes the ruler, not the goal.
+- **It measures magnitude but does not call for maximizing it.** "Significance is how much you changed other people's heads" is a definition, not a command. The first row of the table describes the ruler, not the goal.
 - **The only quantitative norm the theory itself proposes is the threshold.** Parity: return what you received on credit; the working threshold is one Vita. Above the threshold it prescribes nothing.
-- **Direction is plugged in separately.** The sign is a module with a choice of arbiter; the second row of the table is a choice of arbiter, not part of the ruler.
+- **Direction is plugged in separately.** The sign is on the ruler, but an arbiter sets it; the second row of the table is a choice of arbiter, not a measurement.
 - **It rejects the name.** The name dissipates faster than the content, so the advice is to repay the debt in anonymous ideons.
 
 Why the trace and not "from within": only the trace is visible from outside and comparable between people. Meaning from within can be judged by one person only, the one who lived it, and the ruler cannot be applied to it.
 
 ## 5. What the theory does not cover
 
-**Meaning from within.** A life lived fully and without witnesses scores zero on this ruler. The manifesto answers bluntly: there is no other reality in which anything can matter. That is an axiom, not a conclusion; it cannot be proved, only accepted or not. To someone who does not accept it the theory has one reply: such meaning cannot be shown, compared or passed on, and once it has been passed on, it has become a trace. [Meditation](comparison.html) is the borderline case: impact is zero, but coherence grows.
+**Meaning from within.** A life lived fully and without witnesses scores zero on this ruler. The manifesto answers: there is no other reality in which anything can matter. That is an axiom; it can be accepted or not. To someone who does not accept it the theory has one reply: such meaning cannot be shown, compared or passed on, and once it has been passed on, it has become a trace. [Meditation](comparison.html) is the borderline case: impact is zero, but coherence grows.
 
 **"It does not matter."** On an infinite horizon the nihilist is right: by the rule of dissipation everything fades out, the Anonymous included. The theory answers not with a refutation but with a choice of horizon: the account is kept while there are heads, and within that span the difference between 0.2 Vt and 400 kVt is real.

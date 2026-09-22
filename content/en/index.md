@@ -7,9 +7,9 @@ description: Ideonology is a theory of a person's significance in which signific
 
 A theory of significance: how much of other people's thought was shifted by a person, an event, a place or an idea. Significance here can be estimated, and it has a unit of measurement.
 
-The only reality in which anything can mean something is other people's heads. What is shifted in someone else's head is an **ideon**. Ideons come in different magnitudes; the unit of measurement is the **peirce**: one minute of someone else's, wholly yours. Credit flows along the chain of causes to everyone without whom the result would not have happened. Sign is a separate axis.
+The only reality in which anything can mean something is other people's heads. A shift in someone else's head is an **ideon**; the unit of measurement is the **peirce**: one minute of someone else's, wholly yours. Credit flows along the chain of causes to everyone without whom the result would not have happened. Sign is a separate axis.
 
-All the waking minutes of one person over a lifetime are one **Vita**. You received almost all of yours on credit. **Parity** is the moment you have returned as much into other people's heads. The typical person dies at about 0.2 Vita.
+All the waking minutes of one person over a lifetime are one **Vita**. You received almost all of yours on credit. **Parity** is when you have returned as much into other people's heads. The typical person dies at about 0.2 Vita.
 
 ## Sections
 
@@ -24,4 +24,4 @@ All the waking minutes of one person over a lifetime are one **Vita**. You recei
 - [Notability](notability.html) — a half-joking notability criterion for Wikipedia: one Vita, channel versus share, fame versus trace.
 - [Hall of fame](hall.html) — eighty accounts from megavitas to fractions of a Vita: rescuers above prophets, the inventor of the game versus the player, famous but small.
 
-The theory arose in a conversation in the autumn of 2026 and is still being written. Sources are on [GitHub](https://github.com/komapc/ideon).
+The theory arose in the autumn of 2026 and is still being written. Sources are on [GitHub](https://github.com/komapc/ideon).
