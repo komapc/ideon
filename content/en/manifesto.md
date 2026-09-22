@@ -39,4 +39,4 @@ Language, fire, counting, the wheel, proverbs. More than half of all impact in h
 
 ## 9. Consequences
 
-Count degrees, not views. Make things that detach: what lives without you and without your name. Save where you are irreplaceable. Return the debt into anonymous ideons. Do not confuse fame with trace. This theory is an ideon too, and everything said here applies to it.
+Degree weighs more than views. What lives long is what detaches from its author and their name. The irreplaceable one in an empty place weighs more than the strong one in a crowd. Fame and trace are different accounts, and they rarely coincide. This theory is an ideon too, and everything said here applies to it.
