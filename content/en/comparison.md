@@ -36,6 +36,8 @@ What the classical schools propose to do with impact — maximize it, direct it,
 
 Two auxiliary terms. The **arbiter** is who assigns the sign and keeps the account. The **horizon** is when the account closes. Abbreviations: M — minutes, G — degrees, I — impact.
 
+The table is deliberately simplified: each row reduces to one formula a tradition with millennia of history, internal disputes and many branches, and none of them describes itself this way. It is a translation into the language of the theory, not a judgment on faith; everything is in fact more complicated, and where the translation offends, the translator is at fault.
+
 | School | Goal | Bet | Arbiter | Horizon | In the language of ideons |
 |---|---|---|---|---|---|
 | Christianity | Personal parity: give in proportion to what was received | G | God | Last Judgment | The only school that keeps the account from the incoming side: the widow's mite outweighs the gifts of the rich, and ten talents are demanded of the one who received ten. "Let not thy left hand know" is a renunciation of the name while keeping the content. "Neighbour" is the circle widened to everyone. Church and liturgy are re-emission on schedule; Paul holds a founder's share comparable to Jesus's own. Catholics keep parity by works, Protestants by faith, that is by intention. |
