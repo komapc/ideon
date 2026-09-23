@@ -1,6 +1,6 @@
 ---
 title: Hall of fame
-description: Who has shifted the most of other people's thought: from Haber, Hilleman and the prophets to the author of sudoku, the intern who wrote Solitaire and an influencer with a million followers. Fermi estimates of impact in Vitas, with the calculations.
+description: Who has shifted the most of other people's thought: from Haber, Hilleman and the prophets to the author of sudoku, the intern who wrote Solitaire and an influencer with a million followers; separately events, places and things. Fermi estimates of impact in Vitas, with the calculations.
 ---
 
 # Hall of fame: who shifted how much
@@ -39,7 +39,6 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | John Amos Comenius | the class-lesson system: classes by age, the lesson, the school year; he described and justified it | 3 × 10¹⁵ school minutes × 0.05 (form) × 0.01–0.05 (Sturm and the Jesuits began it in practice) | 50–300 kVt |
 | Bill Wilson | Alcoholics Anonymous | 10⁷ people × 20 years × 0.1–0.3 × 0.3 | 80–250 kVt |
 | Tim Berners-Lee | the Web | 5 × 10¹⁵ minutes × 0.1 (the medium) × 0.01 (counterparts would have appeared within three years) | 20–1000 kVt |
-| ChatGPT | the chat assistant as a medium; the content goes to the authors of the corpus | 7 × 10¹² minutes of dialogue by 2026 × medium degree 0.05–0.1 × R6 share 0.05–0.1 (assistants were ripe, competitors were a year behind) → 0.7–3 kVt; the frame shift "the machine talks" in everyone adds 1–10; over a 30-year horizon 10¹⁵ minutes of all assistants at the same share | ± 2–15 kVt, 60–600 kVt by 2056 |
 | Johannes Gutenberg | the printing press in Europe | the form of the medium in all printed reading: 3 × 10¹⁵ minutes × 0.02 × share 0.015–0.1 (a generation later without him: a twentieth of the horizon) | 30–200 kVt |
 | Robert Owen | the slogan of the eight-hour day, 1817 | 2.4 × 10¹⁵ freed minutes × 0.05–0.5 × 0.001–0.01 | 5–500 kVt |
 | Louis Braille | the script for the blind; devised at fifteen | 10⁷ readers × 10⁶ minutes × 0.5 (literacy itself) × 0.5 | 100 kVt |
@@ -118,6 +117,26 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Leonardo, for the Mona Lisa | | [Examples](examples.html) | 2 Vt |
 | An influencer with a million followers | an entertainment feed | 10⁶ × half a minute a day × 5 years × 0.01–0.03 × 0.5, plus talk about them | 0.1–1 Vt |
 | The typical person | children, family, friends | [Examples](examples.html) | 0.2 Vt |
+
+## Non-persons: events, places, ideas, things
+
+| What | For what | Calculation | Estimate |
+|---|---|---|---|
+| Paris | its inhabitants over all of its history | 0.5–1.2 billion person-years lived × place degree 0.01–0.1; tourists over half a century add 7–24 kVt, the image in the heads of those who never went 0.5–10 kVt | 0.1–1.7 MVt |
+| ChatGPT | the chat assistant as a medium; the content goes to the authors of the corpus | 7 × 10¹² minutes of dialogue by 2026 × medium degree 0.05–0.1 × R6 share 0.05–0.1 (assistants were ripe, competitors were a year behind) → 0.7–3 kVt; the frame shift "the machine talks" in everyone adds 1–10; over a 30-year horizon 10¹⁵ minutes of all assistants at the same share | ± 2–15 kVt, 60–600 kVt by 2056 |
+| A city of a hundred thousand | a century of life | 10⁷ person-years × 0.01–0.1 | 1.4–14 kVt |
+| A World Cup final | | broadcast: 1.5 × 10⁹ viewers × 120 minutes × 0.01–0.03, 50–200 Vt; memory of the match 90–600 | 140–800 Vt |
+| The Maracanazo, 1950 | | memory alone: Brazil, seventy-five years of talking about it | 70–840 Vt |
+| Black Square | | the original and reproductions 2–15 Vt; the "is this art?" argument in 0.2–1 billion people, 5–240 | 10–250 Vt |
+| One hit song | a song that made it to radio and playlists | 10¹¹ minutes of listening × 0.01–0.03 | 40–120 Vt |
+| A Champions League final | | broadcast and memory | 5–60 Vt |
+| A village of a hundred | | [Notability](notability.html) | 1–10 Vt |
+| An ordinary top-league match | | broadcast; lower after correcting for replaceability | 0.04–1.3 Vt |
+| A street of a thousand | a century of life | 10⁵ person-years × street degree 10⁻⁴–10⁻³ | 0.14–1.4 Vt |
+| A metro station | | passengers over a century | 0.07–0.7 Vt |
+| A second-division match | | | 10⁻⁴–10⁻³ Vt |
+
+What is counted here is the magnitude of the ideon before division: a place or an event has no chain to share with, only the counterfactual "what would have been otherwise". So the rows of this table are higher than the rows about people by construction, and Paris next to Marx is an illustration, not a comparison. For places almost everything comes from the inhabitants, not from tourists or the image; the degree of a place answers the question of what would be different had the person lived in the neighbouring unit of the same level, and it falls with the level of slicing: city, street, station. For events memory weighs more than broadcast: two hours of spectacle for a billion and a half give less than seventy-five years of Brazilian conversations about the Maracanazo. Among things only ChatGPT has a share: it is a product with authors, and its account is cut by R6.
 
 ## 1. Rescuers above prophets
 
