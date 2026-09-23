@@ -33,6 +33,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Who | For what | Calculation | Estimate |
 |---|---|---|---|
 | Sejong | Hangul | 2 × 10⁸ lives × a tenth of the minutes spent reading × 0.05 × 0.5 | 500 kVt |
+| Genghis Khan | the Mongol Empire | subjects in his lifetime 20–170 kVt; fear and grief of the survivors −8–110 kVt; successor states to 1500 60 kVt – 1 MVt at a clan share of 0.03–0.1; Mongolia today 1–12 kVt; the school image worldwide 10–230 Vt | ± 0.1–1.3 MVt |
 | Karl Marx | | [Examples](examples.html) | 400 kVt |
 | Benjamin Spock | Baby and Child Care | 10⁸ children × 0.1 Vt of parental influence × 0.05–0.1 | 50–1000 kVt |
 | John Amos Comenius | the class-lesson system: classes by age, the lesson, the school year; he described and justified it | 3 × 10¹⁵ school minutes × 0.05 (form) × 0.01–0.05 (Sturm and the Jesuits began it in practice) | 50–300 kVt |
@@ -124,6 +125,8 @@ Under the site's current rules a saved life goes to the rescuer as a whole Vita,
 This is the table's strongest consequence and its shakiest. The axiom of completeness divides a minute by who formed its content, while the rows with a dagger pay for the very existence of the minute. The theory does not pay parents for the existence of a child; it pays the rescuer. The pill shows the asymmetry best: a saved life gives a Vita, while an unlived life neither gives nor takes anything, because unlived minutes do not exist. If the rescuer is counted as one of many necessary participants in every saved minute, the dagger rows drop by about an order of magnitude; if only content is counted, they almost vanish. The question is open.
 
 Semmelweis shows the same from the other side. He was right, and the mothers he saved give half a kilovita. But he convinced nobody, and handwashing entered medicine through Lister and Pasteur: an idea that did not reach another head does not count. This is [production without sales](selfhood.html).
+
+Genghis Khan is the pill in reverse. The forty million dead do not enter his account: there are no unlived minutes, neither for the unborn nor for the killed, and no cross is placed here. What counts is the grief and fear of the survivors and the frame left to the heirs: the Yassa, the legitimacy of the khan's line, the Horde over Rus. In his lifetime he gathered less than a fifth of the account; the rest came from his grandsons' states, the same [channel of deeds](examples.html) as Trump's. Sixteen million male-line descendants do not count: that is existence, not content. The ruler measures heads, not deaths, and the bloodiest conquest in history comes out at the level of Marx.
 
 ## 2. Form is worth more than content
 
