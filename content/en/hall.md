@@ -84,6 +84,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Albert Hofmann | LSD | 10⁸ people × 3 times × 600 minutes × 0.5 × 0.3 | 1 kVt |
 | Ernő Rubik | the cube | 10⁹ people × 5 h × 0.1 × 0.8 | 1 kVt |
 | Albert Einstein | | 10⁹ pupils × 5 h × 0.2 × 0.3, plus physicists and "everything is relative" | 1 kVt |
+| Kazimir Malevich | Black Square and geometric abstraction | designers and architects 3–15 million × working minutes × 0.03–0.05 × share 0.01–0.05 (abstraction was ripe: Kandinsky, Kupka, Mondrian) 70 Vt – 5 kVt; the "is this art?" argument 5–240; students and school 20–250; artist heirs 20–960; reproductions 2–15 | 0.2–10 kVt |
 | Leo Tolstoy | | [Examples](examples.html) | ~1 kVt |
 | Leonid Gaidai | Soviet comedies that dissolved into catchphrases | 2 × 10⁸ viewers × 50 viewings × 90 minutes × 0.05 × 0.5 | 1 kVt |
 | Andrey Kolmogorov | the Soviet school mathematics reform of the 1970s; possibly his largest account | 4 × 10⁷ pupils × 750 h × 0.05 × 0.3 | ± 1 kVt |
@@ -91,6 +92,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Joe Rogan | the largest talk podcast | 10¹² minutes × 0.05 × 0.4 (the rest goes to the guests) | 0.3–3 kVt |
 | Alexey Pajitnov | Tetris | 10⁹ players × 50 h × 0.01 × 0.5 | 0.6 kVt |
 | Noam Chomsky | linguistics, computer science, politics | 6 × 10¹⁰ linguists' minutes × 0.3 × 0.3, the rest in small change | 0.5 kVt |
+| Paul Erdős | fifteen hundred papers, five hundred co-authors | combinatorics, graphs, number theory to 2100: 1–3 × 10⁴ mathematicians × 60–160 years × 1.2 × 10⁵ minutes a year × 0.1–0.3 × share 0.1–0.3, 30 Vt – 2 kVt; students and olympiad culture 15–160; co-authors in person 0.3–6; the Erdős number and the image 0.1–6 | 0.3–0.5 kVt |
 | Ignaz Semmelweis † | handwashing in one Vienna clinic; he convinced nobody | 1,000 mothers × 0.5 Vt × 0.9 | 0.5 kVt |
 | Wes Cherry | Solitaire for Windows; an intern, paid no royalties | 5 × 10⁸ players × 100 h × 0.01 × 0.3 | 0.4 kVt |
 | The Hill sisters | the melody of "Happy Birthday", traditionally attributed to them | 4 × 10⁹ people × 250 minutes in a lifetime × 0.02 × 0.5 | 0.1–0.5 kVt |
@@ -150,7 +152,7 @@ Genghis Khan is the pill in reverse. The forty million dead do not enter his acc
 
 ## 2. Form is worth more than content
 
-Comenius, Braille, Sejong, Guido, Fröbel and Kelly said nothing that people would repeat. They made a form through which other people's minutes pass: the lesson, the script, the alphabet, the staff, the kindergarten, the test with boxes to tick. The degree of a form is small, hundredths, but its reach is all the minutes of everyone who uses it, for centuries. This is why the author of the school timetable stands next to Marx, and the author of a geometry textbook above Tolstoy.
+Comenius, Braille, Sejong, Guido, Fröbel and Kelly said nothing that people would repeat. They made a form through which other people's minutes pass: the lesson, the script, the alphabet, the staff, the kindergarten, the test with boxes to tick. The degree of a form is small, hundredths, but its reach is all the minutes of everyone who uses it, for centuries. This is why the author of the school timetable stands next to Marx, and the author of a geometry textbook above Tolstoy. Malevich is form literally: almost nobody reads Suprematism or the treatises on non-objectivity, while the square went through his students into the Bauhaus, typography and flat design, where his name is not remembered. Nine tenths of his account is there; the viewers of the square give single Vitas.
 
 There is a limit. Daylight saving time, the keyboard layout, the Gregorian calendar and the standard shipping container touch as many as 10¹⁶ minutes, but their degree is below the smallest division of the protocol, and the honest answer is "from hundreds of Vitas to hundreds of kilovitas". Malcom McLean's container rebuilt world trade and shifted almost nobody's thought: the ruler measures heads, not tons.
 
@@ -160,7 +162,7 @@ Naismith is thirty kilovitas; Messi is four hundred Vitas at best. Wynne, Garns,
 
 ## 4. Famous but small
 
-Armstrong, Gagarin, Bolt: enormous reach, the degree of watching, and the share of a man with a backup standing behind him. Aldrin would have been first on the Moon, Titov first in space. Einstein is about a kilovita, two orders below Dr. Spock: almost nobody understands relativity, while about a hundred million children were raised by Spock's book. Chomsky, one of the most cited scholars of his time, stands next to the author of Tetris: science is a narrow channel with a high degree. An influencer with a million followers gathers about as much as an ordinary person does within the family. The reason is not the word "influencer" but the unit of counting: a follower in a feed costs half a minute a day at the degree of attention, a podcast listener half an hour a day at the degree of opinion, and the same million gives a hundred times more. Reach must be counted in minutes, not in heads.
+Armstrong, Gagarin, Bolt: enormous reach, the degree of watching, and the share of a man with a backup standing behind him. Aldrin would have been first on the Moon, Titov first in space. Einstein is about a kilovita, two orders below Dr. Spock: almost nobody understands relativity, while about a hundred million children were raised by Spock's book. Chomsky, one of the most cited scholars of his time, stands next to the author of Tetris: science is a narrow channel with a high degree. Erdős is there too, with a record leverage: 0.7 Vita of his own working minutes gave 300–500 Vitas in other people's heads, five hundred times more, above a book. Leverage and absolute size are independent. The Erdős number is a caricature of the chain of credit: distance in the co-authorship graph in handshakes, where every link weighs one, without degree or share. An influencer with a million followers gathers about as much as an ordinary person does within the family. The reason is not the word "influencer" but the unit of counting: a follower in a feed costs half a minute a day at the degree of attention, a podcast listener half an hour a day at the degree of opinion, and the same million gives a hundred times more. Reach must be counted in minutes, not in heads.
 
 ## 5. Fame versus trace
 
