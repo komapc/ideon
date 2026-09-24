@@ -17,7 +17,7 @@ All figures are Fermi estimates, accurate to an order of magnitude. Which row st
 | Donald Trump | ~10¹³ (2015–2026, worldwide) | 0.1 | 0.5 | ~10¹² | 40 k |
 | Eliezer Ben-Yehuda | ~10¹⁴ (Hebrew speakers since the 1920s) | 0.15 | 0.07 | ~10¹² | 50 k, growing |
 | Euclid | ~3 × 10¹³ (school geometry for 2,300 years) | 0.3 | 0.3 | ~3 × 10¹² | 100 k |
-| Karl Marx | ~10¹⁴ (a third of humanity in the 20th century) | 0.3 | 0.3 | ~10¹³ | 400 k |
+| Karl Marx | ~3 × 10¹⁶ (the subjects of regimes that called themselves Marxist) | 0.02–0.05 (the frame of the state) | 0.03–0.1 | ~3 × 10¹³ | ~1 M, [calculation in the Hall](hall.html) |
 | Jesus | ~3 × 10¹⁵ (10 billion Christians × 20 min/day) | 0.5 | 0.2 | ~3 × 10¹⁴ | 10 M |
 | Muhammad | ~2 × 10¹⁵ (5 billion Muslims, 5 prayers a day) | 0.5 | 0.4 | ~4 × 10¹⁴ | 20 M |
 | The Anonymous | ~10¹⁸ (language, counting, fire, norms) | ~1 | distributed | > 5 × 10¹⁷ | > 20 G |

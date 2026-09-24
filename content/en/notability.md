@@ -59,7 +59,7 @@ Fermi estimates, except Harrison, who was computed by the protocol. The ordinary
 
 | Occupation | The summit | An ordinary case notable under ВП:КЗП | The ordinary case by the threshold |
 |---|---|---|---|
-| Philosopher | Marx, 400 kVt | A rector, a member of an academy (ВП:УЧФ): 0.01–1 Vt | Not notable, or a discussion |
+| Philosopher | Marx, ~1 MVt | A rector, a member of an academy (ВП:УЧФ): 0.01–1 Vt | Not notable, or a discussion |
 | Politician | Trump, 40 kVt | A deputy from a party list, the mayor of a city of a hundred thousand: 0.001–0.1 Vt | Not notable |
 | Writer | Tolstoy, on the order of 1 kVt | An author with thirty thousand readers: 0.01–0.1 Vt | Not notable |
 | Musician | The Beatles, 5 kVt for the four | A song with ten million plays: 0.01–0.1 Vt | Not notable |
