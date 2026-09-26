@@ -7,7 +7,7 @@ description: Who has shifted the most of other people's thought: from Haber, Hil
 
 These are the cases where the number argues with the fame: famous people with a small account, obscure ones with a huge one, people whose trace went against their intention. All figures are Fermi estimates by the recipe [reach × degree × share](math.html), accurate to an order of magnitude; only Harrison was computed by the [protocol](protocol.html). The order of the rows is more reliable than the numbers. Units: a Vita (Vt) is one lived life, 2.5 × 10⁷ minutes; kVt is a thousand, MVt a million, GVt a billion.
 
-A "−" before a number means the trace is harmful, "±" that both signs are present. A dagger † marks accounts that count not shifted minutes but lives lived thanks to the person: a saved life goes in at degree 1. That is the site's current convention, and it is in question; see section 1.
+A "−" before a number means the trace is harmful, "±" that both signs are present. A dagger † marks accounts that count not shifted minutes but lives lived thanks to the person: a saved life goes in at degree 1 for the whole remaining life: a whole Vita for a child, about half for an adult, hence the 0.5 Vt in the rows. That is the site's current convention, and it is in question; see section 1.
 
 ## Megavitas
 
@@ -36,7 +36,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 |---|---|---|---|
 | Sejong | Hangul | 2 × 10⁸ lives × a tenth of the minutes spent reading × 0.05 × 0.5 | 500 kVt |
 | Genghis Khan | the Mongol Empire | subjects in his lifetime 20–170 kVt; fear and grief of the survivors −8–110 kVt; successor states to 1500 60 kVt – 1 MVt at a clan share of 0.03–0.1; Mongolia today 1–12 kVt; the school image worldwide 10–230 Vt | ± 0.1–1.3 MVt |
-| Benjamin Spock | Baby and Child Care | 10⁸ children × 0.1 Vt of parental influence × 0.05–0.1 | 50–1000 kVt |
+| Benjamin Spock | Baby and Child Care | 10⁸ children × 0.01–0.1 Vt of parental influence × 0.05–0.1 | 50–1000 kVt |
 | John Amos Comenius | the class-lesson system: classes by age, the lesson, the school year; he described and justified it | 3 × 10¹⁵ school minutes × 0.05 (form) × 0.01–0.05 (Sturm and the Jesuits began it in practice) | 50–300 kVt |
 | Bill Wilson | Alcoholics Anonymous | 10⁷ people × 20 years × 0.1–0.3 × 0.3 | 80–250 kVt |
 | Tim Berners-Lee | the Web | 5 × 10¹⁵ minutes × 0.1 (the medium) × 0.01 (counterparts would have appeared within three years) | 20–1000 kVt |
@@ -50,7 +50,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Donald Trump | | [Examples](examples.html) | 40 kVt |
 | Linus Torvalds | the Linux kernel, Git, open development | acceleration of cheap infrastructure under P6: 1.3 × 10¹⁵ minutes × 0.1 × head start 0.03–0.06 × share 0.05–0.15, 8–47 kVt; Git 2.5 × 10⁸ person-years × 0.02–0.05 × share 0.1–0.3, 2–18 kVt; developers on Linux 0.5–6 kVt; the form of open development 1–2 kVt; kernel contributors 65–180 Vt; billions of Android and web users below the protocol floor, not counted in the total | 10–70 kVt |
 | Richard Stallman | GNU, the GPL, the four freedoms | head start for cheap infrastructure under P6, the same channel: 1.3 × 10¹⁵ minutes × 0.1 × 0.03–0.06 × share 0.03–0.08, 5–26 kVt; GNU tools in the developer's working minute 0.4–5 kVt; copyleft as a form 5 × 10¹² minutes × 0.05 × 0.3–0.5 × 0.5–0.8, 1.5–4 kVt; the content, the four freedoms, 25–760 Vt; free culture beyond code 50–500 Vt; the image and the "GNU/Linux" dispute 16–64 Vt | 7–40 kVt |
-| Cyril and his disciples | Slavic writing | 2 × 10¹⁵ minutes of reading and writing × 0.01 × 0.05–0.1 (the same would have been written in Greek or Latin letters) | 10–100 kVt among them |
+| Cyril and his disciples | Slavic writing | 2 × 10¹⁵ minutes of reading and writing × 0.01 × 0.01–0.1 (the same would have been written in Greek or Latin letters) | 10–100 kVt among them |
 | Friedrich Fröbel | the kindergarten | 10⁹ children × 3,000 h × 0.05 × 0.1 | 36 kVt |
 | Guido of Arezzo | staff notation | 5 × 10⁸ music learners × 500 h × 0.2 × 0.3 | 36 kVt |
 | James Naismith | invented basketball, alone, in December 1891 | 1.5 × 10¹⁴ minutes of playing and watching × 0.01 × 0.5 | 30 kVt |
@@ -73,7 +73,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Gary Gygax and Dave Arneson | Dungeons & Dragons; levels and hit points in every game since | 5 × 10⁷ players × 500 h × 0.05 × 0.5, plus the chain | 4 kVt |
 | L. L. Zamenhof | Esperanto | [Examples](examples.html) | 3 kVt |
 | Andrei Kiselyov | a geometry textbook of 1892; from 1938 the sole school textbook in the USSR, its solid geometry part in use until the 1970s | 10⁸ pupils × 200 h × 0.2 × 0.3 (the rest goes to Euclid) | 3 kVt |
-| R. H. Naylor | Britain's first regular newspaper astrology column, 1930 | 10⁹ readers × 2 minutes a day × 0.02 × 0.3 | − 0.5–3 kVt |
+| R. H. Naylor | Britain's first regular newspaper astrology column, 1930 | 10⁹ readers × 2 minutes a day × 5–20 years of habit × 0.02 × 0.3 | − 0.5–3 kVt |
 | Robert Spitzer | DSM-III: the diagnosis as a frame for thinking about oneself | 10⁸ people × 500 h × 0.2 × 0.1 | 2–10 kVt |
 | J. K. Rowling | | 10⁹ readings × 500 minutes × 0.1 × 0.9, plus the films | 2 kVt |
 | Eugene Garfield | the impact factor: a scholar's notability in one number | 10⁷ scientists × 50 h a year × 30 years × 0.1 × 0.5 | ± 2 kVt |
