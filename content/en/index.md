@@ -22,6 +22,6 @@ All the waking minutes of one person over a lifetime are one **Vita**. You recei
 - [Comparison](comparison.html) — relatives in classical philosophy and fifteen schools in the language of ideons.
 - [Protocol](protocol.html) — the rules of counting, fixed before the example, and one account computed by them.
 - [Notability](notability.html) — a half-joking notability criterion for Wikipedia: one Vita, channel versus share, fame versus trace.
-- [Hall of fame](hall.html) — eighty accounts from megavitas to fractions of a Vita: rescuers above prophets, the inventor of the game versus the player, famous but small; separately events, places and things, from Paris to a metro station.
+- [Hall of fame](hall.html) — ninety accounts from megavitas to fractions of a Vita: rescuers above prophets, the inventor of the game versus the player, famous but small; separately events, places and things, from Paris to a metro station.
 
 The theory was first written down in the autumn of 2026 and is still being written. Sources are on [GitHub](https://github.com/komapc/ideon).
