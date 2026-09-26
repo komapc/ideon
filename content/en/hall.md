@@ -21,7 +21,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Jesus | | [Examples](examples.html) | 10 MVt |
 | Stanislav Petrov, Vasily Arkhipov † | did not start a nuclear war, 1983 and 1962 | 10⁹ lives × probability 0.1 × share 0.1 | ~10 MVt each |
 | Fleming, Florey, Chain † | penicillin | 2 × 10⁸ lives × 0.5 Vt × share 0.05–0.1 (antibiotics were already being sought) | 5–10 MVt among them |
-| Paul the Apostle | the reteller who turned a sect into a world religion | about a tenth of Christianity's full account of 50 MVt | 2–5 MVt |
+| Paul the Apostle | the reteller who turned a sect into a world religion | about a tenth of Christianity's full account of 50 MVt; Jesus takes a share of 0.2 of the same 50 MVt, hence his 10 MVt | 2–5 MVt |
 | Dilip Mahalanabis † | oral rehydration therapy, refugee camps, 1971 | 5 × 10⁷ lives × share 0.02–0.1 | 1–5 MVt |
 | Viktor Zhdanov † | proposed to the WHO that smallpox be eradicated, 1958 | 10⁸ lives since 1980 × share 0.01–0.05 | 1–5 MVt |
 | Pincus, Djerassi, Rock, Sanger, McCormick | the contraceptive pill | 3 × 10⁸ women × 30 years × 0.1 (a different frame of adult life) × 0.1 | ~1 MVt |
