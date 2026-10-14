@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build the static site: content/<lang>/*.md -> docs/<lang>/*.html"""
-import re, shutil, html, subprocess
+import re, shutil, html, json, subprocess
 from datetime import date
 from pathlib import Path
 import markdown
@@ -11,6 +11,8 @@ CONTENT, DOCS, TPL = ROOT / "content", ROOT / "docs", ROOT / "templates"
 BASE = "https://komapc.github.io/ideon/"
 SITE = {"ru": "Идеонология", "en": "Ideonology"}
 LOCALE = {"ru": "ru_RU", "en": "en_US"}
+TAGLINE = {"ru": "теория значимости человека", "en": "a theory of a person's significance"}
+OG_IMAGE = f"{BASE}og.png"
 DESC = {"ru": "Теория значимости человека, в которой значимость оцениваема с точностью до порядка: идеон, пирс, Вита, паритет.",
         "en": "A theory of a person's significance in which significance can be estimated to an order of magnitude: ideon, peirce, Vita, parity."}
 NAV = [("index", {"ru": "Главная", "en": "Home"}),
@@ -140,6 +142,24 @@ def write_sitemap(slugs):
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
         'xmlns:xhtml="http://www.w3.org/1999/xhtml">\n' + "\n".join(rows) + "\n</urlset>\n", encoding="utf-8")
 
+def jsonld(lang: str, slug: str, title: str, description: str) -> str:
+    """WebSite on the home page, Article + BreadcrumbList on the rest. No author/publisher: not stated anywhere."""
+    url = page_url(lang, slug)
+    site = {"@type": "WebSite", "name": SITE[lang], "url": page_url(lang, "index"), "inLanguage": lang}
+    if slug == "index":
+        data = [{"@context": "https://schema.org", **site, "description": description}]
+    else:
+        names = dict((s_, n[lang]) for s_, n in NAV)
+        data = [
+            {"@context": "https://schema.org", "@type": "Article", "headline": title, "description": description,
+             "inLanguage": lang, "url": url, "mainEntityOfPage": url, "image": OG_IMAGE,
+             "dateModified": lastmod(CONTENT / lang / f"{slug}.md"), "isPartOf": site},
+            {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+                {"@type": "ListItem", "position": 1, "name": SITE[lang], "item": page_url(lang, "index")},
+                {"@type": "ListItem", "position": 2, "name": names.get(slug, title), "item": url}]},
+        ]
+    return "".join(f'<script type="application/ld+json">{json.dumps(d, ensure_ascii=False)}</script>' for d in data)
+
 def build_page(lang: str, slug: str, template: str):
     meta, body_md = parse((CONTENT / lang / f"{slug}.md").read_text(encoding="utf-8"))
     body = markdown.markdown(body_md, extensions=["tables", "sane_lists", "smarty", "toc"],
@@ -152,8 +172,13 @@ def build_page(lang: str, slug: str, template: str):
     # hreflang must be absolute and list every version including the page itself; x-default is English
     hreflangs = "\n".join(f'<link rel="alternate" hreflang="{h}" href="{page_url(l, slug)}">'
                           for h, l in (("ru", "ru"), ("en", "en"), ("x-default", "en")))
-    page = template.format(lang=lang, title=html.escape(meta.get("title", slug)), site=SITE[lang],
-                           description=html.escape(meta.get("description", DESC[lang]), quote=True),
+    title = meta.get("title", slug)
+    desc = meta.get("description", DESC[lang])
+    # The home page's title equals the site name ("Идеонология · Идеонология"): give it a real one.
+    doc_title = f"{SITE[lang]} — {TAGLINE[lang]}" if title == SITE[lang] else f"{title} · {SITE[lang]}"
+    page = template.format(lang=lang, title=html.escape(title), doc_title=html.escape(doc_title), site=SITE[lang],
+                           description=html.escape(desc, quote=True), og_image=OG_IMAGE,
+                           jsonld=jsonld(lang, slug, title, desc),
                            root="../", nav=nav, body=body, url=page_url(lang, slug), hreflangs=hreflangs,
                            og_type="website" if slug == "index" else "article", locale=LOCALE[lang],
                            alt_lang=alt_lang, alt_label=alt_label, alt_href=f"../{alt_lang}/{slug}.html",
@@ -168,14 +193,25 @@ def main():
         for md in sorted((CONTENT / lang).glob("*.md")):
             build_page(lang, md.stem, template)
     shutil.copy(TPL / "style.css", DOCS / "style.css")
+    shutil.copy(TPL / "og.png", DOCS / "og.png")
+    root_desc = html.escape(f"{DESC['ru']} / {DESC['en']}", quote=True)
     (DOCS / "index.html").write_text(
         '<!DOCTYPE html><html lang="ru"><head><meta charset="utf-8">'
+        '<meta name="viewport" content="width=device-width, initial-scale=1">'
         '<meta http-equiv="refresh" content="0; url=ru/index.html">'
         f'<link rel="canonical" href="{BASE}ru/"><link rel="alternate" hreflang="ru" href="{BASE}ru/">'
         f'<link rel="alternate" hreflang="en" href="{BASE}en/"><link rel="alternate" hreflang="x-default" href="{BASE}en/">'
         '<meta name="msvalidate.01" content="CAFA7BE0D5D83695993D635831499022">'
-        '<title>Идеонология / Ideonology</title></head>'
-        '<body><p><a href="ru/index.html">Идеонология (русский)</a> · <a href="en/index.html">Ideonology (English)</a></p>'
+        '<title>Идеонология / Ideonology</title>'
+        f'<meta name="description" content="{root_desc}">'
+        '<meta property="og:type" content="website"><meta property="og:site_name" content="Идеонология / Ideonology">'
+        '<meta property="og:title" content="Идеонология / Ideonology">'
+        f'<meta property="og:description" content="{root_desc}"><meta property="og:url" content="{BASE}">'
+        f'<meta property="og:image" content="{OG_IMAGE}"><meta name="twitter:card" content="summary_large_image">'
+        f'<meta name="twitter:image" content="{OG_IMAGE}"></head>'
+        '<body><h1>Идеонология / Ideonology</h1>'
+        f'<p>{html.escape(DESC["ru"])}</p><p>{html.escape(DESC["en"])}</p>'
+        '<p><a href="ru/index.html">Идеонология (русский)</a> · <a href="en/index.html">Ideonology (English)</a></p>'
         '</body></html>', encoding="utf-8")
     write_sitemap([s for s, _ in NAV])
     (DOCS / ".nojekyll").touch()
