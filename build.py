@@ -194,6 +194,8 @@ def main():
             build_page(lang, md.stem, template)
     shutil.copy(TPL / "style.css", DOCS / "style.css")
     shutil.copy(TPL / "og.png", DOCS / "og.png")
+    for f in TPL.glob("google*.html"):  # Search Console ownership file: must stay at the site root forever
+        shutil.copy(f, DOCS / f.name)
     root_desc = html.escape(f"{DESC['ru']} / {DESC['en']}", quote=True)
     (DOCS / "index.html").write_text(
         '<!DOCTYPE html><html lang="ru"><head><meta charset="utf-8">'
