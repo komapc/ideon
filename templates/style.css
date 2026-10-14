@@ -63,3 +63,4 @@ footer a { color: var(--muted); }
   h1 { font-size: 1.6rem; }
   .lang { margin-left: 0; }
 }
+footer .projects { flex-basis: 100%; margin: 0 0 .6rem; line-height: 1.7; }

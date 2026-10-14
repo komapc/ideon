@@ -115,6 +115,14 @@ def linkify_terms(body: str, lang: str) -> str:
 
 FOOTER = {"ru": "Идеонология · 2026 · текст свободен для переизлучения (CC BY 4.0)",
           "en": "Ideonology · 2026 · free to re-emit (CC BY 4.0)"}
+# Sibling projects, shown in every page footer: (url, name, {lang: what it is})
+PROJECTS_LABEL = {"ru": "Другие проекты", "en": "Other projects"}
+PROJECTS = [
+    ("https://ido-vortaro.pages.dev/", "Vortaro", {"ru": "словарь идо–эсперанто", "en": "Ido–Esperanto dictionary"}),
+    ("https://ido-tradukilo.pages.dev/", "Tradukilo", {"ru": "переводчик идо–эсперанто", "en": "Ido–Esperanto translator"}),
+    ("https://echodrift.pages.dev/", "EchoDrift", {"ru": "атлас фонетических сдвигов", "en": "atlas of phonetic shifts"}),
+    ("https://hanzi-burst.komapc.workers.dev/", "hanzi-burst", {"ru": "иероглифы через радикалы", "en": "Chinese characters by radicals"}),
+]
 
 def parse(src: str):
     m = re.match(r"^---\n(.*?)\n---\n(.*)$", src, re.S)
@@ -141,6 +149,10 @@ def write_sitemap(slugs):
     (DOCS / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
         'xmlns:xhtml="http://www.w3.org/1999/xhtml">\n' + "\n".join(rows) + "\n</urlset>\n", encoding="utf-8")
+
+def projects_html(lang: str) -> str:
+    items = " · ".join(f'<a href="{u}">{html.escape(n)}</a> — {html.escape(d[lang])}' for u, n, d in PROJECTS)
+    return f'<p class="projects"><span>{PROJECTS_LABEL[lang]}:</span> {items}</p>'
 
 def jsonld(lang: str, slug: str, title: str, description: str) -> str:
     """WebSite on the home page, Article + BreadcrumbList on the rest. No author/publisher: not stated anywhere."""
@@ -182,7 +194,7 @@ def build_page(lang: str, slug: str, template: str):
                            root="../", nav=nav, body=body, url=page_url(lang, slug), hreflangs=hreflangs,
                            og_type="website" if slug == "index" else "article", locale=LOCALE[lang],
                            alt_lang=alt_lang, alt_label=alt_label, alt_href=f"../{alt_lang}/{slug}.html",
-                           footer=FOOTER[lang])
+                           footer=FOOTER[lang], projects=projects_html(lang))
     out = DOCS / lang / f"{slug}.html"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(page, encoding="utf-8")
