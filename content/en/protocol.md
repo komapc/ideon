@@ -5,6 +5,8 @@ description: Eleven rules for counting impact, written down before the calculati
 
 # Counting protocol
 
+**Rules version: 1.0, 17 September 2026 (R1–R11).** The rules are not edited: changes come out as a separate version 2.0 beside this one, and counts under version 1.0 stay as they are.
+
 Every figure on the [examples](examples.html) page is a Fermi estimate made before the rules were written down. Here it is the other way round: the rules come first, and the example is computed under them afterwards. The order is fixed in the repository history: the commit with the rules precedes the commit with the calculation. [Page history on GitHub](https://github.com/komapc/ideon/commits/main/content/en/protocol.md).
 
 ## 1. Rules
@@ -114,7 +116,7 @@ Harrison's share = w / Σw: from 0.0004 / 1.51 to 0.05 / 0.67, that is **0.03–
 
 **The interval spans three orders of magnitude, and half of it is one number.** Of ten judgment points, r, the replaceability of a donor in a replenishable pool, contributes a factor of 25 on its own; the other nine together contribute about 25 more, the largest of them, s, his share of the pool's antibody, being 5. This is exactly the warning on the [mathematics](math.html) page: v(S) is not measured but estimated. The rules are reproducible: a second person with the same inputs gets the same interval. Not the same number.
 
-**What holds.** Even at the lower bound Harrison is above the typical person (0.4 Vt); even at the upper bound he is two orders of magnitude below Trump (40 kVt). The whole Australian anti-D program is (4–9) × 10³ Vt, ten thousand biographies. Which row stands above which holds, the absolute figures do not, as the manifesto promises.
+**What holds.** Even at the lower bound Harrison is above the typical person (0.4 Vt); even at the upper bound he is an order of magnitude below Trump (10 kVt). The whole Australian anti-D program is (4–9) × 10³ Vt, ten thousand biographies. Which row stands above which holds, the absolute figures do not, as the manifesto promises.
 
 **Which rules worked and which did not.** R5 with fixed categories worked: no dispute about the degree arose. R7 worked unexpectedly: without the mandatory search for harm the sign would have been assigned automatically, and the product does have harm on record, if in other countries. R6 fell short: the rule does not say how to count the replaceability of one member of a replenishable pool, and that produced the widest interval. A rule is needed, but by R11 it is not added here.
 
@@ -122,7 +124,7 @@ Harrison's share = w / Σw: from 0.0004 / 1.51 to 0.05 / 0.67, that is **0.03–
 
 ## 6. The second test: a blind recount
 
-On 19 September 2026 two counters, Claude and GPT, received the same rules R1–R11 without the Harrison example, two declared channels, and counted separately without seeing each other's numbers. The cases were ones that do not appear on the site. Claude's count was written down before GPT's answer; its inputs were taken from memory, without references, which is weaker than R1. [The assignments, both answers and Claude's count](https://github.com/komapc/ideon/tree/main/notes) are in the repository (in Russian). Here the order is not fixed by the repository history: the assignment was committed before the run, while Claude's count and GPT's answers landed in the same commit.
+On 19 September 2026 two counters, Claude and GPT, received the same rules R1–R11 without the Harrison example, two declared channels, and counted separately without seeing each other's numbers. The cases were ones that do not appear on the site. Claude's count was written down before GPT's answer; its inputs were taken from memory, without references, which is weaker than R1. [The assignments, both answers and Claude's count](https://github.com/komapc/ideon/tree/dc9362a/notes) are in the repository history (in Russian). Here the order is not fixed by the repository history: the assignment was committed before the run, while Claude's count and GPT's answers landed in the same commit.
 
 **The first run failed.** GPT read the rules literally: p, d, remaining life and the number of readers are not external verifiable quantities (R1), so it gave each of them its whole mathematical domain and arrived at "from zero to infinity". R10 requires an interval with an explanation but nowhere says that the interval must be substantive; until now this was visible only from the example. For the second run a clarification was added to the assignment: trivial intervals are forbidden, every judgment point gets an argument, the chain is limited to the links named in the sources. The rules themselves were not changed.
 

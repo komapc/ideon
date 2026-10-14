@@ -25,8 +25,8 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Dilip Mahalanabis † | oral rehydration therapy, refugee camps, 1971 | 5 × 10⁷ lives × share 0.02–0.1 | 1–5 MVt |
 | Viktor Zhdanov † | proposed to the WHO that smallpox be eradicated, 1958 | 10⁸ lives since 1980 × share 0.01–0.05 | 1–5 MVt |
 | Pincus, Djerassi, Rock, Sanger, McCormick | the contraceptive pill | 3 × 10⁸ women × 30 years × 0.1 (a different frame of adult life) × 0.1 | ~1 MVt |
-| Karl Marx | the content of the ideology of the regimes that called themselves Marxist | the USSR as a frame 5 × 10¹⁵ minutes × 0.02–0.05 × share 0.03–0.1 (form and regime go to Lenin and Stalin), 0.1–1 MVt; China 2.6 × 10¹⁶ × 0.02–0.05 × 0.01–0.03, 0.2–1.6 MVt; Eastern Europe 40–200 kVt; the labour movement and Western social democracy 1870–1950 20–100 kVt; the Cold War in the West 8–50 kVt; the humanities 5–30 kVt; Soviet students, the compulsory 300–400 hours of Marxism-Leninism, 5 × 10⁷ people × 0.1–0.3 × share 0.3–0.5, 1–6 kVt, plus school and party study 1–2; Chinese students 1–5 kVt; readers of the Manifesto and Capital outside the regimes 0.5–1 kVt; grief and fear in the famines and the terror −10–80 kVt; monuments, Highgate and Karl-Marx-Stadt 0.1–3 Vt | ± 0.4–3 MVt |
-| Vladimir Lenin | October, the party of a new type, the Soviet state | the USSR as a frame for 74 years: 5 × 10¹⁵ subjects' minutes × 0.02–0.05 × share 0.05–0.15 (Stalin takes the rest), 0.2–1.5 MVt; the Leninist party form in China 2.6 × 10¹⁶ × 0.02–0.05 × 0.005–0.015, 0.1–0.8 MVt; Eastern Europe 40–200 kVt; the Lenin cult in school, portraits and slogans 10–50 kVt; the West during the Cold War 4–30 kVt; the texts 1–4 kVt; grief and fear of the terror and the civil war −6–25 kVt; the mausoleum 15–50 Vt; fourteen thousand monuments 0.4–9 Vt | ± 0.4–2.5 MVt |
+| Karl Marx | the content of the ideology of the regimes that called themselves Marxist | regimes as a frame × degree 0.02–0.05 × share 0.03–0.1; the rest by parts in section 8 | ± 0.4–3 MVt |
+| Vladimir Lenin | October, the party of a new type, the Soviet state | USSR as a frame × degree 0.02–0.05 × share 0.05–0.15; the rest in section 8 | ± 0.4–2.5 MVt |
 | Thomas Midgley | leaded gasoline and Freon | 10⁹ people × a whole life × 0.01–0.03 (lead lowers intelligence itself) × 0.2 | − 0.5–10 MVt |
 | Gavrilo Princip † | the shot in Sarajevo | 2 × 10⁷ dead × 0.6 Vt × share 0.01–0.3 (the war was ripe, and six assassins stood along the route) | − 0.1–3 MVt |
 
@@ -35,7 +35,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Who | For what | Calculation | Estimate |
 |---|---|---|---|
 | Sejong | Hangul | 2 × 10⁸ lives × a tenth of the minutes spent reading × 0.05 × 0.5 | 500 kVt |
-| Genghis Khan | the Mongol Empire | subjects in his lifetime 20–170 kVt; fear and grief of the survivors −8–110 kVt; successor states to 1500 60 kVt – 1 MVt at a clan share of 0.03–0.1; Mongolia today 1–12 kVt; the school image worldwide 10–230 Vt | ± 0.1–1.3 MVt |
+| Genghis Khan | the Mongol Empire | subjects, survivors' grief, successor states; by parts in section 8 | ± 0.1–1.3 MVt |
 | Benjamin Spock | Baby and Child Care | 10⁸ children × 0.01–0.1 Vt of parental influence × 0.05–0.1 | 50–1000 kVt |
 | John Amos Comenius | the class-lesson system: classes by age, the lesson, the school year; he described and justified it | 3 × 10¹⁵ school minutes × 0.05 (form) × 0.01–0.05 (Sturm and the Jesuits began it in practice) | 50–300 kVt |
 | Bill Wilson | Alcoholics Anonymous | 10⁷ people × 20 years × 0.1–0.3 × 0.3 | 80–250 kVt |
@@ -47,9 +47,8 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Euclid | | [Examples](examples.html) | 100 kVt |
 | Nils Bohlin † | the modern three-point seat belt, Volvo, 1959; the patent was left open | 10⁶ lives (Volvo's estimate) × 0.5 Vt × share 0.1–0.3 | 50–150 kVt |
 | Eliezer Ben-Yehuda | the revival of Hebrew | [Examples](examples.html) | 50 kVt |
-| Donald Trump | | [Examples](examples.html) | 40 kVt |
-| Linus Torvalds | the Linux kernel, Git, open development | acceleration of cheap infrastructure under P6: 1.3 × 10¹⁵ minutes × 0.1 × head start 0.03–0.06 × share 0.05–0.15, 8–47 kVt; Git 2.5 × 10⁸ person-years × 0.02–0.05 × share 0.1–0.3, 2–18 kVt; developers on Linux 0.5–6 kVt; the form of open development 1–2 kVt; kernel contributors 65–180 Vt; billions of Android and web users below the protocol floor, not counted in the total | 10–70 kVt |
-| Richard Stallman | GNU, the GPL, the four freedoms | head start for cheap infrastructure under P6, the same channel: 1.3 × 10¹⁵ minutes × 0.1 × 0.03–0.06 × share 0.03–0.08, 5–26 kVt; GNU tools in the developer's working minute 0.4–5 kVt; copyleft as a form 5 × 10¹² minutes × 0.05 × 0.3–0.5 × 0.5–0.8, 1.5–4 kVt; the content, the four freedoms, 25–760 Vt; free culture beyond code 50–500 Vt; the image and the "GNU/Linux" dispute 16–64 Vt | 7–40 kVt |
+| Linus Torvalds | the Linux kernel, Git, open development | head start for cheap infrastructure under R6 + Git + developers; by parts in section 8 | 10–70 kVt |
+| Richard Stallman | GNU, the GPL, the four freedoms | head start for cheap infrastructure under R6 + copyleft + content; by parts in section 8 | 7–40 kVt |
 | Cyril and his disciples | Slavic writing | 2 × 10¹⁵ minutes of reading and writing × 0.01 × 0.01–0.1 (the same would have been written in Greek or Latin letters) | 10–100 kVt among them |
 | Friedrich Fröbel | the kindergarten | 10⁹ children × 3,000 h × 0.05 × 0.1 | 36 kVt |
 | Guido of Arezzo | staff notation | 5 × 10⁸ music learners × 500 h × 0.2 × 0.3 | 36 kVt |
@@ -59,6 +58,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Ole Kirk Christiansen | LEGO | 10⁹ children × 300 h × 0.05 × 0.4 | 14 kVt |
 | Vitaly Lagutenko | K-7, the first mass series of the khrushchyovka, the Soviet prefab apartment block | 5 × 10⁷ residents of khrushchyovkas × 20 years × half of the minutes at home × 0.02 × 0.05–0.2 (there were several series, the French experience with panels was studied, and the decision was Khrushchev's) | 5–30 kVt |
 | Robert Gaskins with Dennis Austin | PowerPoint: thought cut into bullet points | 9 × 10¹³ minutes in the audience × 0.03 × 0.1 | ± 10 kVt |
+| Donald Trump | | [Examples](examples.html) | 10 kVt |
 | Gerardus Mercator | the world map in every head, with Greenland the size of Africa | 5 × 10⁹ people × 50 h × 0.05 × 0.3 | 9 kVt |
 
 ## Kilovitas
@@ -87,7 +87,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Albert Hofmann | LSD | 10⁸ people × 3 times × 600 minutes × 0.5 × 0.3 | 1 kVt |
 | Ernő Rubik | the cube | 10⁹ people × 5 h × 0.1 × 0.8 | 1 kVt |
 | Albert Einstein | | 10⁹ pupils × 5 h × 0.2 × 0.3, plus physicists and "everything is relative" | 1 kVt |
-| Kazimir Malevich | Black Square and geometric abstraction | designers and architects 3–15 million × working minutes × 0.03–0.05 × share 0.01–0.05 (abstraction was ripe: Kandinsky, Kupka, Mondrian) 70 Vt – 5 kVt; the "is this art?" argument 5–240; students and school 20–250; artist heirs 20–960; reproductions 2–15 | 0.2–10 kVt |
+| Kazimir Malevich | Black Square and geometric abstraction | designers and architects × degree 0.03–0.05 × share 0.01–0.05 + the argument, school, heirs; by parts in section 8 | 0.2–10 kVt |
 | Leo Tolstoy | | [Examples](examples.html) | ~1 kVt |
 | Leonid Gaidai | Soviet comedies that dissolved into catchphrases | 2 × 10⁸ viewers × 50 viewings × 90 minutes × 0.05 × 0.5 | 1 kVt |
 | Andrey Kolmogorov | the Soviet school mathematics reform of the 1970s; possibly his largest account | 4 × 10⁷ pupils × 750 h × 0.05 × 0.3 | ± 1 kVt |
@@ -95,7 +95,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 | Joe Rogan | the largest talk podcast | 10¹² minutes × 0.05 × 0.4 (the rest goes to the guests) | 0.3–3 kVt |
 | Alexey Pajitnov | Tetris | 10⁹ players × 50 h × 0.01 × 0.5 | 0.6 kVt |
 | Noam Chomsky | linguistics, computer science, politics | 6 × 10¹⁰ linguists' minutes × 0.3 × 0.3, the rest in small change | 0.5 kVt |
-| Paul Erdős | fifteen hundred papers, five hundred co-authors | combinatorics, graphs, number theory to 2100: 1–3 × 10⁴ mathematicians × 60–160 years × 1.2 × 10⁵ minutes a year × 0.1–0.3 × share 0.1–0.3, 30 Vt – 2 kVt; students and olympiad culture 15–160; co-authors in person 0.3–6; the Erdős number and the image 0.1–6 | 0.3–0.5 kVt |
+| Paul Erdős | fifteen hundred papers, five hundred co-authors | mathematicians × years × working minutes × 0.1–0.3 × share 0.1–0.3 + students and co-authors; by parts in section 8 | 0.3–0.5 kVt |
 | Ignaz Semmelweis † | handwashing in one Vienna clinic; he convinced nobody | 1,000 mothers × 0.5 Vt × 0.9 | 0.5 kVt |
 | Wes Cherry | Solitaire for Windows; an intern, paid no royalties | 5 × 10⁸ players × 100 h × 0.01 × 0.3 | 0.4 kVt |
 | The Hill sisters | the melody of "Happy Birthday", traditionally attributed to them | 4 × 10⁹ people × 250 minutes in a lifetime × 0.02 × 0.5 | 0.1–0.5 kVt |
@@ -106,7 +106,7 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 
 | Who | For what | Calculation | Estimate |
 |---|---|---|---|
-| Khufu (Cheops) | the Great Pyramid | builders and subjects in his lifetime 60–400 Vt; the image in people's heads, Egyptology and pyramidology 70–600; visitors and those who live off the pyramid today 50–270; the pharaoh's share is 0.1–0.3 throughout | 0.2–1 kVt |
+| Khufu (Cheops) | the Great Pyramid | builders, the image in heads, visitors; pharaoh's share 0.1–0.3; by parts in section 8 | 0.2–1 kVt |
 | Max Martin | the author of dozens of hits whom nobody knows by sight | 10¹¹ plays × 3.5 minutes × 0.02 × 0.4 | 100 Vt |
 | MrBeast | the largest channel on YouTube | 4 × 10¹¹ minutes × 0.01–0.03 × 0.3–0.5 | 50–250 Vt |
 | A podcaster with a million listeners | two hours of talk twice a week, five years | 6 × 10¹⁰ minutes × 0.05 (opinion) × 0.5 (the other half goes to the guests) | 60 Vt |
@@ -127,9 +127,9 @@ A "−" before a number means the trace is harmful, "±" that both signs are pre
 
 | What | For what | Calculation | Estimate |
 |---|---|---|---|
-| Paris | its inhabitants over all of its history | 0.5–1.2 billion person-years lived × place degree 0.01–0.1; tourists over half a century add 7–24 kVt, the image in the heads of those who never went 0.5–10 kVt | 0.1–1.7 MVt |
-| The Great Pyramid | a place | builders 4 × 10⁵ person-years × 0.3–0.5, 1.7–2.8 kVt; the subjects during twenty years of construction 2–5 kVt; those who have lived off it over the last century 0.7–7 kVt; visitors over a century 50–700 Vt; the image in everyone's head 0.2–2 kVt | 2–10 kVt |
-| ChatGPT | the chat assistant as a medium; the content goes to the authors of the corpus | 7 × 10¹² minutes of dialogue by 2026 × medium degree 0.05–0.1 × R6 share 0.05–0.1 (assistants were ripe, competitors were a year behind) → 0.7–3 kVt; the frame shift "the machine talks" in everyone adds 1–10; over a 30-year horizon 10¹⁵ minutes of all assistants at the same share | ± 2–15 kVt, 60–600 kVt by 2056 |
+| Paris | its inhabitants over all of its history | 0.5–1.2 billion person-years × place degree 0.01–0.1; tourists and image in section 8 | 0.1–1.7 MVt |
+| The Great Pyramid | a place | builders, subjects, those living off it, visitors, image; by parts in section 8 | 2–10 kVt |
+| ChatGPT | the chat assistant as a medium; the content goes to the authors of the corpus | 7 × 10¹² minutes × medium degree 0.05–0.1 × R6 share 0.05–0.1; frame shift and horizon in section 8 | ± 2–15 kVt, 60–600 kVt by 2056 |
 | A city of a hundred thousand | a century of life | 10⁷ person-years × 0.01–0.1 | 1.4–14 kVt |
 | A World Cup final | | broadcast: 1.5 × 10⁹ viewers × 120 minutes × 0.01–0.03, 50–200 Vt; memory of the match 90–600 | 140–800 Vt |
 | The Maracanazo, 1950 | | memory alone: Brazil, seventy-five years of talking about it | 70–840 Vt |
@@ -191,3 +191,29 @@ Gutenberg, Haber and Berners-Lee invented what was already ripening: without the
 The [protocol](protocol.html) takes the middle. Under rule R6 the weight of a link without which the result would have happened anyway equals the fraction of the horizon lost to the delay: a generation out of six centuries gives Gutenberg about a twentieth, and after sharing with the other links, a few percent of the form of the medium. This is a convention, not a discovery: it silently assumes that a delay is neither made up nor amplified. The rows of the table are counted by it.
 
 ChatGPT is a fresh case of the same rule. The raw estimate of the product as a medium is 7–22 kVt, and under R6 less than three: a one-year lead over competitors on a thirty-year horizon gives a few percent of the channel. The content in a minute of an answer belongs not to the product but to the authors of the corpus: about 100 kVt has already passed through it to them, as much as through Wikipedia in twenty years. It is a re-emitter of the Anonymous, Gutenberg rather than Luther. The open question is what to do when a model begins to produce content that is not in the corpus: for now it counts as a channel, like a reteller.
+
+## 8. Calculations by parts
+
+The table rows above are abbreviated; here are the full breakdowns of the large accounts.
+
+**Karl Marx.** the USSR as a frame 5 × 10¹⁵ minutes × 0.02–0.05 × share 0.03–0.1 (form and regime go to Lenin and Stalin), 0.1–1 MVt; China 2.6 × 10¹⁶ × 0.02–0.05 × 0.01–0.03, 0.2–1.6 MVt; Eastern Europe 40–200 kVt; the labour movement and Western social democracy 1870–1950 20–100 kVt; the Cold War in the West 8–50 kVt; the humanities 5–30 kVt; Soviet students, the compulsory 300–400 hours of Marxism-Leninism, 5 × 10⁷ people × 0.1–0.3 × share 0.3–0.5, 1–6 kVt, plus school and party study 1–2; Chinese students 1–5 kVt; readers of the Manifesto and Capital outside the regimes 0.5–1 kVt; grief and fear in the famines and the terror −10–80 kVt; monuments, Highgate and Karl-Marx-Stadt 0.1–3 Vt
+
+**Vladimir Lenin.** the USSR as a frame for 74 years: 5 × 10¹⁵ subjects' minutes × 0.02–0.05 × share 0.05–0.15 (Stalin takes the rest), 0.2–1.5 MVt; the Leninist party form in China 2.6 × 10¹⁶ × 0.02–0.05 × 0.005–0.015, 0.1–0.8 MVt; Eastern Europe 40–200 kVt; the Lenin cult in school, portraits and slogans 10–50 kVt; the West during the Cold War 4–30 kVt; the texts 1–4 kVt; grief and fear of the terror and the civil war −6–25 kVt; the mausoleum 15–50 Vt; fourteen thousand monuments 0.4–9 Vt
+
+**Genghis Khan.** subjects in his lifetime 20–170 kVt; fear and grief of the survivors −8–110 kVt; successor states to 1500 60 kVt – 1 MVt at a clan share of 0.03–0.1; Mongolia today 1–12 kVt; the school image worldwide 10–230 Vt
+
+**Linus Torvalds.** acceleration of cheap infrastructure under P6: 1.3 × 10¹⁵ minutes × 0.1 × head start 0.03–0.06 × share 0.05–0.15, 8–47 kVt; Git 2.5 × 10⁸ person-years × 0.02–0.05 × share 0.1–0.3, 2–18 kVt; developers on Linux 0.5–6 kVt; the form of open development 1–2 kVt; kernel contributors 65–180 Vt; billions of Android and web users below the protocol floor, not counted in the total
+
+**Richard Stallman.** head start for cheap infrastructure under P6, the same channel: 1.3 × 10¹⁵ minutes × 0.1 × 0.03–0.06 × share 0.03–0.08, 5–26 kVt; GNU tools in the developer's working minute 0.4–5 kVt; copyleft as a form 5 × 10¹² minutes × 0.05 × 0.3–0.5 × 0.5–0.8, 1.5–4 kVt; the content, the four freedoms, 25–760 Vt; free culture beyond code 50–500 Vt; the image and the "GNU/Linux" dispute 16–64 Vt
+
+**Kazimir Malevich.** designers and architects 3–15 million × working minutes × 0.03–0.05 × share 0.01–0.05 (abstraction was ripe: Kandinsky, Kupka, Mondrian) 70 Vt – 5 kVt; the "is this art?" argument 5–240; students and school 20–250; artist heirs 20–960; reproductions 2–15
+
+**Paul Erdős.** combinatorics, graphs, number theory to 2100: 1–3 × 10⁴ mathematicians × 60–160 years × 1.2 × 10⁵ minutes a year × 0.1–0.3 × share 0.1–0.3, 30 Vt – 2 kVt; students and olympiad culture 15–160; co-authors in person 0.3–6; the Erdős number and the image 0.1–6
+
+**Khufu (Cheops).** builders and subjects in his lifetime 60–400 Vt; the image in people's heads, Egyptology and pyramidology 70–600; visitors and those who live off the pyramid today 50–270; the pharaoh's share is 0.1–0.3 throughout
+
+**Paris.** 0.5–1.2 billion person-years lived × place degree 0.01–0.1; tourists over half a century add 7–24 kVt, the image in the heads of those who never went 0.5–10 kVt
+
+**The Great Pyramid.** builders 4 × 10⁵ person-years × 0.3–0.5, 1.7–2.8 kVt; the subjects during twenty years of construction 2–5 kVt; those who have lived off it over the last century 0.7–7 kVt; visitors over a century 50–700 Vt; the image in everyone's head 0.2–2 kVt
+
+**ChatGPT.** 7 × 10¹² minutes of dialogue by 2026 × medium degree 0.05–0.1 × R6 share 0.05–0.1 (assistants were ripe, competitors were a year behind) → 0.7–3 kVt; the frame shift "the machine talks" in everyone adds 1–10; over a 30-year horizon 10¹⁵ minutes of all assistants at the same share

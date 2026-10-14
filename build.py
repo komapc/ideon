@@ -11,11 +11,12 @@ CONTENT, DOCS, TPL = ROOT / "content", ROOT / "docs", ROOT / "templates"
 BASE = "https://komapc.github.io/ideon/"
 SITE = {"ru": "Идеонология", "en": "Ideonology"}
 LOCALE = {"ru": "ru_RU", "en": "en_US"}
-TAGLINE = {"ru": "теория значимости", "en": "a theory of a person's significance"}
+TAGLINE = {"ru": "теория значимости", "en": "a theory of significance"}
 OG_IMAGE = f"{BASE}og.png"
 DESC = {"ru": "Теория значимости, оцениваемой с точностью до порядка: идеон, пирс, Вита, паритет.",
-        "en": "A theory of a person's significance in which significance can be estimated to an order of magnitude: ideon, peirce, Vita, parity."}
+        "en": "A theory of significance, estimated to an order of magnitude: ideon, peirce, Vita, parity."}
 NAV = [("index", {"ru": "Главная", "en": "Home"}),
+       ("start", {"ru": "За пять минут", "en": "In five minutes"}),
        ("manifesto", {"ru": "Манифест", "en": "Manifesto"}),
        ("meaning", {"ru": "Смысл", "en": "Meaning"}),
        ("selfhood", {"ru": "Самость", "en": "Selfhood"}),
@@ -115,6 +116,7 @@ def linkify_terms(body: str, lang: str) -> str:
 
 FOOTER = {"ru": "Идеонология · 2026 · текст свободен для переизлучения (CC BY 4.0)",
           "en": "Ideonology · 2026 · free to re-emit (CC BY 4.0)"}
+UPDATED = {"ru": "обновлено", "en": "updated"}
 # Sibling projects, shown in every page footer. To add/remove a link edit only this list:
 # (url, name, {lang: what it is})
 PROJECTS_LABEL = {"ru": "Другие проекты", "en": "Other projects"}
@@ -196,7 +198,7 @@ def build_page(lang: str, slug: str, template: str):
                            root="../", nav=nav, body=body, url=page_url(lang, slug), hreflangs=hreflangs,
                            og_type="website" if slug == "index" else "article", locale=LOCALE[lang],
                            alt_lang=alt_lang, alt_label=alt_label, alt_href=f"../{alt_lang}/{slug}.html",
-                           footer=FOOTER[lang], projects=projects_html(lang))
+                           footer=f"{FOOTER[lang]} · {UPDATED[lang]} {lastmod(CONTENT / lang / f'{slug}.md')}", projects=projects_html(lang))
     out = DOCS / lang / f"{slug}.html"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(page, encoding="utf-8")

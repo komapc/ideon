@@ -1,6 +1,6 @@
 ---
 title: Ideonology
-description: Ideonology is a theory of a person's significance in which significance can be estimated to an order of magnitude: how much of other people's thought you shifted. Ideon, peirce, Vita, parity.
+description: Ideonology is a theory of significance, estimated to an order of magnitude: how much of other people's thought you shifted. Ideon, peirce, Vita, parity.
 ---
 
 # Ideonology
@@ -13,6 +13,7 @@ All the waking minutes of one person over a lifetime are one **Vita**. You recei
 
 ## Sections
 
+- [In five minutes](start.html) — the whole theory on one example: a plasma donor and his account.
 - [Manifesto](manifesto.html) — nine theses.
 - [Meaning](meaning.html) — whether significance amounts to meaning: the possible answers, ten variants of the goal, and which one the theory takes.
 - [Selfhood](selfhood.html) — what in a person is their own, why it is not the same as influence, and what the schools do with it, from Nietzsche to Buddhism.
