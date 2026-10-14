@@ -1,6 +1,6 @@
 # Идеонология / Ideonology
 
-Теория значимости человека, в которой значимость оцениваема с точностью до порядка. **Идеон** — то, что ты сдвинул в чужой голове; его величина меряется в **пирсах**: один пирс — одна чужая минута, целиком твоя.
+Теория значимости, оцениваемой с точностью до порядка. **Идеон** — то, что ты сдвинул в чужой голове; его величина меряется в **пирсах**: один пирс — одна чужая минута, целиком твоя.
 A theory of a person's significance in which significance can be estimated to an order of magnitude. An **ideon** is what you shifted in someone else's head; its magnitude is measured in **peirces**: one peirce is one minute of someone else's, wholly yours.
 
 Сайт / site: https://komapc.github.io/ideon/ — [русский](https://komapc.github.io/ideon/ru/) · [English](https://komapc.github.io/ideon/en/)
