@@ -11,7 +11,7 @@ CONTENT, DOCS, TPL = ROOT / "content", ROOT / "docs", ROOT / "templates"
 BASE = "https://komapc.github.io/ideon/"
 SITE = {"ru": "Идеонология", "en": "Ideonology"}
 LOCALE = {"ru": "ru_RU", "en": "en_US"}
-TAGLINE = {"ru": "теория значимости человека", "en": "a theory of a person's significance"}
+TAGLINE = {"ru": "теория значимости", "en": "a theory of a person's significance"}
 OG_IMAGE = f"{BASE}og.png"
 DESC = {"ru": "Теория значимости человека, в которой значимость оцениваема с точностью до порядка: идеон, пирс, Вита, паритет.",
         "en": "A theory of a person's significance in which significance can be estimated to an order of magnitude: ideon, peirce, Vita, parity."}
