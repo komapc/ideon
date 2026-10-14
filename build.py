@@ -115,13 +115,15 @@ def linkify_terms(body: str, lang: str) -> str:
 
 FOOTER = {"ru": "Идеонология · 2026 · текст свободен для переизлучения (CC BY 4.0)",
           "en": "Ideonology · 2026 · free to re-emit (CC BY 4.0)"}
-# Sibling projects, shown in every page footer: (url, name, {lang: what it is})
+# Sibling projects, shown in every page footer. To add/remove a link edit only this list:
+# (url, name, {lang: what it is})
 PROJECTS_LABEL = {"ru": "Другие проекты", "en": "Other projects"}
 PROJECTS = [
     ("https://ido-vortaro.pages.dev/", "Vortaro", {"ru": "словарь идо–эсперанто", "en": "Ido–Esperanto dictionary"}),
     ("https://ido-tradukilo.pages.dev/", "Tradukilo", {"ru": "переводчик идо–эсперанто", "en": "Ido–Esperanto translator"}),
     ("https://echodrift.pages.dev/", "EchoDrift", {"ru": "атлас фонетических сдвигов", "en": "atlas of phonetic shifts"}),
     ("https://hanzi-burst.komapc.workers.dev/", "hanzi-burst", {"ru": "иероглифы через радикалы", "en": "Chinese characters by radicals"}),
+    ("https://komapc.github.io/contlang/", "min-co", {"ru": "минимальный непрерывный язык", "en": "a minimal continuous constructed language"}),
 ]
 
 def parse(src: str):
