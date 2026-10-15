@@ -27,6 +27,7 @@
 <header class="top">
   <a class="brand" href="../en/index.html">Ideonology</a>
   <nav><a href="index.html">Home</a> <a href="start.html">In five minutes</a> <a href="manifesto.html">Manifesto</a> <a href="meaning.html">Meaning</a> <a href="selfhood.html" class="current">Selfhood</a> <a href="glossary.html">Glossary</a> <a href="math.html">Mathematics</a> <a href="examples.html">Examples</a> <a href="comparison.html">Comparison</a> <a href="protocol.html">Protocol</a> <a href="notability.html">Notability</a> <a href="hall.html">Hall of fame</a></nav>
+  <button class="about" type="button" onclick="document.getElementById('about').showModal()">What is this?</button>
   <a class="lang" href="../ru/selfhood.html" hreflang="ru">Русский</a>
 </header>
 <main>
@@ -174,5 +175,16 @@
   <span>Ideonology · 2026 · free to re-emit (CC BY 4.0) · updated 2026-09-22</span>
   <a href="https://github.com/komapc/ideon">GitHub</a>
 </footer>
+<dialog id="about" onclick="if(event.target===this)this.close()">
+<h2>What is this?</h2>
+<ul>
+<li><b>Ideonology</b> is a theory of significance: how much of other people's thought a person, event, place or idea shifted.</li>
+<li><b>The unit</b> is the peirce: one minute of someone else's, wholly yours. All the thought of one person over a lifetime is one Vita, 25 million minutes.</li>
+<li><b>Credit</b> follows irreplaceability: each gets as much as would disappear without them.</li>
+<li><b>The numbers</b> are Fermi estimates, to an order of magnitude; who is above whom holds better than the figures.</li>
+</ul>
+<p><a href="start.html">Walk through one example</a></p>
+<form method="dialog"><button>Close</button></form>
+</dialog>
 </body>
 </html>

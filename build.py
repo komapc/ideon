@@ -116,6 +116,24 @@ def linkify_terms(body: str, lang: str) -> str:
 
 FOOTER = {"ru": "Идеонология · 2026 · текст свободен для переизлучения (CC BY 4.0)",
           "en": "Ideonology · 2026 · free to re-emit (CC BY 4.0)"}
+ABOUT = {
+    "ru": ("Что это?", "Закрыть", """<h2>Что это?</h2>
+<ul>
+<li><b>Идеонология</b> — теория значимости: сколько чужой мысли сдвинул человек, событие, место или идея.</li>
+<li><b>Единица</b> — пирс: одна чужая минута, целиком твоя. Вся мысль одного человека за жизнь — одна Вита, 25 миллионов минут.</li>
+<li><b>Кредит</b> идёт по незаменимости: каждому столько, сколько без него бы исчезло.</li>
+<li><b>Цифры</b> — оценки по Ферми, с точностью до порядка; кто выше, кто ниже — надёжнее самих чисел.</li>
+</ul>
+<p><a href="start.html">Разобрать на одном примере</a></p>"""),
+    "en": ("What is this?", "Close", """<h2>What is this?</h2>
+<ul>
+<li><b>Ideonology</b> is a theory of significance: how much of other people's thought a person, event, place or idea shifted.</li>
+<li><b>The unit</b> is the peirce: one minute of someone else's, wholly yours. All the thought of one person over a lifetime is one Vita, 25 million minutes.</li>
+<li><b>Credit</b> follows irreplaceability: each gets as much as would disappear without them.</li>
+<li><b>The numbers</b> are Fermi estimates, to an order of magnitude; who is above whom holds better than the figures.</li>
+</ul>
+<p><a href="start.html">Walk through one example</a></p>"""),
+}
 UPDATED = {"ru": "обновлено", "en": "updated"}
 # Sibling projects, shown in every page footer. To add/remove a link edit only this list:
 # (url, name, {lang: what it is})
@@ -197,7 +215,7 @@ def build_page(lang: str, slug: str, template: str):
                            jsonld=jsonld(lang, slug, title, desc),
                            root="../", nav=nav, body=body, url=page_url(lang, slug), hreflangs=hreflangs,
                            og_type="website" if slug == "index" else "article", locale=LOCALE[lang],
-                           alt_lang=alt_lang, alt_label=alt_label, alt_href=f"../{alt_lang}/{slug}.html",
+                           alt_lang=alt_lang, alt_label=alt_label, about_btn=ABOUT[lang][0], about_close=ABOUT[lang][1], about_html=ABOUT[lang][2], alt_href=f"../{alt_lang}/{slug}.html",
                            footer=f"{FOOTER[lang]} · {UPDATED[lang]} {lastmod(CONTENT / lang / f'{slug}.md')}", projects=projects_html(lang))
     out = DOCS / lang / f"{slug}.html"
     out.parent.mkdir(parents=True, exist_ok=True)

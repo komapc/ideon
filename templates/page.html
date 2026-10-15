@@ -25,6 +25,7 @@
 <header class="top">
   <a class="brand" href="{root}{lang}/index.html">{site}</a>
   <nav>{nav}</nav>
+  <button class="about" type="button" onclick="document.getElementById('about').showModal()">{about_btn}</button>
   <a class="lang" href="{alt_href}" hreflang="{alt_lang}">{alt_label}</a>
 </header>
 <main>
@@ -35,5 +36,9 @@
   <span>{footer}</span>
   <a href="https://github.com/komapc/ideon">GitHub</a>
 </footer>
+<dialog id="about" onclick="if(event.target===this)this.close()">
+{about_html}
+<form method="dialog"><button>{about_close}</button></form>
+</dialog>
 </body>
 </html>

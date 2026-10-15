@@ -27,6 +27,7 @@
 <header class="top">
   <a class="brand" href="../ru/index.html">Идеонология</a>
   <nav><a href="index.html">Главная</a> <a href="start.html">За пять минут</a> <a href="manifesto.html">Манифест</a> <a href="meaning.html">Смысл</a> <a href="selfhood.html">Самость</a> <a href="glossary.html">Словарь</a> <a href="math.html" class="current">Математика</a> <a href="examples.html">Примеры</a> <a href="comparison.html">Сравнение</a> <a href="protocol.html">Протокол</a> <a href="notability.html">Википедия</a> <a href="hall.html">Зал славы</a></nav>
+  <button class="about" type="button" onclick="document.getElementById('about').showModal()">Что это?</button>
   <a class="lang" href="../en/math.html" hreflang="en">English</a>
 </header>
 <main>
@@ -192,5 +193,16 @@
   <span>Идеонология · 2026 · текст свободен для переизлучения (CC BY 4.0) · обновлено 2026-09-22</span>
   <a href="https://github.com/komapc/ideon">GitHub</a>
 </footer>
+<dialog id="about" onclick="if(event.target===this)this.close()">
+<h2>Что это?</h2>
+<ul>
+<li><b>Идеонология</b> — теория значимости: сколько чужой мысли сдвинул человек, событие, место или идея.</li>
+<li><b>Единица</b> — пирс: одна чужая минута, целиком твоя. Вся мысль одного человека за жизнь — одна Вита, 25 миллионов минут.</li>
+<li><b>Кредит</b> идёт по незаменимости: каждому столько, сколько без него бы исчезло.</li>
+<li><b>Цифры</b> — оценки по Ферми, с точностью до порядка; кто выше, кто ниже — надёжнее самих чисел.</li>
+</ul>
+<p><a href="start.html">Разобрать на одном примере</a></p>
+<form method="dialog"><button>Закрыть</button></form>
+</dialog>
 </body>
 </html>

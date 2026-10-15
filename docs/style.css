@@ -30,7 +30,17 @@ nav { display: flex; flex-wrap: wrap; gap: .25rem .9rem; flex: 1; }
 nav a, .lang { color: var(--muted); text-decoration: none; }
 nav a.current { color: var(--accent); border-bottom: 2px solid var(--accent); }
 nav a:hover, .lang:hover { color: var(--accent); }
-.lang { margin-left: auto; border: 1px solid var(--line); border-radius: 999px; padding: .1rem .7rem; }
+.lang { margin-left: .5rem; border: 1px solid var(--line); border-radius: 999px; padding: .1rem .7rem; }
+.about { margin-left: auto; font: inherit; color: var(--muted); background: none; cursor: pointer;
+  border: 1px solid var(--line); border-radius: 999px; padding: .1rem .7rem; }
+.about:hover { color: var(--accent); border-color: var(--accent); }
+dialog { max-width: 30rem; width: calc(100% - 32px); color: var(--fg); background: var(--bg);
+  border: 1px solid var(--line); border-radius: 8px; padding: 1.2rem 1.4rem; }
+dialog::backdrop { background: rgba(0, 0, 0, .45); }
+dialog h2 { margin-top: 0; }
+dialog ul { padding-left: 1.2rem; }
+dialog button { font: inherit; color: var(--fg); background: var(--th); border: 1px solid var(--line);
+  border-radius: 6px; padding: .3rem .9rem; cursor: pointer; }
 main { padding-top: 1.5rem; padding-bottom: 3rem; }
 h1 { font-size: 2rem; line-height: 1.15; margin: .5rem 0 1.25rem; font-weight: 600; }
 h2 { font-size: 1.35rem; margin: 2.2rem 0 .8rem; font-weight: 600; }
