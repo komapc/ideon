@@ -143,7 +143,7 @@ PROJECTS = [
     ("https://ido-vortaro.pages.dev/", "Vortaro", {"ru": "словарь идо–эсперанто", "en": "Ido–Esperanto dictionary"}),
     ("https://ido-tradukilo.pages.dev/", "Tradukilo", {"ru": "переводчик идо–эсперанто", "en": "Ido–Esperanto translator"}),
     ("https://echodrift.pages.dev/", "EchoDrift", {"ru": "атлас фонетических сдвигов", "en": "atlas of phonetic shifts"}),
-    ("https://hanzi-burst.komapc.workers.dev/", "hanzi-burst", {"ru": "иероглифы через радикалы", "en": "Chinese characters by radicals"}),
+    ("https://hanzi.lipu.dev/", "hanzi-burst", {"ru": "иероглифы через радикалы", "en": "Chinese characters by radicals"}),
     ("https://minco.lipu.dev/", "min-co", {"ru": "минимальный непрерывный язык", "en": "a minimal continuous constructed language"}),
 ]
 
