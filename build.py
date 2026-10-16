@@ -8,7 +8,8 @@ import markdown
 ROOT = Path(__file__).parent
 CONTENT, DOCS, TPL = ROOT / "content", ROOT / "docs", ROOT / "templates"
 
-BASE = "https://komapc.github.io/ideon/"
+HOST = "ideon.lipu.dev"
+BASE = f"https://{HOST}/"
 SITE = {"ru": "Идеонология", "en": "Ideonology"}
 LOCALE = {"ru": "ru_RU", "en": "en_US"}
 TAGLINE = {"ru": "теория значимости", "en": "a theory of significance"}
@@ -251,6 +252,8 @@ def main():
         '</body></html>', encoding="utf-8")
     write_sitemap([s for s, _ in NAV])
     (DOCS / ".nojekyll").touch()
+    (DOCS / "CNAME").write_text(HOST + "\n")  # GitHub Pages custom domain
+    (DOCS / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {BASE}sitemap.xml\n")
     print("built:", ", ".join(str(p.relative_to(DOCS)) for p in sorted(DOCS.rglob("*.html"))))
 
 if __name__ == "__main__":

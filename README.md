@@ -3,7 +3,7 @@
 Теория значимости, оцениваемой с точностью до порядка. **Идеон** — то, что ты сдвинул в чужой голове; его величина меряется в **пирсах**: один пирс — одна чужая минута, целиком твоя.
 A theory of significance, estimated to an order of magnitude. An **ideon** is what you shifted in someone else's head; its magnitude is measured in **peirces**: one peirce is one minute of someone else's, wholly yours.
 
-Сайт / site: https://komapc.github.io/ideon/ — [русский](https://komapc.github.io/ideon/ru/) · [English](https://komapc.github.io/ideon/en/)
+Сайт / site: https://ideon.lipu.dev/ — [русский](https://ideon.lipu.dev/ru/) · [English](https://ideon.lipu.dev/en/)
 
 ## Структура / Layout
 
