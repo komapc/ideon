@@ -144,7 +144,7 @@ PROJECTS = [
     ("https://ido-tradukilo.pages.dev/", "Tradukilo", {"ru": "переводчик идо–эсперанто", "en": "Ido–Esperanto translator"}),
     ("https://echodrift.pages.dev/", "EchoDrift", {"ru": "атлас фонетических сдвигов", "en": "atlas of phonetic shifts"}),
     ("https://hanzi-burst.komapc.workers.dev/", "hanzi-burst", {"ru": "иероглифы через радикалы", "en": "Chinese characters by radicals"}),
-    ("https://komapc.github.io/contlang/", "min-co", {"ru": "минимальный непрерывный язык", "en": "a minimal continuous constructed language"}),
+    ("https://minco.lipu.dev/", "min-co", {"ru": "минимальный непрерывный язык", "en": "a minimal continuous constructed language"}),
 ]
 
 def parse(src: str):
