@@ -136,17 +136,6 @@ ABOUT = {
 <p><a href="start.html">Walk through one example</a></p>"""),
 }
 UPDATED = {"ru": "обновлено", "en": "updated"}
-# Sibling projects, shown in every page footer. To add/remove a link edit only this list:
-# (url, name, {lang: what it is})
-PROJECTS_LABEL = {"ru": "Другие проекты", "en": "Other projects"}
-PROJECTS = [
-    ("https://vortaro.lipu.dev/", "Vortaro", {"ru": "словарь идо–эсперанто", "en": "Ido–Esperanto dictionary"}),
-    ("https://tradukilo.lipu.dev/", "Tradukilo", {"ru": "переводчик идо–эсперанто", "en": "Ido–Esperanto translator"}),
-    ("https://echodrift.lipu.dev/", "EchoDrift", {"ru": "атлас фонетических сдвигов", "en": "atlas of phonetic shifts"}),
-    ("https://hanzi.lipu.dev/", "hanzi-burst", {"ru": "иероглифы через радикалы", "en": "Chinese characters by radicals"}),
-    ("https://minco.lipu.dev/", "min-co", {"ru": "минимальный непрерывный язык", "en": "a minimal continuous constructed language"}),
-]
-
 def parse(src: str):
     m = re.match(r"^---\n(.*?)\n---\n(.*)$", src, re.S)
     meta = dict(l.split(":", 1) for l in m.group(1).splitlines() if ":" in l) if m else {}
@@ -174,8 +163,7 @@ def write_sitemap(slugs):
         'xmlns:xhtml="http://www.w3.org/1999/xhtml">\n' + "\n".join(rows) + "\n</urlset>\n", encoding="utf-8")
 
 def projects_html(lang: str) -> str:
-    items = " · ".join(['<a href="https://lipu.dev/">lipu.dev</a>'] + [f'<a href="{u}">{html.escape(n)}</a> — {html.escape(d[lang])}' for u, n, d in PROJECTS])
-    return f'<p class="projects"><span>{PROJECTS_LABEL[lang]}:</span> {items}</p>'
+    return '<p class="projects"><a href="https://lipu.dev/">lipu.dev</a></p>'
 
 def jsonld(lang: str, slug: str, title: str, description: str) -> str:
     """WebSite on the home page, Article + BreadcrumbList on the rest. No author/publisher: not stated anywhere."""
