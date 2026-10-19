@@ -12,10 +12,10 @@ HOST = "ideon.lipu.dev"
 BASE = f"https://{HOST}/"
 SITE = {"ru": "Идеонология", "en": "Ideonology"}
 LOCALE = {"ru": "ru_RU", "en": "en_US"}
-TAGLINE = {"ru": "теория значимости", "en": "a theory of significance"}
+TAGLINE = {"ru": "сколько чужой мысли ты сдвинул", "en": "measuring how much a thought changes other minds"}
 OG_IMAGE = f"{BASE}og.png"
-DESC = {"ru": "Теория значимости, оцениваемой с точностью до порядка: идеон, пирс, Вита, паритет.",
-        "en": "A theory of significance, estimated to an order of magnitude: ideon, peirce, Vita, parity."}
+DESC = {"ru": "Идеонология измеряет, насколько ты изменил чужое мышление, с точностью до порядка: теория значимости с единицей влияния (пирс) и шкалой от одной минуты до целой жизни.",
+        "en": "Ideonology measures how much of other people's thought you shifted, to an order of magnitude: a theory of significance with a unit of impact (the peirce) and a scale from one minute to a whole lifetime."}
 NAV = [("index", {"ru": "Главная", "en": "Home"}),
        ("start", {"ru": "За пять минут", "en": "In five minutes"}),
        ("manifesto", {"ru": "Манифест", "en": "Manifesto"}),
