@@ -1,6 +1,6 @@
 ---
 title: Wikipedia notability and ideons
-description: A half-joking notability criterion for Wikipedia: a person or a topic is notable if their impact is at least one Vita. The general notability guideline in the language of ideons, who passes the threshold and who does not.
+description: A half-joking Wikipedia notability criterion: a person or topic is notable if their impact is at least one Vita. Who passes the threshold and who does not.
 ---
 
 # Wikipedia notability and ideons

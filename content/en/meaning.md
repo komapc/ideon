@@ -1,6 +1,6 @@
 ---
 title: Meaning
-description: What is the meaning of life: ten variants of the goal, from maximum influence to "live unnoticed", the answers of Nietzsche, Kant, the utilitarians and the Stoics, and what ideonology chooses.
+description: The meaning of life: ten variants, from maximum influence to "live unnoticed", the answers of Nietzsche, Kant and the Stoics, and what ideonology chooses.
 ---
 
 # Meaning and its variants
