@@ -1,6 +1,6 @@
 ---
 title: Hall of fame
-description: Who has shifted the most of other people's thought: from Haber, Hilleman and the prophets to the author of sudoku, the intern who wrote Solitaire and an influencer with a million followers; separately events, places and things. Fermi estimates of impact in Vitas, with the calculations.
+description: Who shifted the most of other people's thought: from Haber, Hilleman and the prophets to the author of sudoku; also events and places. Fermi estimates in Vitas.
 ---
 
 # Hall of fame: who shifted how much

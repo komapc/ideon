@@ -14,8 +14,10 @@ SITE = {"ru": "Идеонология", "en": "Ideonology"}
 LOCALE = {"ru": "ru_RU", "en": "en_US"}
 TAGLINE = {"ru": "сколько чужой мысли ты сдвинул", "en": "measuring how thoughts change other minds"}
 OG_IMAGE = f"{BASE}og.png"
-DESC = {"ru": "Идеонология измеряет, насколько ты изменил чужое мышление, с точностью до порядка: теория значимости с единицей влияния (пирс) и шкалой от одной минуты до целой жизни.",
-        "en": "Ideonology measures how much of other people's thought you shifted, to an order of magnitude: a theory of significance with a unit of impact (the peirce) and a scale from one minute to a whole lifetime."}
+DESC = {"ru": "Идеонология измеряет, насколько ты изменил чужое мышление, с точностью до порядка: теория значимости с единицей влияния (пирс) и шкалой от минуты до жизни.",
+        "en": "Ideonology measures how much of other people's thought you shifted, to an order of magnitude: a theory of significance with a unit of impact, the peirce."}
+# The root page is the language picker and the x-default of the home pages; it gets its own short bilingual description.
+ROOT_DESC = "Идеонология — теория значимости: сколько чужой мысли ты сдвинул. Ideonology, a theory of significance: how much of other people's thought you shifted."
 NAV = [("index", {"ru": "Главная", "en": "Home"}),
        ("start", {"ru": "За пять минут", "en": "In five minutes"}),
        ("manifesto", {"ru": "Манифест", "en": "Manifesto"}),
@@ -84,8 +86,23 @@ SKIP_TAGS = {"a", "h1", "h2", "h3", "h4", "h5", "h6", "code", "pre", "sub", "sup
 def anchor_glossary(body: str, lang: str) -> str:
     """Give each glossary entry an id so term links can point at it."""
     for slug, head in GLOSSARY_HEADS[lang].items():
-        body = body.replace(f"<p><strong>{head}", f'<p id="{slug}"><strong>{head}', 1)
+        # The head must end the word ("Sign (S)", "R₀, ..."), or "Sign" would land on "Significance".
+        body = re.sub(rf"<p><strong>{re.escape(head)}(?=</strong>| \(|,)", f'<p id="{slug}"><strong>{head}', body, count=1)
     return body
+
+def glossary_terms(body: str, lang: str):
+    """DefinedTerm entries from the rendered glossary: <p [id]><strong>NAME</strong> — DEFINITION</p>, exactly as shown."""
+    url = page_url(lang, "glossary")
+    terms = []
+    for m in re.finditer(r'<p(?: id="([^"]+)")?><strong>(.*?)</strong> — (.*?)</p>', body, re.S):
+        slug, name, definition = m.groups()
+        term = {"@type": "DefinedTerm", "name": html.unescape(re.sub(r"<[^>]+>", "", name)),
+                "description": html.unescape(re.sub(r"<[^>]+>", "", definition)).strip(),
+                "inDefinedTermSet": url, "inLanguage": lang}
+        if slug:
+            term["url"] = f"{url}#{slug}"
+        terms.append(term)
+    return terms
 
 def linkify_terms(body: str, lang: str) -> str:
     """Turn the first occurrence of each term into a glossary link with a tooltip."""
@@ -150,11 +167,18 @@ def lastmod(path: Path) -> str:
                          capture_output=True, text=True).stdout.strip()
     return out or date.today().isoformat()
 
+def alternates(slug: str):
+    """(hreflang, url) for every version of a page. The home pages' x-default is the root language picker;
+    every other page has no neutral version, so its x-default is English."""
+    return [("ru", page_url("ru", slug)), ("en", page_url("en", slug)),
+            ("x-default", BASE if slug == "index" else page_url("en", slug))]
+
 def write_sitemap(slugs):
-    rows = []
+    home = "".join(f'<xhtml:link rel="alternate" hreflang="{h}" href="{u}"/>' for h, u in alternates("index"))
+    root_mod = max(lastmod(CONTENT / lang / "index.md") for lang in SITE)
+    rows = [f"<url><loc>{BASE}</loc><lastmod>{root_mod}</lastmod>{home}</url>"]
     for slug in slugs:
-        alts = "".join(f'<xhtml:link rel="alternate" hreflang="{h}" href="{page_url(l, slug)}"/>'
-                       for h, l in (("ru", "ru"), ("en", "en"), ("x-default", "en")))
+        alts = "".join(f'<xhtml:link rel="alternate" hreflang="{h}" href="{u}"/>' for h, u in alternates(slug))
         for lang in SITE:
             rows.append(f"<url><loc>{page_url(lang, slug)}</loc>"
                         f"<lastmod>{lastmod(CONTENT / lang / f'{slug}.md')}</lastmod>{alts}</url>")
@@ -165,7 +189,7 @@ def write_sitemap(slugs):
 def projects_html(lang: str) -> str:
     return '<p class="projects"><a href="https://lipu.dev/">lipu.dev</a></p>'
 
-def jsonld(lang: str, slug: str, title: str, description: str) -> str:
+def jsonld(lang: str, slug: str, title: str, description: str, terms=None) -> str:
     """WebSite on the home page, Article + BreadcrumbList on the rest. No author/publisher: not stated anywhere."""
     url = page_url(lang, slug)
     site = {"@type": "WebSite", "name": SITE[lang], "url": page_url(lang, "index"), "inLanguage": lang}
@@ -181,6 +205,9 @@ def jsonld(lang: str, slug: str, title: str, description: str) -> str:
                 {"@type": "ListItem", "position": 1, "name": SITE[lang], "item": page_url(lang, "index")},
                 {"@type": "ListItem", "position": 2, "name": names.get(slug, title), "item": url}]},
         ]
+        if terms:
+            data.append({"@context": "https://schema.org", "@type": "DefinedTermSet", "@id": url, "name": title,
+                         "description": description, "url": url, "inLanguage": lang, "hasDefinedTerm": terms})
     return "".join(f'<script type="application/ld+json">{json.dumps(d, ensure_ascii=False)}</script>' for d in data)
 
 def build_page(lang: str, slug: str, template: str):
@@ -192,16 +219,15 @@ def build_page(lang: str, slug: str, template: str):
     nav = " ".join(f'<a href="{s}.html"{" class=\"current\"" if s == slug else ""}>{names[lang]}</a>'
                    for s, names in NAV)
     alt_lang, alt_label = ALT[lang]
-    # hreflang must be absolute and list every version including the page itself; x-default is English
-    hreflangs = "\n".join(f'<link rel="alternate" hreflang="{h}" href="{page_url(l, slug)}">'
-                          for h, l in (("ru", "ru"), ("en", "en"), ("x-default", "en")))
+    # hreflang must be absolute and list every version including the page itself (see alternates())
+    hreflangs = "\n".join(f'<link rel="alternate" hreflang="{h}" href="{u}">' for h, u in alternates(slug))
     title = meta.get("title", slug)
     desc = meta.get("description", DESC[lang])
     # The home page's title equals the site name ("Идеонология · Идеонология"): give it a real one.
     doc_title = f"{SITE[lang]} — {TAGLINE[lang]}" if title == SITE[lang] else f"{title} · {SITE[lang]}"
     page = template.format(lang=lang, title=html.escape(title), doc_title=html.escape(doc_title), site=SITE[lang],
                            description=html.escape(desc, quote=True), og_image=OG_IMAGE,
-                           jsonld=jsonld(lang, slug, title, desc),
+                           jsonld=jsonld(lang, slug, title, desc, glossary_terms(body, lang) if slug == "glossary" else None),
                            root="../", nav=nav, body=body, url=page_url(lang, slug), hreflangs=hreflangs,
                            og_type="website" if slug == "index" else "article", locale=LOCALE[lang],
                            alt_lang=alt_lang, alt_label=alt_label, about_btn=ABOUT[lang][0], about_close=ABOUT[lang][1], about_html=ABOUT[lang][2], alt_href=f"../{alt_lang}/{slug}.html",
@@ -219,25 +245,28 @@ def main():
     shutil.copy(TPL / "og.png", DOCS / "og.png")
     for f in TPL.glob("google*.html"):  # Search Console ownership file: must stay at the site root forever
         shutil.copy(f, DOCS / f.name)
-    root_desc = html.escape(f"{DESC['ru']} / {DESC['en']}", quote=True)
+    shutil.copy(TPL / "404.html", DOCS / "404.html")  # GitHub Pages serves it, with status 404, for any missing path
+    # The root is a language picker, not a redirect: it is the x-default of the home pages and canonical to itself.
+    root_desc = html.escape(ROOT_DESC, quote=True)
+    root_alts = "".join(f'<link rel="alternate" hreflang="{h}" href="{u}">' for h, u in alternates("index"))
     (DOCS / "index.html").write_text(
         '<!DOCTYPE html><html lang="ru"><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width, initial-scale=1">'
-        '<meta http-equiv="refresh" content="0; url=ru/index.html">'
-        f'<link rel="canonical" href="{BASE}ru/"><link rel="alternate" hreflang="ru" href="{BASE}ru/">'
-        f'<link rel="alternate" hreflang="en" href="{BASE}en/"><link rel="alternate" hreflang="x-default" href="{BASE}en/">'
-        '<meta name="msvalidate.01" content="CAFA7BE0D5D83695993D635831499022">'
         '<title>Идеонология / Ideonology</title>'
         f'<meta name="description" content="{root_desc}">'
+        f'<link rel="canonical" href="{BASE}">{root_alts}'
+        '<meta name="msvalidate.01" content="CAFA7BE0D5D83695993D635831499022">'
         '<meta property="og:type" content="website"><meta property="og:site_name" content="Идеонология / Ideonology">'
         '<meta property="og:title" content="Идеонология / Ideonology">'
         f'<meta property="og:description" content="{root_desc}"><meta property="og:url" content="{BASE}">'
         f'<meta property="og:image" content="{OG_IMAGE}"><meta name="twitter:card" content="summary_large_image">'
-        f'<meta name="twitter:image" content="{OG_IMAGE}"></head>'
-        '<body><h1>Идеонология / Ideonology</h1>'
-        f'<p>{html.escape(DESC["ru"])}</p><p>{html.escape(DESC["en"])}</p>'
-        '<p><a href="ru/index.html">Идеонология (русский)</a> · <a href="en/index.html">Ideonology (English)</a></p>'
-        '</body></html>', encoding="utf-8")
+        f'<meta name="twitter:image" content="{OG_IMAGE}">'
+        '<link rel="stylesheet" href="style.css"></head>'
+        '<body><main class="picker"><h1>Идеонология / Ideonology</h1>'
+        f'<p lang="ru">{html.escape(DESC["ru"])}</p><p lang="en">{html.escape(DESC["en"])}</p>'
+        '<p class="choose"><a href="ru/" hreflang="ru" lang="ru">Читать по-русски</a>'
+        '<a href="en/" hreflang="en" lang="en">Read in English</a></p>'
+        '</main></body></html>', encoding="utf-8")
     write_sitemap([s for s, _ in NAV])
     (DOCS / ".nojekyll").touch()
     (DOCS / "CNAME").write_text(HOST + "\n")  # GitHub Pages custom domain

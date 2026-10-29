@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-description: The core of ideonology in testable form: the minute as a partition, three axioms, four rules of transmission, one conservation law, the Shapley value, R₀ and parity.
+description: The core of ideonology in testable form: the minute as a partition, three axioms, four transmission rules, a conservation law, the Shapley value, R₀, parity.
 ---
 
 # Mathematics

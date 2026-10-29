@@ -1,6 +1,6 @@
 ---
 title: Selfhood
-description: What in a person is their own and what was received from others: selfhood, why it needs no free will and does not fear determinism, and what Nietzsche, Buddhism, the Stoics and postmodernism do with it.
+description: What in a person is their own and what was received from others: selfhood, why it needs no free will, and what Nietzsche, Buddhism and the Stoics make of it.
 ---
 
 # Selfhood: what in you is yours

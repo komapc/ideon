@@ -1,6 +1,6 @@
 ---
 title: Protocol
-description: Eleven rules for counting impact, written down before the calculation, one account computed by them, the plasma donor James Harrison, and a blind recount by two independent counters.
+description: Eleven rules for counting impact, fixed before the calculation, one account computed by them (plasma donor James Harrison) and a blind recount by two counters.
 ---
 
 # Counting protocol

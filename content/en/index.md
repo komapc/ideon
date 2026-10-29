@@ -1,6 +1,6 @@
 ---
 title: Ideonology
-description: Ideonology measures how much of other people's thought you shifted, to an order of magnitude: a theory of significance with a unit of impact (the peirce) and a scale from one minute to a whole lifetime.
+description: Ideonology measures how much of other people's thought you shifted, to an order of magnitude: a theory of significance with a unit of impact, the peirce.
 ---
 
 # Ideonology
