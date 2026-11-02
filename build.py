@@ -243,6 +243,8 @@ def main():
             build_page(lang, md.stem, template)
     shutil.copy(TPL / "style.css", DOCS / "style.css")
     shutil.copy(TPL / "og.png", DOCS / "og.png")
+    for name in ("favicon.svg", "favicon.ico", "apple-touch-icon.png"):
+        shutil.copy(TPL / name, DOCS / name)
     for f in TPL.glob("google*.html"):  # Search Console ownership file: must stay at the site root forever
         shutil.copy(f, DOCS / f.name)
     shutil.copy(TPL / "404.html", DOCS / "404.html")  # GitHub Pages serves it, with status 404, for any missing path
@@ -261,7 +263,9 @@ def main():
         f'<meta property="og:description" content="{root_desc}"><meta property="og:url" content="{BASE}">'
         f'<meta property="og:image" content="{OG_IMAGE}"><meta name="twitter:card" content="summary_large_image">'
         f'<meta name="twitter:image" content="{OG_IMAGE}">'
-        '<link rel="stylesheet" href="style.css"></head>'
+        '<link rel="stylesheet" href="style.css">'
+        '<link rel="icon" href="favicon.ico" sizes="48x48"><link rel="icon" href="favicon.svg" type="image/svg+xml">'
+        '<link rel="apple-touch-icon" href="apple-touch-icon.png"></head>'
         '<body><main class="picker"><h1>Идеонология / Ideonology</h1>'
         f'<p lang="ru">{html.escape(DESC["ru"])}</p><p lang="en">{html.escape(DESC["en"])}</p>'
         '<p class="choose"><a href="ru/" hreflang="ru" lang="ru">Читать по-русски</a>'
