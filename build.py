@@ -12,12 +12,15 @@ HOST = "ideon.lipu.dev"
 BASE = f"https://{HOST}/"
 SITE = {"ru": "Идеонология", "en": "Ideonology"}
 LOCALE = {"ru": "ru_RU", "en": "en_US"}
-TAGLINE = {"ru": "сколько чужой мысли ты сдвинул", "en": "measuring how thoughts change other minds"}
+# The home pages' titles carry the search phrases; the root picker deliberately does not.
+TAGLINE = {"ru": "теория значимости: как измерить влияние идеи", "en": "measuring the impact of an idea on other minds"}
 OG_IMAGE = f"{BASE}og.png"
 DESC = {"ru": "Идеонология измеряет, насколько ты изменил чужое мышление, с точностью до порядка: теория значимости с единицей влияния (пирс) и шкалой от минуты до жизни.",
         "en": "Ideonology measures how much of other people's thought you shifted, to an order of magnitude: a theory of significance with a unit of impact, the peirce."}
-# The root page is the language picker and the x-default of the home pages; it gets its own short bilingual description.
-ROOT_DESC = "Идеонология — теория значимости: сколько чужой мысли ты сдвинул. Ideonology, a theory of significance: how much of other people's thought you shifted."
+# The root page is the language picker and the x-default of the home pages. Its text is neutral and bilingual
+# (name + "choose a language"); it is not meant to rank, /ru/ and /en/ carry the content and the search phrases.
+ROOT_TITLE = "Ideonology · Идеонология"
+ROOT_DESC = "Ideonology · Идеонология: choose English or Russian · выберите английский или русский."
 NAV = [("index", {"ru": "Главная", "en": "Home"}),
        ("start", {"ru": "За пять минут", "en": "In five minutes"}),
        ("manifesto", {"ru": "Манифест", "en": "Manifesto"}),
@@ -252,24 +255,24 @@ def main():
     root_desc = html.escape(ROOT_DESC, quote=True)
     root_alts = "".join(f'<link rel="alternate" hreflang="{h}" href="{u}">' for h, u in alternates("index"))
     (DOCS / "index.html").write_text(
-        '<!DOCTYPE html><html lang="ru"><head><meta charset="utf-8">'
+        '<!DOCTYPE html><html lang="mul"><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width, initial-scale=1">'
-        '<title>Идеонология / Ideonology</title>'
+        f'<title>{ROOT_TITLE}</title>'
         f'<meta name="description" content="{root_desc}">'
         f'<link rel="canonical" href="{BASE}">{root_alts}'
         '<meta name="msvalidate.01" content="CAFA7BE0D5D83695993D635831499022">'
-        '<meta property="og:type" content="website"><meta property="og:site_name" content="Идеонология / Ideonology">'
-        '<meta property="og:title" content="Идеонология / Ideonology">'
+        f'<meta property="og:type" content="website"><meta property="og:site_name" content="{ROOT_TITLE}">'
+        f'<meta property="og:title" content="{ROOT_TITLE}">'
         f'<meta property="og:description" content="{root_desc}"><meta property="og:url" content="{BASE}">'
         f'<meta property="og:image" content="{OG_IMAGE}"><meta name="twitter:card" content="summary_large_image">'
         f'<meta name="twitter:image" content="{OG_IMAGE}">'
         '<link rel="stylesheet" href="style.css">'
         '<link rel="icon" href="favicon.ico" sizes="48x48"><link rel="icon" href="favicon.svg" type="image/svg+xml">'
         '<link rel="apple-touch-icon" href="apple-touch-icon.png"></head>'
-        '<body><main class="picker"><h1>Идеонология / Ideonology</h1>'
-        f'<p lang="ru">{html.escape(DESC["ru"])}</p><p lang="en">{html.escape(DESC["en"])}</p>'
-        '<p class="choose"><a href="ru/" hreflang="ru" lang="ru">Читать по-русски</a>'
-        '<a href="en/" hreflang="en" lang="en">Read in English</a></p>'
+        f'<body><main class="picker"><h1><span lang="en">Ideonology</span> · <span lang="ru">Идеонология</span></h1>'
+        '<p><span lang="en">Choose a language</span> · <span lang="ru">Выберите язык</span></p>'
+        '<p class="choose"><a href="en/" hreflang="en" lang="en">Read in English</a>'
+        '<a href="ru/" hreflang="ru" lang="ru">Читать по-русски</a></p>'
         '</main></body></html>', encoding="utf-8")
     write_sitemap([s for s, _ in NAV])
     (DOCS / ".nojekyll").touch()
