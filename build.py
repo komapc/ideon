@@ -15,6 +15,9 @@ LOCALE = {"ru": "ru_RU", "en": "en_US"}
 # The home pages' titles carry the search phrases; the root picker deliberately does not.
 TAGLINE = {"ru": "теория значимости: как измерить влияние идеи", "en": "measuring the impact of an idea on other minds"}
 OG_IMAGE = f"{BASE}og.png"
+# Alt text of og.png: the lines the image shows, in the page's language (the root picker gets both).
+OG_IMAGE_ALT = {"ru": "Идеонология. Теория значимости с точностью до порядка. 1 пирс — одна чужая минута, целиком твоя",
+                "en": "Ideonology. A theory of a person's significance, to an order of magnitude. 1 peirce — one minute of someone else's, wholly yours"}
 DESC = {"ru": "Идеонология измеряет, насколько ты изменил чужое мышление, с точностью до порядка: теория значимости с единицей влияния (пирс) и шкалой от минуты до жизни.",
         "en": "Ideonology measures how much of other people's thought you shifted, to an order of magnitude: a theory of significance with a unit of impact, the peirce."}
 # The root page is the language picker and the x-default of the home pages. Its text is neutral and bilingual
@@ -229,7 +232,7 @@ def build_page(lang: str, slug: str, template: str):
     # The home page's title equals the site name ("Идеонология · Идеонология"): give it a real one.
     doc_title = f"{SITE[lang]} — {TAGLINE[lang]}" if title == SITE[lang] else f"{title} · {SITE[lang]}"
     page = template.format(lang=lang, title=html.escape(title), doc_title=html.escape(doc_title), site=SITE[lang],
-                           description=html.escape(desc, quote=True), og_image=OG_IMAGE,
+                           description=html.escape(desc, quote=True), og_image=OG_IMAGE, og_image_alt=html.escape(OG_IMAGE_ALT[lang], quote=True),
                            jsonld=jsonld(lang, slug, title, desc, glossary_terms(body, lang) if slug == "glossary" else None),
                            root="../", nav=nav, body=body, url=page_url(lang, slug), hreflangs=hreflangs,
                            og_type="website" if slug == "index" else "article", locale=LOCALE[lang],
@@ -253,6 +256,7 @@ def main():
     shutil.copy(TPL / "404.html", DOCS / "404.html")  # GitHub Pages serves it, with status 404, for any missing path
     # The root is a language picker, not a redirect: it is the x-default of the home pages and canonical to itself.
     root_desc = html.escape(ROOT_DESC, quote=True)
+    root_alt = html.escape(f"{OG_IMAGE_ALT['en']} · {OG_IMAGE_ALT['ru']}", quote=True)
     root_alts = "".join(f'<link rel="alternate" hreflang="{h}" href="{u}">' for h, u in alternates("index"))
     (DOCS / "index.html").write_text(
         '<!DOCTYPE html><html lang="mul"><head><meta charset="utf-8">'
@@ -264,8 +268,9 @@ def main():
         f'<meta property="og:type" content="website"><meta property="og:site_name" content="{ROOT_TITLE}">'
         f'<meta property="og:title" content="{ROOT_TITLE}">'
         f'<meta property="og:description" content="{root_desc}"><meta property="og:url" content="{BASE}">'
-        f'<meta property="og:image" content="{OG_IMAGE}"><meta name="twitter:card" content="summary_large_image">'
-        f'<meta name="twitter:image" content="{OG_IMAGE}">'
+        f'<meta property="og:image" content="{OG_IMAGE}"><meta property="og:image:alt" content="{root_alt}">'
+        f'<meta name="twitter:card" content="summary_large_image">'
+        f'<meta name="twitter:image" content="{OG_IMAGE}"><meta name="twitter:image:alt" content="{root_alt}">'
         '<link rel="stylesheet" href="style.css">'
         '<link rel="icon" href="favicon.ico" sizes="48x48"><link rel="icon" href="favicon.svg" type="image/svg+xml">'
         '<link rel="apple-touch-icon" href="apple-touch-icon.png"></head>'
