@@ -12,7 +12,7 @@ All figures are Fermi estimates, accurate to an order of magnitude. Which row st
 | Who | Minutes of attention | Degree | Share | Peirces | Vt |
 |---|---|---|---|---|---|
 | Typical person (median) | ~10⁷ (children, family, friends) | 0.3–1 | 0.2–0.5 | ~5 × 10⁶ | 0.2 |
-| Active Wikipedia editor | + 10⁶–10⁷ page views per year | 0.2 | 0.5 | ~1.5 × 10⁷ | 0.6 |
+| Active Wikipedia editor | + 10⁶–10⁷ page views per year × 2 min, over twenty years | 0.2 | 0.5 × authorship | ~5 × 10⁶ | 0.2, 0.6 in another twenty years |
 | James Harrison, blood donor | 4–9 thousand lives for the whole program × 2.5 × 10⁷ | 1 | 0.0003–0.07 | ~3 × 10⁷–2 × 10¹⁰ | 1–700, [by protocol](protocol.html) |
 | Donald Trump | ~10¹³ (2015–2026, worldwide) | 0.05 | 0.5 | ~2.5 × 10¹¹ | 10 k |
 | Eliezer Ben-Yehuda | ~10¹⁴ (Hebrew speakers since the 1920s) | 0.15 | 0.07 | ~10¹² | 50 k, growing |
@@ -52,7 +52,7 @@ A billion dollars buys two or three Vitas if spent on minutes, and tens of thous
 |---|---|---|---|
 | Advertising | 10¹¹ impressions × 5 s × degree 0.01 | ~0.1 | ~3 |
 | Hiring | 10⁴ person-years × 10⁵ min × 0.3 × share 0.1 | ~0.03 | ~1 |
-| Film | 300 million viewers × 160 min × 0.05 | ~10 | ~400 for the crew |
+| Film | 300 million viewers × 160 min × 0.05 | ~2.4 | ~100 for the crew |
 | Saving lives | $5,000 per life × 14 million min × share 0.5 | ~1,400 | ~50,000 |
 
 The difference between the rows is explained by one thing: the market trades in minutes, not degrees. A minute of attention has a price, about a cent, and the feed and television sell it. A degree has no market. Charity buys degrees at the price of minutes, four orders of magnitude cheaper; effective altruists noticed this first.
